@@ -1,0 +1,9 @@
+Scoping
+Changing structures in a dynamic environment
+ie, cache invalidation
+
+
+Stru tures changing over time
+Chains of behavor - structure - behavior (and other various combinations) 
+Also chains between types of noces, people and math
+
