@@ -1,0 +1,1 @@
+One of the more interesting aspects of negatives stacking and the importance of being wrong is how if affects all sorts of political interactions. As it turns out, quite surprisingly, people complaining, even in extremely vague language, 
