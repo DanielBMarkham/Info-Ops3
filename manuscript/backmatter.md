@@ -4,6 +4,7 @@ back
 
 # Glossary
 
-{[multivariate](}id: definition-multivariate}
+{id: definition-multivariate}
+{[multivariate]
 multivariate
 : lots of variables

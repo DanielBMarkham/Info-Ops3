@@ -36,5 +36,4 @@ But you know? No matter what physical reality is, brain don't care. If it did ca
 
 What we'll end up doing, now that we've established our foundation, is taking these fundamentals and comparing the with the observed situation in all three systems to see where we can create, improve, and measure learning at scale.
 
-
-Next up, how biological systems can be super-intelligent without actually knowing anything.
+Next up, how biological systems learn and how they can be super-intelligent without actually knowing anything.
