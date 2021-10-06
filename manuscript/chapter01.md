@@ -2,7 +2,8 @@
 
 # It's Time To Grow Up
 
-![We must start from a profound place of ignorance. The universe is under no obligation to make sense to you[^^grow-up-astrophysics-for-people-in-a-hurry]](resources/images/boxed-meme-quote-socrates-excellence-education.png)
+![We must start from a profound place of ignorance.\
+The universe is under no obligation to make sense to you](resources/images/boxed-meme-quote-socrates-excellence-education.png)[^^grow-up-astrophysics-for-people-in-a-hurry]
 
 Childhood is a time to be presented with overly-simply, mostly-false versions of the way things work. It's not because we don't like children; it's because overly-simple versions of things can work just as well as complex ones in a large number of situations. Don't go near traffic. Don't play with fire. Never use violence. Don't take candy from strangers. The interior angles of a triangle always add up to 180 degrees. In 1492 Columbus sailed the ocean blue. You all the numbers by counting. Fluffy must have ran away. There's a large man in a red suit riding a flying sleigh that breaks into our houses once a year and leaves presents.
 
