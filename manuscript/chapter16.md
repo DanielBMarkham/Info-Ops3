@@ -1,2 +1,2 @@
-# Section 4: How Machines Learn #
+# How Machines Learn #
 

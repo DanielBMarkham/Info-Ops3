@@ -1,4 +1,4 @@
-# Section 1: Foundations #
+# Foundations #
 
 # It's Time To Grow Up
 
@@ -99,4 +99,4 @@ It's time to intellectually grow up.
 
 [^grow-up-necessary-discussion]: There is a necessary and useful discussion to be had about the role of kooks and cranks. It's unlikely the uneducated, illiterate man digging your septic system has much to say about 18th-century Russian literature and how it was influenced by Voltaire. The problem is that this simple idea is over-applied without anybody realizing it. This is a discussion we're purposefully ignoring today, mostly because it's far too easy to game this idea to apply anywhere you desire. It deserves its own essay.
 
-[^^grow-up-astrophysics-for-people-in-a-hurry]: ![Universe quote is from "Astrophysics for People in a Hurry", Neil deGrasse Tyson (Author), 2017 ed.]<https://amzn.to/3uMAuSQ>
+[^^grow-up-astrophysics-for-people-in-a-hurry]: ![Universe quote is from "Astrophysics for People in a Hurry", Neil deGrasse Tyson (Author), 2017 ed.](https://amzn.to/3uMAuSQ)
