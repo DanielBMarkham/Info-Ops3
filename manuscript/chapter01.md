@@ -2,8 +2,7 @@
 
 # It's Time To Grow Up
 
-![We must start from a profound place of ignorance.\
-The universe is under no obligation to make sense to you](resources/images/boxed-meme-quote-socrates-excellence-education.png)[^^grow-up-astrophysics-for-people-in-a-hurry]
+![We must start from a profound place of ignorance.The universe is under no obligation to make sense to you](resources/images/boxed-meme-quote-socrates-excellence-education.png)[^^grow-up-astrophysics-for-people-in-a-hurry]
 
 Childhood is a time to be presented with overly-simply, mostly-false versions of the way things work. It's not because we don't like children; it's because overly-simple versions of things can work just as well as complex ones in a large number of situations. Don't go near traffic. Don't play with fire. Never use violence. Don't take candy from strangers. The interior angles of a triangle always add up to 180 degrees. In 1492 Columbus sailed the ocean blue. You all the numbers by counting. Fluffy must have ran away. There's a large man in a red suit riding a flying sleigh that breaks into our houses once a year and leaves presents.
 
@@ -13,7 +12,23 @@ Being simple is great. It's a gift. Being simple-minded is not. It's a curse.
 
 It's time for many of us to intellectually grow up.
 
-![Confusing correlation with causation is a game everybody plays. We have to.](resources/images/grow-up-charts.jpg)
+***
+
+![](resources/images/grow-up-charts-1.png)
+
+![](resources/images/grow-up-charts-2.png)
+
+![](resources/images/grow-up-charts-3.png)
+
+![](resources/images/grow-up-charts-4.jpg)
+
+![](resources/images/grow-up-charts-5.jpg)
+
+![](resources/images/grow-up-charts-6.jpg)
+
+![](resources/images/grow-up-charts-7.jpg)
+
+***
 
 ## How to get yourself manipulated in five easy steps
 
