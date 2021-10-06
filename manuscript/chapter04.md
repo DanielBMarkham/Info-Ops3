@@ -1,2 +1,2 @@
-# Learning Is Recursive (Sequential)
+# Learning Is Both Sequential And Recursive
 
