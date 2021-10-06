@@ -1,4 +1,4 @@
-# Wrong About Wrong: Errors Made While Identifying Errors
+# Learning Starts With Being Wrong
 
 It happened again. Somebody was wrong on the internet. And when I politely pointed out that they were wrong, I was wrong too, only in ways I could never have anticipated. I was wrong about wrong.
 I was wrong about wrong. I bet you're wrong about wrong too.

@@ -1,3 +1,5 @@
+# Learning Foundation Complete
+
 One of the more interesting aspects of negatives stacking and the importance of being wrong is how if affects all sorts of political interactions. As it turns out, quite surprisingly, people complaining, even in extremely vague language, are the bedrock of all progress of western civilzation.
 
 It's quite easy to take an instance of somebody complaining in vague terms, perhaps somebody saying "this sux!", and point out how completely useless that kind of comment is. And that's correct! All negative comments turn out to be useless. It is the comment itself that begins the process of analysis that then leads to something productive. Once we narrow down things to the point where it doesn't matter whether we act, then and only then do we add a test.

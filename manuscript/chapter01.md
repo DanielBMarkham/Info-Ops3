@@ -1,49 +1,21 @@
--# Foundations
+# Section 1: Foundations #
 
-## Our story so far....
+# It's Time To Grow Up
 
-### Info-Ops
+Childhood is a time to be presented with overly-simply, mostly-false versions of the way things work. It's not because we don't like children; it's because overly-simple versions of things can work just as well as complex ones in a large number of situations. Don't go near traffic. Don't play with fire. Never use violence. Don't take candy from strangers. The interior angles of a triangle always add up to 180 degrees. In 1492 Columbus sailed the ocean blue. You all the numbers by counting. Fluffy must have ran away. There's a large man in a red suit riding a flying sleigh that breaks into our houses once a year and leaves presents.
 
-Philosophy is applied language. It's critical to understand that concept if you want to build the right thing, whether an automated skyscraper or non-profit organization. We create useful domains of solutioning using conversations, process, and documentation based on our shared values using behavior as a deliminator. We make our lives better right now by learning what worked and didn't work in the past. Each action we take to build the right thing is better than countless other actions we take building things right.
+It's not that any of these statements are totally false. It's that we provide the little growing people we love with models simple enough that they can use with their current intellectual ability to navigate the world.[1] Life (and science) is always a process of using one rough model after another, modifying and reworking as necessary to work on more and more complex and complicated things. In fact, the secret of a good life can be thought of as keeping things as simple as possible as long as possible, but never a bit longer. Growing up means understanding how many levels and how much uncertainty is under it all, then diving down as necessary when you need something to work that's not currently working at the simplification level you're using. Otherwise don't sweat it.
 
-#### Our Team
+Being simple is great. It's a gift. Being simple-minded is not. It's a curse.
 
-- Socrates
-- Wittgenstein 
-- Chomsky/Sapir-Whorf
+It's time for many of us to intellectually grow up.
 
-#### Our tools
 
-- The dialectic
-- Structured Analysis
-- UML
+Oddly enough, true education is the opposite of what many think it is. For many, becoming educated means knowing things and feeling assured that there are no important questions left in the fields you have studied and that you have now become more capable and powerful than those without an education. In fact, true education is learning the depths of the unknowns and contradictions we observe (E pur si muove) and developing personal habits to take you and the rest of us just a little bit out of that state. It's a curiosity. It's a growing wonder at the vastness of existence and our place in it. It's a profound ignorance. It's intellectual humility. It's understanding our own limitations. It's knowing that we're never wrong in a way that we'll never be able to easily understand ourselves.[3]
+None of us have any idea where our personal evolution or the evolution of our species will take us. We all must understand logical fallacies and the tools of rhetoric and persuasion, but our grandchildren desperately need us to both use and transcend them. If you'd like this is a values or morals format, cherish and respect other human beings, most especially those you think are oversimplifying important parts of life, people you may find rude and hateful and doing your best to listen to and understand them. By doing so we understand ourselves. By understanding ourselves our own education and the education of others can continue.
+It's time to intellectually grow up.
 
-### Info-Ops II
 
-Technology is applied philosophy. It's critical to understand that concept if you want to build things right, whether it's a new science or a computer program. We create useful tools to explore and understand the universe around us based on rigorous and consistent application of philosophy inside a formal system. We make our code and and work life better right now by applying what we learned in book two to our code and processes. Each action we take to build things right is better than countless other actions we take learning about the universe around us.
-
-#### Our team
-
-- Newton
-- Peirce
-- Von Neumann
-
-#### Our tools
-
-- Programming languages
-- New coding practices
-- Architecting our own practices
-
-### Info-Ops III
-Learning is applied technology. It's critical to understand that concept if you want to build things that  learn at scale, whether a fast-growing startup or an army of intelligent robots. We create nimble adaptive systems of people or machines by applying the model of learning we're going to develop in a Bayesian or Frequentist framework. We make our systems of learning at scale better right now by applying the new and better model we've created in all of the books. Each action we take to habitually build systems that learn at scale is better than countless other actions we take teaching others what to think.
-
-#### Our Team
-
-- Nzeitche
-- Bayes, Dewey
-- Rawles
-- Many others
-
-#### Our tools
-
-- Coming up
+Don't confuse this with explaining the universe at any level of detail a child requests. It's love, not malice. If a child asks me why something is, like the sky is blue, I will explain for as long as I am able and they are interested. But I'll also point out that for all intents and purposes, it just is. Because I said so. We explain the depth of the structures and universe around us to provide a sense of wonder and curiosity, not because there's going to be a test. The child gets to choose where to go from there. (And don't get me started on Santa)
+Yes, of course there are simple, explainable and reproducible systems, otherwise science couldn't exist. The problem is that this simple idea is easily over-applied without anybody realizing it. We easily move from science to almost-science to scientific-guesswork to scientific-consensus to pseudoscience without anybody, including the practitioners, realizing it.
+There is a necessary and useful discussion to be had about the role of kooks and cranks. It's unlikely the uneducated, illiterate man digging your septic system has much to say about 18th-century Russian literature and how it was influenced by Voltaire. The problem is that this simple idea is over-applied without anybody realizing it. This is a discussion we're purposefully ignoring today, mostly because it's far too easy to game this idea to apply anywhere you desire. It deserves its own essay.
