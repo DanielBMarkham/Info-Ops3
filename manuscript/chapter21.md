@@ -1,4 +1,4 @@
--# Section 5
+-# Section 5: Rapid Integrated Human-Machine Product Development
 
-Integrated Human-Machine Product Development: Learning at Scale
+MPO for the win!
 

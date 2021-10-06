@@ -1,26 +1,49 @@
 -# Foundations
 
-On the importance of being wrong:
+## Our story so far....
 
-I make a lot of mistakes. Matter of fact, most of what I do and say is a mistake, measured by some metric. It's important to understand that, not in order to be a humble, better person or participate in a flavor-of-the-week self-improvement program, but the deeper knowledge that *everything learns by being wrong first*.
+### Info-Ops
 
-Don't believe me? Here are some places where being wrong is the most important part of existence.
+Philosophy is applied language. It's critical to understand that concept if you want to build the right thing, whether an automated skyscraper or non-profit organization. We create useful domains of solutioning using conversations, process, and documentation based on our shared values using behavior as a deliminator. We make our lives better right now by learning what worked and didn't work in the past. Each action we take to build the right thing is better than countless other actions we take building things right.
 
-- Training data and quality control for AI and Machine Learning, such as GPT-3
-- Generative Adversarial Networks, or GANS, are entirely based on being wrong quickly and adjusting, even if there's no definition at all of what defines "wrong"
-- Learning to feed yourself
-- Learning to walk
-- Forming a startup
-- Making your startup successful
-- Organizing knowledge workers
-- Keeping an organization flexible and competitive
+#### Our Team
 
-The GAN item is especially interesting because here we use the concept of wrong at huge scale and at a high rate of speed, even without really knowing what wrong means.
+- Socrates
+- Wittgenstein 
+- Chomsky/Sapir-Whorf
 
-Whether it's machine learning, organizational learning, startups, or human learning, any sort of learning at all begins with some knowledge of how you're wrong. We call this knowledge "the feedback loop". If you've worked with organization or management people very long, you'll hear them talk about feedback loops. Oh my goodness, we love our feedback loops. Unfortunately, the phrase "feedback loop", is thrown out many times into discussions without anybody having any clear idea of exactly what's involved with it.  
+#### Our tools
 
+- The dialectic
+- Structured Analysis
+- UML
 
-So to begin our journey, before we do anything else, we're going to have to talk about being wrong: In popular English, instead of saying "I was wrong", we can say screwing up, striking out, eating dirt, going down in flames. (We have so many different euphemisms for being wrong. There's a reason for that.)
+### Info-Ops II
 
-So it's being wrong, then feedback loops, then we're ready to start talking about learning at scale.
-20
+Technology is applied philosophy. It's critical to understand that concept if you want to build things right, whether it's a new science or a computer program. We create useful tools to explore and understand the universe around us based on rigorous and consistent application of philosophy inside a formal system. We make our code and and work life better right now by applying what we learned in book two to our code and processes. Each action we take to build things right is better than countless other actions we take learning about the universe around us.
+
+#### Our team
+
+- Newton
+- Peirce
+- Von Neumann
+
+#### Our tools
+
+- Programming languages
+- New coding practices
+- Architecting our own practices
+
+### Info-Ops III
+Learning is applied technology. It's critical to understand that concept if you want to build things that  learn at scale, whether a fast-growing startup or an army of intelligent robots. We create nimble adaptive systems of people or machines by applying the model of learning we're going to develop in a Bayesian or Frequentist framework. We make our systems of learning at scale better right now by applying the new and better model we've created in all of the books. Each action we take to habitually build systems that learn at scale is better than countless other actions we take teaching others what to think.
+
+#### Our Team
+
+- Nzeitche
+- Bayes, Dewey
+- Rawles
+- Many others
+
+#### Our tools
+
+- Coming up
