@@ -59,7 +59,7 @@ It's not an unexpected thing in life that members of religions and political par
 
 ![Think that the universe only consists of firmly-defined concepts held together in mathematical precision? Logical fallacies are your friend! Simply listen to the other person and point out which fallacy they're using. No further thinking required.](resources/images/grow-uplogical-fallacies.jpg)
 
-> There's nothing in life that's not multivariate and where the definitions are not in flux. Many systems of interest are chaotic.[^grow-up-yes-there-are-simple-explainable] But humans can't communicate in multivariate chaotic formulae, even if we all worked from the same definitions. Our species is always in failure mode. The only question is whether the current mode matters or not for the particular goal under discussion
+> There's nothing in life that's not [multivariate](#definition-multivariate) and where the definitions are not in flux. Many systems of interest are chaotic.[^grow-up-yes-there-are-simple-explainable] But humans can't communicate in multivariate chaotic formulae, even if we all worked from the same definitions. Our species is always in failure mode. The only question is whether the current mode matters or not for the particular goal under discussion
 
 It's important to understand our failure modes:
 
@@ -99,4 +99,4 @@ It's time to intellectually grow up.
 
 [^grow-up-necessary-discussion]: There is a necessary and useful discussion to be had about the role of kooks and cranks. It's unlikely the uneducated, illiterate man digging your septic system has much to say about 18th-century Russian literature and how it was influenced by Voltaire. The problem is that this simple idea is over-applied without anybody realizing it. This is a discussion we're purposefully ignoring today, mostly because it's far too easy to game this idea to apply anywhere you desire. It deserves its own essay.
 
-[^^grow-up-astrophysics-for-people-in-a-hurry]: ![Universe quote is from "Astrophysics for People in a Hurry", Neil deGrasse Tyson (Author),2017 ed.](https://amzn.to/3uMAuSQ)
+[^^grow-up-astrophysics-for-people-in-a-hurry]: ![Universe quote is from "Astrophysics for People in a Hurry", Neil deGrasse Tyson (Author), 2017 ed.]<https://amzn.to/3uMAuSQ>
