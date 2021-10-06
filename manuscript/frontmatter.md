@@ -70,4 +70,4 @@ Learning is applied technology. It's critical to understand that concept if you 
 
 - Coming up
 
-Note: Of necessity we must talk about all sorts of sensitive topics: religion, politics, sexuality, and so forth. I have had to provide examples in order to do this. If the reader is able to determine my political or religious leanings through these examples I ask both their indulgence and forgiveness.
+Note: Of necessity we must talk about all sorts of sensitive topics: religion, politics, sexuality, and so forth. I have had to provide examples in order to do this. If the reader is able to determine my political or religious leanings through these examples I ask both their indulgence and forgiveness. Also, there is a brobignagian plethora of street vernacular and impolite invective. I also ask the reader's forgiveness here. My goal is primarily to communicate. I believe that's best done using as much of the natural rhythm and slang as possible and as little academic circumlocations as possible.
