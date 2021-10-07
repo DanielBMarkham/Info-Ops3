@@ -2,7 +2,7 @@
 
 For reasons that can never change, it's impossible to tell somebody that they're wrong without being wrong in some way ourselves. Let's tour the wrongness zoo and find out why.
 
-![](resources/images/learning-starts-with-wrong-chart.png)[^^grow-up-astrophysics-for-people-in-a-hurry]
+![](resources/images/learning-starts-with-wrong-chart.png)
 
 It happened again. Somebody was wrong on the internet. And when I politely pointed out that they were wrong, I was wrong too, only in ways I could never have anticipated. I was wrong about wrong.
 
@@ -18,7 +18,17 @@ Wrong.  You are confusing two completely different types of communication.
 
 Perhaps "B" in the first context means one thing. The same term "B" might mean a subtly different thing in the second context. Same term "B", different underlying intentions. Language ain't math, and it's never going to be. Language is an art form we all participate in, it's an interactive nuanced performance. We perform human language for one another.
 
-> *’Twas brillig, and the slithy toves       Did gyre and gimble in the wabe: All mimsy were the borogoves,       And the mome raths outgrabe. “Beware the Jabberwock, my son!       The jaws that bite, the claws that catch! Beware the Jubjub bird, and shun       The frumious Bandersnatch!” – Jabberwocky, by Lewis Carroll*
+{blockquote}
+*’Twas brillig, and the slithy toves       
+Did gyre and gimble in the wabe: 
+All mimsy were the borogoves,       
+And the mome raths outgrabe. 
+“Beware the Jabberwock, my son!       
+The jaws that bite, the claws that catch! 
+Beware the Jubjub bird, and shun       
+The frumious Bandersnatch!” 
+– Jabberwocky, by Lewis Carroll*
+{/blockquote}
 
 Is the text above wrong or right? The question makes no sense, as this is a poem. For this particular style of poetic art (a nonsense poem), the words don't matter, only how the sounds go together.
 
@@ -75,7 +85,8 @@ Epistemology is the study of knowing things. How do we know things? What does it
 Epistemic ignorance is not simply not-knowing something; that's just ignorance. Epistemic ignorance is not knowing (or caring) that there are things to know.
 
 
-> Dear Sir,This is in reply to my complaint email. I told you that your "Acme Surefire Roadrunner-Catching Kit" which included paint, a balloon, and an anvil, did not work.
+{blockquote}
+Dear Sir,This is in reply to my complaint email. I told you that your "Acme Surefire Roadrunner-Catching Kit" which included paint, a balloon, and an anvil, did not work.
 You replied that I had not received adequate training. I should watch some of the free online webinars in how to use the kit.
 
 You are wrong sir!
@@ -85,6 +96,7 @@ Every day something bad happens to me. I fall off cliffs, I run into canyon wall
 Sincerely,
 
 Wile E. Coyote
+{/blockquote}
 
 *(The Acme guy may be correct, the coyote may actually just need more training. Or the coyote might be correct, perhaps the universe is always going to screw him over. Who's correct or not isn't our point. By ignoring all the other levels of living-language-learning, the coyote has called out the error in a way that is impossible to deal with. He knows something is wrong, but he doesn't know what type of thing is wrong. He thinks it's just the way the universe is. It's just wrong. He has no error-identification and classification system.)*
 
@@ -117,11 +129,17 @@ For our imaginary family discussion, they don't know or care about the names of 
 Most times for us regular folks it doesn't matter. Sometimes, though, it does.
 
 
-> Dear Gustoff, Village Leader In Charge Of Angry Mobs
-> This is in reply to your email from last week. I was very clear. You have unfairly accused my mom of being a witch. This resulted in her death and caused a great hardship on our family
-> You replied that there had been a fair trial, conducted by no other than the famous Sir Bedevere The Wise, Knight Of The Round Table and Adjudicator Of All Scientific Matters, found her guilty and gave her a fair sentence. You pointed out that even she agreed the sentence was just. She did weigh as much as a duck, clearly indicating she was made of wood and therefor a witch.You, sir, are wrong!
-> Feathers also float, as do small bits of bread. The great tome of Toledo tells us that witches can also be made out of butterflies. You're a bad person who never liked my mom. And that scale doesn't even look like it could work!
-> Sincerely,Carrot-Nosed Kid Who Is Also Not A Witch
+ {blockquote}
+ Dear Gustoff, Village Leader In Charge Of Angry Mobs
+ 
+ This is in reply to your email from last week. I was very clear. You have unfairly accused my mom of being a witch. This resulted in her death and caused a great hardship on our family
+ 
+ You replied that there had been a fair trial, conducted by no other than the famous Sir Bedevere The Wise, Knight Of The Round Table and Adjudicator Of All Scientific Matters, found her guilty and gave her a fair sentence. You pointed out that even she agreed the sentence was just. She did weigh as much as a duck, clearly indicating she was made of wood and therefor a witch.You, sir, are wrong!
+
+Feathers also float, as do small bits of bread. The great tome of Toledo tells us that witches can also be made out of butterflies. You're a bad person who never liked my mom. And that scale doesn't even look like it could work!
+
+Sincerely,Carrot-Nosed Kid Who Is Also Not A Witch
+{/blockquote}
 
 *(The logic here and in the accompanying movie clip is atrocious. Our email writer makes one logical fallacy after another as he points out what's wrong. But that's not his worst mistake! His mistake is not understanding the thing he's criticizing, the original scene. 
 Bedevere "teaches" the angry mob about the correct way to spot witches. Bedevere is appearing to be a teacher. Engaging in didactic, especially if the teacher is good, is a wonderful experience for the entire audience. He's asking questions back-and-forth with the crowd, as if they're all on a journey to "discover" whether she's a witch or not. He appears to be helping them. But what in fact he's doing is rhetoric: he's persuading the mob of his greatness and authority in all matters of science. The actual science or underlying reasons have nothing to do with anything. 
