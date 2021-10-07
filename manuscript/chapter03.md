@@ -90,7 +90,6 @@ Epistemic ignorance is not simply not-knowing something; that's just ignorance. 
 
 ![](resources/images/wrong-about=wrong-acme-wile.jpg)
 
-
 {blockquote}
 Dear Sir,
 
@@ -183,6 +182,8 @@ If we're clear on why we're interacting, and it's for our mutual benefit, the ne
 
 Dialectical Conflation of Domain bugs in error-spotting are when you apply the rules and thinking patterns of one level of the Ladder of Civilization to other ones by announcing the ones in-between are unimportant.
 
+![](resources/videos/../images/wrong-about-wrong-its-not-about-the-nail.png)
+
 *(It's obvious to us that the man understands what's going on and is trying to help, but his error identification and categorization system is broken. She is in pain, which is a very low-level stimulus. She is doing the best she can to express and solve that pain using language. Nobody expresses exactly what's wrong the first time they try to express it, and many of us get stuck simply saying something hurts without being able to offer any practical reason why, no matter how obvious things are to others. Instead of trying to identify and fix an error six levels away, he should just shut up and do something about her pain. Mixing up levels just ends up in frustration for all concerned. Fixable, but many times extremely difficult to pull off.)*
 
 What if you're smelly or really rude? What if you can't make a complete sentence without being crass, vulgar, ugly, racist, rude, misogynist, and so forth. Perhaps your body odor is so bad that people can't stand to be around you. You make a mistake. I respond by saying "You're wrong! I don't have to put up with abuse like this! I can't engage in any useful discourse with somebody as disgusting as you!"
@@ -206,9 +207,9 @@ It has to be that because we all come into the discussion with various abstracti
 
 There's an old joke that most programming jobs begin with specifications so ludicrous as to be absurd "Do more good stuff" might be the start of a project.
 
-*(Software developers are very familiar with the various ways technology teams can get screwed over by the organization. The vast majority of these are either Sev 2 bugs or the results of them)*
+[*(Software developers are very familiar with the various ways technology teams can get screwed over by the organization. The vast majority of these are either Sev 2 bugs or the results of them)*](resources/images/wrong-about-wrong-tom-takes-requirements.png)
 
-Some companies have project owners walled-off from coders. It's a tedious chore having conversations, so everybody tries to have as little as possible. Or a false gated-schedule is set up, where certain kinds of conversations only happen at certain times. The dialectic can't be natural, and without a natural ebb-and-flow of human interaction, it's not a dialectic at all. It's some advanced form of order-taking. 
+Some companies have project owners walled-off from coders. It's a tedious chore having conversations, so everybody tries to have as little as possible. Or a false gated-schedule is set up, where certain kinds of conversations only happen at certain times. The dialectic can't be natural, and without a natural ebb-and-flow of human interaction, it's not a dialectic at all. It's some advanced form of order-taking.
 
 Good projects have a dialectic that continues throughout all of development and deployment. They have a lot of these Sev 3 errors that come up, but the project recognizes them and quickly recovers. Bad projects have requirements. Don't have a Tom.
 
