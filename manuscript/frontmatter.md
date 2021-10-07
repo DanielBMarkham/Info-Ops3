@@ -9,10 +9,9 @@
 
 This book is full of bad ideas. It's wrong, it's mistaken, and in many cases it's so far from the truth that you'd be a fool to take it too seriously. I also believe it to be an important book if you're interested in how systems of people and machines learn at scale.
 
-I also honestly believe that it may be one of the more important books you read in your career.
+I simultaneously believe that if I do my job right, it very well may be one of the more important books you read in your career.
 
 How can both of those things be true?
-
 
 Because, at heart, learning is about mistakes. Mistakes lead to new ways of doing things which avoid future mistakes of that kind. Information is shared that we accept that prevents us from making mistakes in the first place. We create and consume yet more information that we misunderstand or misinterpret which either causes mistakes or accidentally prevents us from making mistakes, i.e. Selection bias. A good definition of an education is the establishment of lifelong habits that minimizes future mistakes and allows us to fail (and learn) in new and interesting ways. Success, in short, is defined by the lack of significant mistakes in whatever enterprise we're undertaking. Without mistakes there can be no learning.
 
@@ -70,4 +69,4 @@ Learning is applied technology. It's critical to understand that concept if you 
 
 - Coming up
 
-Note: Of necessity we must talk about all sorts of sensitive topics: religion, politics, sexuality, and so forth. I have had to provide examples in order to do this. If the reader is able to determine my political or religious leanings through these examples I ask both their indulgence and forgiveness. Also, there is a brobignagian plethora of street vernacular and impolite invective. I also ask the reader's forgiveness here. My goal is primarily to communicate. I believe that's best done using as much of the natural rhythm and slang as possible and as little academic circumlocations as possible.
+*Note: Of necessity we must talk about all sorts of sensitive topics: religion, politics, sexuality, and so forth. I have had to provide examples in order to do this. If the reader is able to determine my political or religious leanings through these examples I ask both their indulgence and forgiveness. Also, there is a brobignagian plethora of street vernacular and impolite invective. I also ask the reader's forgiveness here. My goal is primarily to communicate. I believe that's best done using as much of the natural rhythm and slang as possible and as little academic circumlocations as necessary.*
