@@ -1,5 +1,9 @@
 # Learning Starts With Being Wrong
 
+For reasons that can never change, it's impossible to tell somebody that they're wrong without being wrong in some way ourselves. Let's tour the wrongness zoo and find out why.
+
+![](resources/images/learning-starts-with-wrong-chart.png)[^^grow-up-astrophysics-for-people-in-a-hurry]
+
 It happened again. Somebody was wrong on the internet. And when I politely pointed out that they were wrong, I was wrong too, only in ways I could never have anticipated. I was wrong about wrong.
 
 I was wrong about wrong. I bet you're wrong about wrong too.
@@ -73,9 +77,13 @@ Epistemic ignorance is not simply not-knowing something; that's just ignorance. 
 
 > Dear Sir,This is in reply to my complaint email. I told you that your "Acme Surefire Roadrunner-Catching Kit" which included paint, a balloon, and an anvil, did not work.
 You replied that I had not received adequate training. I should watch some of the free online webinars in how to use the kit.
+
 You are wrong sir!
+
 Every day something bad happens to me. I fall off cliffs, I run into canyon walls, I blow myself up. In my mind, I have consulted with the Great Pumpkin, ruler of the universe. Now I understand that this is just the way life is going to be for me. No coyote anywhere will ever be able to catch any roadrunner. It is forbidden. Therefore I expect a full refund on all the money I paid.
+
 Sincerely,
+
 Wile E. Coyote
 
 *(The Acme guy may be correct, the coyote may actually just need more training. Or the coyote might be correct, perhaps the universe is always going to screw him over. Who's correct or not isn't our point. By ignoring all the other levels of living-language-learning, the coyote has called out the error in a way that is impossible to deal with. He knows something is wrong, but he doesn't know what type of thing is wrong. He thinks it's just the way the universe is. It's just wrong. He has no error-identification and classification system.)*
