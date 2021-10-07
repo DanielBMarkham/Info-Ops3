@@ -44,6 +44,8 @@ Here we have our highest-order error about wrongness: failure to understand (or 
 
 Let's take another look at our Ladder Of Civilization from the books, this time presented bottom-to-top in terms of inferences. On the left we have example lifeforms. On the right we have our nodes. In the middle is a presentation of what depends on what.
 
+![The Ladder Of Civilization, Inference Edition. As life evolves, a natural stratification happens on the way to developing science. This is true whether it involves earthlings or aliens.](resources/images/wrong-about-wrong-ladder.png)
+
 At the very top of the list we have science, our light in the darkness and the only thing any species has to explore the universe around them. At the bottom we have the most primitive life imaginable. (I called primitive life fungi. I leave the debate over what the most primitive life is to others) Evolving intelligence advances up the bar, from fungi to things we could never imagine (Multiverse builders? multi-dimensional super-intelligences?)
 
 Hopefully none of the readers are fungi, so emotions are probably the first level on the chart where we all have some shared knowledge.
@@ -76,6 +78,8 @@ We know what kinds of communication we're using (language). We know our goals mi
 
 The worst mistake was skipping levels, so skipping levels constitutes our Sev 0 errors about wrongness. Now we can now set up a categorization system for identifying bugs in our error-detection systems.
 
+![](resources/images/learning-starts-with-wrong-chart.png)
+
 ## Sev 0: Epistemic Ignorance
 
 *You don't know that there are living-language-learning interaction levels.*
@@ -84,9 +88,14 @@ Epistemology is the study of knowing things. How do we know things? What does it
 
 Epistemic ignorance is not simply not-knowing something; that's just ignorance. Epistemic ignorance is not knowing (or caring) that there are things to know.
 
+![](resources/images/wrong-about=wrong-acme-wile.jpg)
+
 
 {blockquote}
-Dear Sir,This is in reply to my complaint email. I told you that your "Acme Surefire Roadrunner-Catching Kit" which included paint, a balloon, and an anvil, did not work.
+Dear Sir,
+
+This is in reply to my complaint email. I told you that your "Acme Surefire Roadrunner-Catching Kit" which included paint, a balloon, and an anvil, did not work.
+
 You replied that I had not received adequate training. I should watch some of the free online webinars in how to use the kit.
 
 You are wrong sir!
@@ -128,17 +137,18 @@ For our imaginary family discussion, they don't know or care about the names of 
 
 Most times for us regular folks it doesn't matter. Sometimes, though, it does.
 
+![](resources/videos/xpython-shes-a-witch.mp4)
 
  {blockquote}
  Dear Gustoff, Village Leader In Charge Of Angry Mobs
- 
- This is in reply to your email from last week. I was very clear. You have unfairly accused my mom of being a witch. This resulted in her death and caused a great hardship on our family
- 
- You replied that there had been a fair trial, conducted by no other than the famous Sir Bedevere The Wise, Knight Of The Round Table and Adjudicator Of All Scientific Matters, found her guilty and gave her a fair sentence. You pointed out that even she agreed the sentence was just. She did weigh as much as a duck, clearly indicating she was made of wood and therefor a witch.You, sir, are wrong!
+
+This is in reply to your email from last week. I was very clear. You have unfairly accused my mom of being a witch. This resulted in her death and caused a great hardship on our family
+
+You replied that there had been a fair trial, conducted by no other than the famous Sir Bedevere The Wise, Knight Of The Round Table and Adjudicator Of All Scientific Matters, found her guilty and gave her a fair sentence. You pointed out that even she agreed the sentence was just. She did weigh as much as a duck, clearly indicating she was made of wood and therefor a witch.You, sir, are wrong!
 
 Feathers also float, as do small bits of bread. The great tome of Toledo tells us that witches can also be made out of butterflies. You're a bad person who never liked my mom. And that scale doesn't even look like it could work!
 
-Sincerely,Carrot-Nosed Kid Who Is Also Not A Witch
+ Sincerely,Carrot-Nosed Kid Who Is Also Not A Witch
 {/blockquote}
 
 *(The logic here and in the accompanying movie clip is atrocious. Our email writer makes one logical fallacy after another as he points out what's wrong. But that's not his worst mistake! His mistake is not understanding the thing he's criticizing, the original scene. 
