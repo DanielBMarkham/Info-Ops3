@@ -30,4 +30,9 @@ chapter27.md
 chapter28.md
 chapter29.md
 chapter30.md
+chapter31.md
+chapter32.md
+chapter33.md
+chapter34.md
+chapter35.md
 backmatter.md
