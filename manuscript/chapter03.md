@@ -52,7 +52,7 @@ Loops and circles to the rescue! To describe and reason about this particular me
 
 Once we started looking, we found these loops in all kinds of places, not just programming. Between feedback loops and systems, we've got all of modern science covered.
 
-![Six Sigma's DMAIC loop. You put greek letters on stuff, it always makes it look better.](resources/imgaes/../images/DMAIC.png)
+![Six Sigma's DMAIC loop. You put greek letters on stuff, it always makes it look better.](resources/images/DMAIC.png)
 
 ## It Gets Complicated
 
@@ -68,12 +68,12 @@ There's our loop. Let's take each node and write it out as a sentence.
 
 ![](resources/images/merta-sketch-2.png)
 
-![](resources/images/merta-sketch-3.png)
+![](resources/images/meta-sketch-3.png)
 
-![](resources/images/merta-sketch-4.png)
+![](resources/images/meta-sketch-4.png)
 
 
-![](resources/images/merta-sketch-5.png)
+![](resources/images/meta-sketch-5.png)
 
 Notice that I've not only written each node as a sentence, I've also broken the sentence up into what I consider to be meaningful chunks. Other folks might have other sentences or break them up differently. That's fine. The details here are not important. We're talking about process. Whichever choices others make, they're going to end up in the same spot we do.
 Adding Detail To Our Example Spec
