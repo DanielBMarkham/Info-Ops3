@@ -1,2 +1,2 @@
-# end main material
+# END MAIN MATERIAL
 

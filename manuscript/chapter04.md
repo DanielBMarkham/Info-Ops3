@@ -4,7 +4,7 @@
 
 ## Abductive/Inductive
 
-# Feedback loops exist in levels
+# Feedback Loops exist in levels
 Boyd's management model
 
 - learning is being wrong
