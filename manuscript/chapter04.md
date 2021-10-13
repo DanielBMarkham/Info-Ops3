@@ -1,4 +1,8 @@
-# Learning Is Both Sequential And Recursive
+# Learning Exists in Two Incompatible Types
+
+## Deductive/Inductive
+
+## Abductive/Inductive
 
 # Feedback loops exist in levels
 Boyd's management model

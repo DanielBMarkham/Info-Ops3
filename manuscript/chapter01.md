@@ -1,6 +1,7 @@
 # Foundations #
 
-# It's Time To Grow Up
+# Learning is Being Wrong
+
 
 ![We must start from a profound place of ignorance.The universe is under no obligation to make sense to you](resources/images/boxed-meme-quote-socrates-excellence-education.png)[^^grow-up-astrophysics-for-people-in-a-hurry]
 
@@ -101,3 +102,33 @@ It's time to intellectually grow up.
 [^grow-up-necessary-discussion]: There is a necessary and useful discussion to be had about the role of kooks and cranks. It's unlikely the uneducated, illiterate man digging your septic system has much to say about 18th-century Russian literature and how it was influenced by Voltaire. The problem is that this simple idea is over-applied without anybody realizing it. This is a discussion we're purposefully ignoring today, mostly because it's far too easy to game this idea to apply anywhere you desire. It deserves its own essay.
 
 [^^grow-up-astrophysics-for-people-in-a-hurry]: ![Universe quote is from "Astrophysics for People in a Hurry", Neil deGrasse Tyson (Author), 2017 ed.]<https://amzn.to/3uMAuSQ>
+
+
+
+
+
+
+# On the importance of being wrong:
+
+I make a lot of mistakes. Matter of fact, most of what I do and say is a mistake, measured by some metric. It's important to understand that, not in order to be a humble, better person or participate in a flavor-of-the-week self-improvement program, but the deeper knowledge that *everything learns by being wrong first*.
+
+Don't believe me? Here are some places where being wrong is the most important part of existence.
+
+- Training data and quality control for AI and Machine Learning, such as GPT-3
+- Generative Adversarial Networks, or GANS, are entirely based on being wrong quickly and adjusting, even if there's no definition at all of what defines "wrong"
+- Learning to feed yourself
+- Learning to walk
+- Forming a startup
+- Making your startup successful
+- Organizing knowledge workers
+- Keeping an organization flexible and competitive
+
+The GAN item is especially interesting because here we use the concept of wrong at huge scale and at a high rate of speed, even without really knowing what wrong means.
+
+Whether it's machine learning, organizational learning, startups, or human learning, any sort of learning at all begins with some knowledge of how you're wrong. We call this knowledge "the feedback loop". If you've worked with organization or management people very long, you'll hear them talk about feedback loops. Oh my goodness, we love our feedback loops. Unfortunately, the phrase "feedback loop", is thrown out many times into discussions without anybody having any clear idea of exactly what's involved with it.  
+
+
+So to begin our journey, before we do anything else, we're going to have to talk about being wrong: In popular English, instead of saying "I was wrong", we can say screwing up, striking out, eating dirt, going down in flames. (We have so many different euphemisms for being wrong. There's a reason for that.)
+
+So it's being wrong, then feedback loops, then we're ready to start talking about learning at scale.
+
