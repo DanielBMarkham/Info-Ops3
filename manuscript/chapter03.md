@@ -22,7 +22,7 @@ In fact, the more we looked at it, the more we realized that there never was rea
 
 But isn't there a better way to represent the world around us? Isn't there some way we can talk to others about how somethings cause other things that then feed off of one another? It turns out there is, and things that feed on themselves have been represented for a long time by the circle.
 
-![As far back as we can find civilization, we find people thinking of the world and universe as circular or cyclic. The ouroboros symbol, shown here, depicts a snake eating its own tail. We can date symbols like this being used to 3500+ BCE](/resources/images/snake-eating-own-tail.png)
+![As far back as we can find civilization, we find people thinking of the world and universe as circular or cyclic. The ouroboros symbol, shown here, depicts a snake eating its own tail. We can date symbols like this being used to 3500+ BCE](resources/images/snake-eating-own-tail.png)
 
 As humans emerge from babies to adults, as mankind emerges from the dim mists of time to modern man, we stop thinking of simply cause and effect and start thinking about loops. Early religions were almost all circular. As the Cylons said on Battlestar Galactica, all of this has happened before. It will happen again. It's impossible to ignore: there's something deeply mystical about circular relationship.
 
