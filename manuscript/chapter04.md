@@ -1,5 +1,10 @@
 # Learning Exists in Two Incompatible Types
 
+regular languages vs irregular languages (verified list of inputs match to verified list of operations)
+interesting that what we consider functions fp are actually languages. mixup?
+
+
+
 ## Deductive/Inductive
 context-free
 content-dependent
