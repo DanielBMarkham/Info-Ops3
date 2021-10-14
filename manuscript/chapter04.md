@@ -1,8 +1,18 @@
 # Learning Exists in Two Incompatible Types
 
 ## Deductive/Inductive
+context-free
+content-dependent
+coming up with concrete atoms and relationships and leaving the application to somebody else
+naturally maximizes mental work
+the same set of inputs has a clearly defined, static, and testable reproducible set of outputs
 
 ## Abductive/Inductive
+context-dependent
+content-free
+coming up with generalized abstract guesses and applying them everywhere
+naturally minimalizes mental work
+the same set of inputs has a loosely defined, dynamic, quasi-testable variation in outputs
 
 # Feedback Loops exist in levels
 Boyd's management model
