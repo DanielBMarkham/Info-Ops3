@@ -1,2 +1,2 @@
-# How Machines Learn #
+# Machine Learning #
 

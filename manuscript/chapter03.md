@@ -1,6 +1,6 @@
 # Learning Doesn't Work Through Feedback Loops
 
-***The phrase "feedback loop" is total bullshit. We're all going to have to keep using it anyway. Here's why.***
+***The phrase "feedback loop" idea is total bullshit. We're all going to have to keep using it anyway. Here's why.***
 
 ![](resources/images/wild-meerkat-9.jpg)
 
@@ -107,7 +107,9 @@ A database client is a type of client app? It's a concurrent app? Those top two 
 
 Well hell, Daniel, you might say, we've got that modeled. There are three major kinds of database clients: human client, API client, and message queue, remember? It's simply that the model is in error. Perhaps if we continued to add more detail we could fix it.
 
-Not only is that wrong, if you head down this path you're going to end up drawing complex, intricate diagrams that nobody, including yourself, fully understand. We only have six nodes in our graph and already we've created something that we cannot completely agree with. That ambiguity and the associated unease can easily lead us to create even more things in our diagram. People make mistakes, create inconsistencies, whenever they write things down. Writing more things down not only does not fix it, it makes the problem worse since it becomes more and more non-obvious where any problems are. Plus we're creating more and more things that can be inconsistent. Remember, we were only looking at one node, on one card, in one loop, in pseudo code. That's as high level and simple as we can make it.
+Not only is that wrong, if you head down this path you're going to end up drawing complex, intricate diagrams that nobody, including yourself, fully understand. We only have six nodes in our graph and already we've created something that we cannot completely agree with. 
+
+That ambiguity and the associated unease can easily lead us to create even more things in our diagram. People make mistakes, create inconsistencies, whenever they write things down. Writing more things down not only does not fix it, it makes the problem worse since it becomes more and more non-obvious where any problems are. Plus we're creating more and more things that can be inconsistent. Remember, we were only looking at one node, on one card, in one loop, in pseudo code. That's as high level and simple as we can make it.
 
 We need another method, some new way of thinking. Let's try this a different way, adding probabilities instead of rigid logical relationships.
 
@@ -131,6 +133,7 @@ In comparison, Probability Webs are not like that. Probability Webs are never do
 
 We can display parts of probability webs, but if they continue to operate, we can never fully comprehend them. They are not structured in a way to allow simple conversation or diagramming.
 
+{format: fsharp}
 ```fsharp
 open System
 

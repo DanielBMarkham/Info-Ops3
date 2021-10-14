@@ -182,7 +182,7 @@ If we're clear on why we're interacting, and it's for our mutual benefit, the ne
 
 Dialectical Conflation of Domain bugs in error-spotting are when you apply the rules and thinking patterns of one level of the Ladder of Civilization to other ones by announcing the ones in-between are unimportant.
 
-![](resources/videos/../images/wrong-about-wrong-its-not-about-the-nail.png)
+![](resources/videos/../images/wrong-about-wrong-its-not-about-the-nail.png
 
 *(It's obvious to us that the man understands what's going on and is trying to help, but his error identification and categorization system is broken. She is in pain, which is a very low-level stimulus. She is doing the best she can to express and solve that pain using language. Nobody expresses exactly what's wrong the first time they try to express it, and many of us get stuck simply saying something hurts without being able to offer any practical reason why, no matter how obvious things are to others. Instead of trying to identify and fix an error six levels away, he should just shut up and do something about her pain. Mixing up levels just ends up in frustration for all concerned. Fixable, but many times extremely difficult to pull off.)*
 
