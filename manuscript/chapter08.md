@@ -43,6 +43,35 @@ We have bricks, we know what the building looks like
 
 ## The Canyon
 
+Ditch-digging, the universe, and crossing the chasm of human experience; balancing invention and practicality
+
+Over the weekend I was studying the life of Martin Heidegger. Here's the super-short, mostly-wrong version: Heidegger understood language's inability to describe and ultimately deal with reality, so he used the German language's wonderful mix-and-match-word-parts to try to fix it. Using some words to fix the problem with all words is like trying to put out a fire with kerosene; the more you try, the bigger the problem gets.
+
+He ended publishing over 47 volumes. Most of his work is not published. He spent a lot of time thinking about the meaning and differences of things like being-to-meaning, being-about-meaning, being-of-meaning, being-around-meaning, and so forth (I made up these terms, but they are indicative of the types of things he spent his life on. This guy didn't do a lot of ditch-digging.)
+Wow! Great books! Think I'll wait for the Netflix 143-episode series. I like to think of Heidegger as sort of a fundamentalist pre-socratic.
+
+You can't start believing your own bullshit. Put more kindly, you have to be arrogant and smart to come up with a unique and useful idea or two. (That doesn't mean you have to be unpleasant.) However by being arrogant and smart, you're prone to taking those ideas and turning them into a lifetime of deeper and deeper digging into how arrogant and smart you are. Every philosopher that have good biographies took some great ideas and went a thousand times farther than they probably should have. It's not the fault of those people; we tend to find lost keys somewhere around the lamppost. That's not because lost keys go there, it's because that's the place we can see best. People who have these great ideas see a little part, they create their own lamppost, so of course they're going to keep looking around that lamppost to see whatever other cool things they can dig up.
+
+Still, you should never be afraid of being a bit arrogant, coming up with new stuff, or joining together old stuff into something that's either new or looks pretty cool. The world needs folks like that. Whether that's your lamppost or not, it's a cool set of keys you found that somebody might want. Just keep it all in context.
+
+With that in mind, I needed to update my understanding of how people understand the world. The canyon diagram shows that there are two basic ways of existing in and thinking about the universe you're in, abstract logical/mathematical reasoning, and flexible, totally-ambiguous spoken/performed language. Of course, all of us constantly use both of these, move around them fluidly, and join them together in various ways, but most times we are unaware. We forget this stuff, then we end up spending our life writing 47 volumes of impenetrable stuff that might be useful or might be total bullshit, nobody really knows. They'll argue about it forever.
+Heidegger tried to use more and more language, some of his own design, to make the right side of the canyon go away. Everything was ultimately political and social. Language itself existed as sort of an ultimate truth, over the centuries passing down from generation-to-generation as it tried to express itself
+
+It's not just academic philosopher types. This happens to folks writing computer programs and cloud systems as well. You come up with something pretty cool, something that gets lots of attention, then you spend far too much time riding that mechanical pony around long after your dime ran out outside the local Walmart. Other kids want to ride too.
+
+To avoid this tendency while still trying to be a worthwhile member of society, I've always sketched out any sort of abstract concept or problem I'm working on enough to find a way forward to a larger goal, then either discarded or actively tried to forget it, instead focusing entirely on the goal. From time-to-time I come back to these sketches to see if I can bang them together into something else that's cool, but once again only enough to find a way forward to a larger goal. You start focusing on your own abstractions too much, you'll end up talking to your oatmeal. You don't want to talk to your oatmeal.
+Sketch, align, reason, use, discard, rinse and repeat
+
+The canyon diagram helps me reason about the kinds of things people do, the modes of thought they have, and how different modes really follow different rules. If you don't understand those rules, you can't effectively engage with what's going on. It points out obvious things (to me), like the natural opposite of politics is science, or that total faith and total truth, while giving a happy feeling of certainty, are diametrically different things.
+
+I believe I can use this sketch to take most large movements in mankind, things like rationalism, existentialism, fideism, etc., and map them. I can even show how these movements have changed over time by tracking how their location on the diagram changes. More importantly, all conversations about building cool new stuff or fixing broken stuff live here. It's the map. That's what I needed.
+
+But however it turns out, for now I've got my modes of existence mapped into categories I can attempt to use to talk more about productive conversations. If it works past that point, that's cool. If not, I'll sketch out another one.
+
+Stay ego-free, my friends.
+
+
+
 
 
 
