@@ -1,4 +1,33 @@
-# Learning Exists in Two Incompatible Types
+# The Learning Zoo: A Map
+
+
+## Types of Reasoning
+
+### Abductive
+
+### Deductive
+
+### Inductive
+
+## Channels of Change
+
+### Direct Sensory
+
+### Memory
+
+### Argumentation
+
+### Dialectic
+
+## Channels + Reasoning + Time = Learning
+
+
+## Learning Chain Atoms
+
+## Learning is not Education
+
+
+
 
 regular languages vs irregular languages (verified list of inputs match to verified list of operations)
 interesting that what we consider functions fp are actually languages. mixup?
