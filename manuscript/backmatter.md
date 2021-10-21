@@ -15,7 +15,7 @@ consciousness
 
 {id: definition-life}
 life
-: bits of consciousness assembled inside a boundary, such that if the boundary is broken the bits of consciousness do not continue in the way they did before and never can resume that pattern afterwards. Two lifeforms (boundaries) side-by-side given the same input and environment will over time result in both a different number of bits of consciousness and a different pattern of acitivty inside the boundary, although many similarities may exist (similar lifeforms or species)
+: bits of consciousness assembled inside a boundary, such that if the boundary is broken the bits of consciousness do not continue in the way they did before never resume that pattern afterwards. Two lifeforms (boundaries) side-by-side given the same input and environment will over time result in both a different number of bits of consciousness and a different pattern of acitivty inside the boundary, although many similarities may exist (similar lifeforms or species)
 
 
 {id: definition-sentience}
