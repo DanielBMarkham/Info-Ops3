@@ -78,28 +78,6 @@ All of the arguments you hear about pure theory versus applied science boil down
 | Induction | Easily calculating he possibly infinite number of next items in a particular situation |
 | Abduction | Possible new deductive/inductive pairs to investigate |
 
-<table>
-<thead>
-    <tr>
-        <td>Type of Reasoning</td>
-        <td>What it represents</td>
-    </tr>
-    </thead>
-    
-    <tr>
-        <td>Deduction</td>
-        <td>Categorization systems and rules that relate them</td>
-    </tr>
-    <tr>
-        <td>Induction</td>
-        <td>The possibly infinite number of next items in a particular situation</td>
-    </tr>
-    <tr>
-        <td>Abduction</td>
-        <td>Possible new deductive/inductive pairs to investigate</td>
-    </tr>
-</table>
-
 ## Channels of Change
 
 Thinking about learning from the outside, those three forms of reasoning describe the magic that must somehow happen. If the "learning machine" was made of gears, how do we start the gears going? How does learning get inside a brain, however we define "brain"? Here are the levers we can pull from the outside when we want to learn to get the learning machine started.
@@ -182,7 +160,7 @@ Our top node is called "Change" There are a fixed-number of ways change comes to
 10. **Argumentation**. Neurons at a lower level of consciousness have a major disagreement about predictions or violations. The code that runs in our brains has bugs (The brain has bugs. It always has bugs. The code always works. The bugs are just more or less annoying)
 11. **Dialectic**. Neurons at a higher level of consciousness have a major disagreement about recognizing what's going on: the narrative, pain/pleasure received, what our reaction should be, or whether this current "storm" is productive. It's a kernel panic. (but it's not a brain panic. It's just a panic for this particular thought stream.)
 
-![](images/../resources/images/notional-neuron-recognize-node.jpg)
+![](resources/images/notional-neuron-recognize-node.jpg)
 
 ## Recognize
 
