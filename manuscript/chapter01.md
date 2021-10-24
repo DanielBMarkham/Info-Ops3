@@ -1,6 +1,6 @@
 # Foundations #
 
-# Learning is Being Wrong
+# Learning Leaves Comfort Behind
 
 
 ![We must start from a profound place of ignorance.The universe is under no obligation to make sense to you](resources/images/boxed-meme-quote-socrates-excellence-education.png)[^^grow-up-astrophysics-for-people-in-a-hurry]
@@ -99,7 +99,7 @@ It's time to intellectually grow up.
 
 [^grow-up-yes-there-are-simple-explainable]: Yes, of course there are simple, explainable and reproducible systems, otherwise science couldn't exist. The problem is that this simple idea is easily over-applied without anybody realizing it. We easily move from science to almost-science to scientific-guesswork to scientific-consensus to pseudoscience without anybody, including the practitioners, realizing it.
 
-[^grow-up-necessary-discussion]: There is a necessary and useful discussion to be had about the role of kooks and cranks. It's unlikely the uneducated, illiterate man digging your septic system has much to say about 18th-century Russian literature and how it was influenced by Voltaire. The problem is that this simple idea is over-applied without anybody realizing it. This is a discussion we're purposefully ignoring today, mostly because it's far too easy to game this idea to apply anywhere you desire. It deserves its own essay.
+[^grow-up-necessary-discussion]: There is a necessary and useful discussion to be had about the role of kooks and cranks. It's unlikely the uneducated, illiterate man digging your septic system has much to say about 18th-century Russian literature and how it was influenced by Voltaire. The problem is that this simple idea is over-applied without anybody realizing it. This is a discussion we're purposefully ignoring today, mostly because it's far too easy to game this idea to apply anywhere you desire. See coverage of this in the appendix.
 
 [^^grow-up-astrophysics-for-people-in-a-hurry]: ![Universe quote is from "Astrophysics for People in a Hurry", Neil deGrasse Tyson (Author), 2017 ed.]<https://amzn.to/3uMAuSQ>
 
@@ -108,9 +108,9 @@ It's time to intellectually grow up.
 
 
 
-# On the importance of being wrong:
+# Learning is Being Wrong
 
-I make a lot of mistakes. Matter of fact, most of what I do and say is a mistake, measured by some metric. It's important to understand that, not in order to be a humble, better person or participate in a flavor-of-the-week self-improvement program, but the deeper knowledge that *everything learns by being wrong first*.
+I make a lot of mistakes. Matter of fact, most of what I do and say is a mistake, measured by some metric. It's important to fully understand that, not in order to be a humble, better person or participate in a flavor-of-the-week self-improvement program, but because it contains the deeper knowledge that *everything learns by being wrong first*.
 
 Don't believe me? Here are some places where being wrong is the most important part of existence.
 

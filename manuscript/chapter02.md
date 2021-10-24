@@ -1,4 +1,4 @@
-# Learning Through Failures is a Fail
+# Precisely Identifying Failures is a Fail
 
 For reasons that can never change, it's impossible to tell somebody that they're wrong without being wrong in some way ourselves. Let's tour the wrongness zoo and find out why.
 
@@ -136,7 +136,7 @@ For our imaginary family discussion, they don't know or care about the names of 
 
 Most times for us regular folks it doesn't matter. Sometimes, though, it does.
 
-![](resources/videos/xpython-shes-a-witch.mp4)
+![](resources/videos/python-shes-a-witch.mp4)
 
  {blockquote}
  Dear Gustoff, Village Leader In Charge Of Angry Mobs

@@ -1,4 +1,10 @@
-# Feedback Loops exist in levels
+# Cynefin and the Mind-Body Problem
+
+## Cynefin
+
+## Simpson's Paradox
+
+
 Boyd's management model
 
 - learning is being wrong

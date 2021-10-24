@@ -26,9 +26,43 @@ sentience
 intelligence
 : Sentient lifeforms able to reason in abstractions over a shared medium and over periods of time exceeding those of the individual lifeforms
 
+{id: definition-cognition-storm}
+cognition storm
+: definition
 
+{id: definition-cognition-stream}
+cognition stream
+: definition
 
+{id: definition-thought}
+thought
+: definition
 
+{id: definition-cognition-stream}
+cognition stream
+: definition
+
+{id: definition-cognition-abstraction-level}
+cognition/abstraction level
+: definition
+
+{id: definition-consciousness}
+consciousness
+: definition
+
+{id: definition-life}
+life
+: definition
+
+{id: definition-sentience}
+sentience
+: definition
+
+{id: definition-intelligence}
+intelligence
+: definition
 
 # Appendix
+
+## Kooks and Cranks
 

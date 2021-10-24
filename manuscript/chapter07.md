@@ -1,4 +1,4 @@
-# Learning Exists in Abstraction Levels
+# Our Learning Journey Begins...
 
 
 ## Graphs of what we know so far
