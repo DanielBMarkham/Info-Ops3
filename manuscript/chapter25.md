@@ -1,4 +1,14 @@
 # Learning in Social Systems #
 
-# Notional Neuron Goes to Work
+# Outline
+
+## Notional Neuron Goes to Work
+
+## The MPO
+
+## The Iron Diamond
+
+## Products and Services
+
+## Scaling out Technology Teams
 
