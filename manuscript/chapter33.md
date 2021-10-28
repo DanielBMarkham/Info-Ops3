@@ -2,9 +2,19 @@
 
 # Rapid Integrated Human-Machine Product Development #
 
-MPO for the win!
+# Outline
 
-Where's your organizational defect system?
+## MPO for the win!
 
-# Notional Neuron Gets Disrupted
+## Criss-cross: applying one to the other
+
+### Where's your organizational defect system?
+### Where's your onboarding katas?
+
+### Where's your explicit inference machine?
+
+### Where's your analysis pipeline?
+
+
+## Notional Neuron Gets Disrupted
 
