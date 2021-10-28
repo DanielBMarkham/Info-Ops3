@@ -4,6 +4,10 @@
 
 # Outline
 
+## Our Story So Far
+
+
+
 ## MPO for the win!
 
 ## Criss-cross: applying one to the other
