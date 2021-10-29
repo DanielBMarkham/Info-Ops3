@@ -21,13 +21,19 @@ I realized that I had to do a lot of reckoning if I wanted to learn and talk abo
 
 Here are some topics that might seem critical for our book. I do not believe this to be the case, but I can understand where others migh disagree. I reckon I'm going to explain and use them this way. We can always pick something else later, but we gotta start somewhere. Some of these might seem silly to the average reader, but I can assure you that for many people they are not.
 
+Below I will state what I reckon in italics, then a short defense of it.
+
 ## Programming or Math is Very Different From Programming or Math
+
+*Programming or Math, I reckon it's the same thing as far as this book is concerned*
 
 I use the terms "programming" and "math" interchangeably throughout the book. I understand that there's a long list of differences, and each is much, much more complex, nuanced, and interesting than I make them out to be.
 To clarify, to me math consists of all of the grandchildren of Category Theory, wonderful place where Computer Science and mathematics join up. Both mainstream math and mainstream CS are learned and mostly understood the same down to the various forms of functions, Finite Automata and Turing Machines. CS spins off into things like the Halting Problem, Big-O notation and applications of lambda/church calculus; it beomes interested constantly-operating systems of mathematical computation, how they can be constructure and what they can be made to do. Mainstream math seems more interested in symbolic generalizations, systems of symbology, and ways of knowing/generating one system of things given another system; they are interested in the logical possibilities.
 I reckon if a mathematical system is complete, consistent, and calculable we're going to use math and programming interchangeably. I'm wrong in a lot of ways and I've learned to live with that. Somehow we must soldier on anyway.
 
-# Epistemology and Learn/Know
+# What is Learning?
+
+*I reckon learning is being able to state how things are put together and being able to do stuff.*
 
 From the "Seemingly Stupid Question Department", if we're going to study learning, what, exactly, does it mean to learn? That is not as easy of a question to answer as one might guess.
 The word "learn" is ususally used in combination with the word "know". Learning is what you do in order to know things. If you learn how to add numbers, you know addition. If you learn the names of continents, you know some geography. If you learn about Emily Dickenson, you know some poetry. If you learn fine dining, you know how to pick a wine for a meal. If you learn right from wrong, you know what choices you should make in difficult situations.
@@ -35,7 +41,15 @@ If you've noticed, I went from learn/know in a concrete setting, addition, to a 
 We're going to declare two kinds of knowing: knowing-what and knowing-how. Knowing what is being able to provide a structural answer, such as a list of things, or the way certain topics relate both to each other and a parent, such as we just did with math and programmingc. Knowing how consists of proving a recipe to create a structure or behavior. This recipe consists of steps. Each step describes an initial structure, an operation, and a desired ending structure. Tests can be provided for each step such that the practitioner can replicate the recipe on their own, given that their understanding of all of the structures involved is close enough to the person providing the recipe.
 That's a mouthful of word. Knowing-what are things you can look at and/or diagram. Knowing-how are things you can do. Each of these have their own unique ways of disagreement or misunderstanding when we share them with others, and each of them have different strategies we use to work through those disagreements or misunderstandings.
 
+## Does Anything Exist?
+
+*I reckon it doesn't matter, as long as we can do the useful stuff we want to do.*
+
+This is the famous "brain in a jar problem"
+
 ## Is Science Stuff We Know or Just Stuff We're Really Good at Guessing At?
+
+*I reckong science is just being really good at guessing shit that's going to happen when we set things up a certain way and do certain things to them*
 
 Any reasonable study of science over the last four thousand years has to conclude that whatever we call science at the time is just stuff we're really good at guessing at. Over time we've gotten better and better at guessing. For many, they don't understand the point here. If I "know" with a 99.999999999% accuracy that gravity will work in a certain way given a certain situation, I know that, right?
 
@@ -67,9 +81,13 @@ The Bayesian approach to mitigating uncertainty is by treating it probabilistica
 - The use of confidence intervals.
 - Null hypothesis significance testing (NHST) which is related to P-values.
 
-## Cynefin 
+## Cynefin
+
+*I reckon this is as good a frame as any if you insist on thinking about external realities instead of doing useful stuff. Seems besides the point, though.*
 
 ## Mind-Body Problem
+
+
 
 ## The Hard Problem of Consciousness
 
