@@ -1,20 +1,38 @@
-# Cynefin and the Mind-Body Problem
+# The Great Reckoning
 
-## Cynefin
+I grew up in a rural area. Out here, we have a word that you might have heard on radio or TV: reckon. It's a standard English word but for whatever reason I find it used much more in rural, southern, and perhaps a bit uneductated settings. It's a modifier, usually used after a pronoun, as in "I reckon I'll go down to the bank this afternoon", or "You reckon that's clean enough?"
+
+Reckon comes from navigation, and it's generally used where the speaker is unsure of their statement but feels the need to make the statement anyway. It implies a certain ambivalence or apathy towards the topic at hand. This is why it has a bit of a connotation that the speaker is uneducated. We naturally feel that educated people should know exactly what they want to say and to say it forcefully. If you're not that sure of yourself, maybe you need tpo learn more.
+
+After more than forty years of writing code, architecting systems, and working with companies doing cool stuff all over the globe, when I first sat down to write about problem-solving using computers I was faced with a problem that seemed insurmountable: every topic I touched upon seemed to have a hoard of academics at hand ready to argue that it should be defined one way or the other. They seemed quite sure of themselves and forcefully made their case. In most cases, each side had a lot going for it.
+
+This topic was important, they said and wrote. If you don't understand this topic and have the proper definitions in place, how can you move forward? In many areas there were unsolved problems that looked like they might remain unsolved for decades to come.
+
+I spent several years mid-career trying to speak and write around these topics. Frankly, it hurt both my learning ability and my ability to communicate well with others. Sometimes you're unsure of a statement but need to make it anyway. Describing the twelve ways you *could* state things isn't helping anybody. You need to start reckoning. Authors do this all of the time, whether we realize it or not. Some examples:
+
+- I reckon one day it might be possible to go faster than the speed of light, it just might be hundreds of years from now.
+- I reckon Frodo is never going to make it all the way to Mordor with that ring.
+- I reckon the universe is about ten billion years old, and started with hyper-inflation.
+- I reckon we're going to be stuck with more urban unhappiness as long as we keep this certain policy.
+
+In each case, the reader and writer are forced to take some sort of stand, place a stick in the ground, in order to move on. In some cases these reckonings are critical to the story or hypothesis. In some cases they could either be true or not; it's more important to our narrative that a stand be taken than it is what that actual stand is.
+
+I realized that I had to do a lot of reckoning if I wanted to learn and talk about complex topics, otherwise I could write books worth of material and never get anywhere near where I wanted the reader and I to go. I have done so here. I try to call these out and provide plenty of resources for further investigation. I've also tried to pick conclusions and the assumptions/reckonings that go into them in such a way that you could change up the assumptions and still argue your way to the same conclusion. Frankly, I've just picked the assumptions that are easier to understand. I reckon they'll have to do for now.
+
+Here are some topics that might seem critical for our book. I do not believe this to be the case, but I can understand where others migh disagree. I reckon I'm going to explain and use them this way. We can always pick something else later, but we gotta start somewhere. Some of these might seem silly to the average reader, but I can assure you that for many people they are not.
+
+# Epistemology and Learn/Know
+
+
+
+## Cynefin 
+
+## Mind-Body Problem
+
 
 ## Simpson's Paradox
 
 
-Boyd's management model
-
-- learning is being wrong
-- learning is not never about text, it's always about doing (but text can get you started at a higher level than before)
-text exists as placeholders for concepts we may or may not know. It's impossible for the sender our livesk, the same words have vasly diferent meanings in different contexts, and the foundations of these concepts are continually changing over time
-- learning is about being wrong (doing) inside an adaptive system (learning is management/evolution)
-- Feedback loops are what we call these adaptive systems in action. What we call feedback loops are webs of interaction
-- leraning is sequential and recursive
-
-books. transferring learning to another using words is not learning. see-do-practice is learning. text can get you started but that's all
 
 Learning exists along a spectrum
 the unknown of the unrepresentable
@@ -28,27 +46,4 @@ language is infiniitely abstractable and hierarchical
 we get language for a thing when it moves from unknown of the unrepresentable to chaos
 math helps us the last of the way
 at some point, it's all automated and mathematical and it disappears because nobody thinks of it
-
-Learning comes in two ways
-language
-formal systems
-
-
-everything's always a mix
-
-learning can exist in the purely abstract and the purely abstract language or the purely concrete math
-
-
-
-
-
-
-
-
-# Learning is Both Sequential and Recursive
-
-
-
-TO DO: Write Essay Here
-
 
