@@ -1,6 +1,6 @@
 # Learning in Social Systems #
 
-# Outline
+# Remaining Topics in Social System Learning
 
 ## Notional Neuron Goes to Work
 

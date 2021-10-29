@@ -46,7 +46,26 @@ I'm no Newton. I'm not even close. When we get to learning and science later in 
 As we'll see over and over again, living our day-to-day lives is a pretty natural and easy thing to do. As we take that natural world and scale it way far down into the quantum world or way far up into cosmology, it gets freaky. The details start to matter a lot. The same thing happens when we talk about scaling up the complexity, speed, or size of computer systems. It happens when we tease apart what it means to learn or know anything. Details, edge cases, and oddball stuff we can observe but not understand will destroy our progress if we obsess on them. We may live in a giant simulation that was only created five minutes ago, but it's still our universe and we are required to deal with it as best as we can. We don't have to understand everything, we just have to have good enough guesses that work with one another in order to move forward. I am reminded of a phrase I heard in a movie once. "Yeah, that guy may be a real asshole, but he's *our* asshole".
 ## The Bayesians versus the Frequentists: Cage Match!
 
+If you thought the tabs-versus-spaces guys in programming were going to argue forever, that's nothing compared to the long-running fight between the Frequentists and the Bayesians.
 
+Here's a rough swag at explaining the differences:
+
+***[Ed: the following is pulled verbatim from a blog. Need to restate as the book develops.]***
+
+### Use of Prior Probabilities
+
+The use of prior probabilities in the Bayesian technique is the most obvious difference between the two. Frequentists believe that there is always a bias in assigning probabilities which makes the approach subjective and less accurate. Bayesians, on the other hand, believe that not assigning prior probabilities is one of the biggest weaknesses of the frequentist approach.
+
+### Data Prediction
+
+Since the Frequentists don’t believe in assigning prior probabilities, their estimate is based on the maximum likelihood point. Bayesians, on the other hand, have a complete posterior distribution over possible parameter values. This allows them to account for the uncertainty in the estimate by integrating the entire distribution, and not just the most likely value.
+
+### Mitigating Uncertainty
+
+The Bayesian approach to mitigating uncertainty is by treating it probabilistically. Frequentists don’t have that luxury. However, this doesn’t mean that there is no uncertainty in the frequentist approach. The estimate derived from sample data can, and is often, wrong. In order to mitigate this uncertainty, Frequentists use two techniques.
+
+- The use of confidence intervals.
+- Null hypothesis significance testing (NHST) which is related to P-values.
 
 ## Cynefin 
 
