@@ -1,6 +1,6 @@
 # Machine Learning #
 
-# Outline
+# Remaining Topics in Machine Learning
 
 ## A Tour of Current Machine Learning
 

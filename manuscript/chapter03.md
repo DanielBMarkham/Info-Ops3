@@ -1,328 +1,63 @@
-# Learning Doesn't Work Through Feedback Loops
+# Learning Exists in Natural Levels (Boyd)
 
-***The phrase "feedback loop" idea is total bullshit. We're all going to have to keep using it anyway. Here's why.***
+*No matter what kind of organization you have or want, management doesn't go away. It's something to do and it's a skill and talent that some folks have to develop so that everybody overall can do better. How do you classify those skills?*
 
-![](resources/images/wild-meerkat-9.jpg)
+![](resources/images/levels-boyd-ooda.jpg)
 
-We make a lot of bad decisions in organization and system design because of the way our heads are shaped. It's not our fault, but to fix it we have to understand it.
+Is there a system for being a good fighter pilot? You might think that with the requirement that fighter pilots act almost instantly, engage in super-complex continuous maneuvers in multiple dimensions that the idea of having a "process" wouldn't work at all.
 
-I have been using the phrase "feedback loop" for my entire career. An immature way to look at the world, simplifying as much as humanly possible, is in terms of cause and effect. We do A, doing A makes B happen. It's so simple that it's built into all lifeforms. Plants grow one way, they get more sun. Every now and then, herd creatures like deer or meerkats stop what they're doing, pop their heads up, and look for predators.
+In the 1950s, the United States Air Force "grew" what many consider the greatest fighter pilot of all, John Boyd. Boyd was self-taught. Not only did he beat everybody the Air Force could throw at him, he was determined to research and figure out how he was able to perform so well.
 
-There's no programming language or master plan required for this. Thing A happens. It makes thing B happen. Over time lifeforms that embrace A->B in certain environments breed better than those who don't.
+From that study, he came up with the OODA model.
 
-When we observe, make notes, talk about, and study things around us, we think in the same format. It's not surprising. Various things in life are just strings of causality; D->E->G->H. Our job as natural philosophers and scientists is simply categorizing those things and events, then describing the various chains that we've categorized.
+![A simple version of the OODA loop](resources/images/levels-simple-ooda-loop.png)
 
-![As soon as people started talking about one thing causing another, we asked "Why?" If there's always cause and effect, what is the ultimate cause of everything? The study of ultimate causes, reasoning backwards from cause and effect, is called teleology.](resources/images/origins-of-teleology.png)
+Like countless other models before and after OODA, it consisted of a loop. There's an old joke somewhere that you can't teach management theory unless you have a loop in there somewhere, and so far it's turning out to be true. But while the structure and flow of Boyd's model may work or not work, his categories seem to be something else entirely.
 
-This works very well for many people and is our default way of talking about the world. It worked for mankind as a whole for tens of thousands of years, up until just relatively recently. But over time, as various species went extinct, the weather was found to be different from place-to-place, risk was understood as a separate concept among populations than individual, we began to realize that in some systems many things happen in cycles. The rain brings plants and ponds, ponds evaporate water into the sky, water in the sky brings rain. It's a cycle, not a straight line.
+No matter what we're doing, whether it's fighting in a plane or figuring out a marketing campaign for next quarter, all of us need to Observe, Orient, Decide, and Act. We also need to do those things in a more or less continuous and ever-evolving fashion.
 
-Things are all interlocked. Many scientists and philosophers stopped talking about cause and effect and started talking about systems of things. We don't have a forest; we have an ecosystem. Things we do to one plant affect other plants and animals, and eventually down the road the end result of all of that causality directly affects. We live in a cycle with everything around us, whether biological or otherwise. The universe is full of all kinds of interlocking systems.
+In my mind, management is the skill of removing obstacles for people and teams to succeed. Those obstacles, however, are not all the same. Let's use those Boyd's categories to talk about "levels" or types of management. We'll use a programming team as an example.
 
-In fact, the more we looked at it, the more we realized that there never was really any such thing as cause and effect, it was simply a useful fiction. "No man is an island" is a catchy phrase used to describe that. As far as we know, every atom in the universe is gravitationally affected by every other atom. Cause and effect just isn't dead. We use cause and effect as a prop, an intellectual crutch. It's a child's tale told in order not to spend your life diving deep into things that don't matter to you. A fable. It's a useful fiction. Or, if you prefer, cause and effect do exist, it just exists among billions of interlocking variables spread out over creation. It's non-comprehensible. We are forced to use cause and effect because we can't process things otherwise.
+Management seems to happen when these categories come in pairs. Remember: Management is a skill, like negotiation, interviewing, database management, UX, or a thousand other skills. It's not a role. It's not a role because roles coordinate skills into something useful. Management is just another of those skills that can and should be used no matter what else you're doing.
 
-But isn't there a better way to represent the world around us? Isn't there some way we can talk to others about how somethings cause other things that then feed off of one another? It turns out there is, and things that feed on themselves have been represented for a long time by the circle.
+**Decide-Act**. A pair programming team decides what to do next. That decision is codified by a test. They act to create the test, and as they create the test and integrate it into the rest of their formal model (hopefully!) that is the coding system, that action changes the testing decision, both current and previous. There's a back-and-forth between testing and coding, deciding and acting. That back-and-forth dynamic is what happens when we manage the code. (Interestingly enough, it also happens without formal TDD or pair programming. The only difference is that the "test" is either the code failing or the coder looking at something and not liking it. Also note that the test doesn't have to be executable. "It doesn't meet our coding standards" is something that can be tested. The word "test" is being used in a wide fashoin here.)
 
-![As far back as we can find civilization, we find people thinking of the world and universe as circular or cyclic. The ouroboros symbol, shown here, depicts a snake eating its own tail. We can date symbols like this being used to 3500+ BCE](resources/images/snake-eating-own-tail.png)
+But what happens if they can't decide? They can't pick out a small test, or the tests they have don't seem to be able to be reconfigured to meet the rest of the systems or the standards. That's a Decision-Action management problem. Like all management problems, it's either handled there or given off to the next one up the chain.
+When you get hung up on Decide-Act, it's because your decisions and actions don't work together. The system fails, you can't code it, it's not doing what it's supposed to do, and so on. You need help on figuring out how to make better decisions.
 
-As humans emerge from babies to adults, as mankind emerges from the dim mists of time to modern man, we stop thinking of simply cause and effect and start thinking about loops. Early religions were almost all circular. As the Cylons said on Battlestar Galactica, all of this has happened before. It will happen again. It's impossible to ignore: there's something deeply mystical about circular relationship.
+![Whether you're fighting in jets, kicking off a startup, or managing a multi-billion dollar ten-year project, everybody uses the OODA loop. It is context and scale free](resources/images/levels-fighter-jet-ooda-loop.jpg)
 
-Which brings us to feedback loops.
+**Orient-Decide**.  The next level of back-and-forth is between where we are, what our goals are — and how to make the decisions needed to get there. This implies that as we move up in management levels/skills, we're responsible for both broader concepts and more "fuzzy" ideas. We're specifically responsible for taking those broader concept and fuzzy ideas and translating them into something more immediately useful to folks up and down the chain.
 
-## The Classic Loop
+I assert witout support that (using our programming team example) these guys should code. They should also be able to work at the next highest level. Working at a level lower on a regular basis is the only way to understand the true nature of the problems people face instead of how they might express those problems. Working up a level both helps "manage up" and trains somebody for a future in the organization. Everybody is a manager in form form or fashion and everybody should be fluent at the level above and below where they work.
 
-Let's take a look at a user asking the database for something, but the database is broken. Almost everybody who has learned to program was told that programming was "making a list of things for the computer to do". It looks like this.
+When you get hung up on Orient-Decide, it's because you're doing a (perhaps) great job at your tactical game, but you suck at strategy. That is, you can code most whatever you want to, and it works and fits in with the rest of the system. It's just not held together in any kind of overall sense that fits some kind of master plan. You don't have a problem executing. You have a problem organizing what you're executing.
 
-![A depiction of classic, straight-line cause-and-effect, the kind all of us use in our day-to-day life.](resources/images/2021-10-12-feedback-loops-linear.png)
+![Like every other philosopher and super cool concept we've run across in our work, Boyd took what he had and kept trying to move it to the next level, adding more and more detail as he was called upon to teach at top gun school and for other warfighting commanders](resources/images/levels-more-complex-ooda.svg)
 
-You could almost write this directly to code, at least if you're using an imperative language.
+**Observe-Orient**. What information do we have that leads us to the need to change? Why is a change necessary? How do we use that information both to position ourselves in the universe and figure out where we want to go?
 
-![As long as it's pseudo-code, this programming stuff is pretty easy!](resources/images/2021-10-12_6-26-20.png)
+When you have a Observe-Orient obstacle, it's not because you're not awesome at making multi-month, large projects happen. It's because they don't make anything useful and/or don't change realtime as conditions change around you. You've got a system for large, perhaps long-lived plans and you're rocking it, it's just not connected to what's happening in the real world. You are too internally-focused. Perhaps (probably) with an over-reliance on tools to do a lot of advanced naval-gazing.
 
-Of course, there's no code here, but it represents a very simple idea. "Query the database. If it's busy, do it later". In fact, instead of asking the use to ask again later, we can just automate that.
+**Act-Observe**. Ya, it's a loop. Or to put this more accurately, everything affects everything else. If we think about it in a loop or linear sense, at least we can organize things well enough to teach and talk about them
 
-![If the database is busy, automate the retry. This will make things easier for them! Yay computers!](resources/images/2021-10-12_6-30-11.png)
+You are creating structures that implement behaviors that everybody in the organization wants. Yay you! But there's no feedback in place from what you're doing to everybody else. There's no DevSecOps pipeline with a dashboard (So that others who are making decisions can track your decisions and their impact on the org). There's no freeform reporting of problems (so that others can begin orientation by looking at multiple streams of execution for patterns). There's no instrumentation, telemetry, or active participation in the user audience with the people you're trying to help (so that others can see where the org is in relation to the rest of the universe).
 
-Even though everything looks brutally simple, facile even, and we're doing something almost every programmer since the Univac has done, we've actually actually stumbled into a really interesting new concept that humans haven't really explored that much because up until the last hundred of years or so we've lacked the ability to create vastly-complex systems of logic: the Metastable Failure.
+In  a way, the primary thing for each of these levels to do is communicate freeform (not prepackaged computer forms) to everybody else about what's going on. The secondary thing for each of these levels to do is their job. Put another way, you have to repeat where you are, what you think you're doing, and why you can't (or can) do it. You have to do that using your own voice, mind, attitude, and worldview. After that, it's up to yourself and everybody else to process that into something useful. When there are obstacles in that processing, the skill of management helps the organization plan and evolve past them.
 
-The problem is that if the database can service the query because its busy servicing a bunch of other queries, not only does it fail for you, because it has this huge stack of work to do that's only getting bigger, it's always going to fail. As a programmer you didn't do anything wrong. The database is not in error or broken in any way. But the entire system is failing and is in a stable state such that it will never recover.
+## Levels in Management Conclusions
 
-Loops and circles to the rescue! To describe and reason about this particular metastable failure,  let's put this situation into a loop, a Feedback Loop.
+In this way, the more we think of management as a fixed, trainable, or structured field of study, the worse we'll do at it. The more we think of it as a mix-and-match art form, the better we'll be. I'm not saying that there's nothing to learn, there's a ton of really useful things. (Actually there's far too much for anybody to learn). I'm saying that management happens when we dynamically assemble all of those things to do what we want. It's jazz. It fails when we make it classical music. Lots of the really cool skills are like that.
 
-![In many situations, the thing that we do comes back around to us in circuitous, oblique ways to cause us to do it again. Like our old friend the ouroboros, the snake eats its tail. Everything that has happened will continue to happen. Forever.](resources/images/2021-10-12-feedback-loops-classic.png)
+We can also see that management happens when we interact with the other semantic categories. And we're always forced to do that. This has nothing to do with the problem, size of organization, or kind of work. Even one guy who's not part of any organization sitting down in front of an IDE is in this same place.
 
-Once we started looking, we found these loops in all kinds of places, not just programming. Between feedback loops and systems, we've got all of modern science covered.
+You can't just code, no matter what you're coding. At the very basic level, you think of something cool and what kinds of tech and style that you want. You might do that ahead of time or you might change it on the fly. You might make these plans based on the skills and experiences you think the job market needs.
 
-![Six Sigma's DMAIC loop. You put greek letters on stuff, it always makes it look better.](resources/images/DMAIC.png)
+You're doing all of this all of the time. You're self-managing. That's the best indicator we have that Boyd was on to something a lot more important than just how to be a good fighter pilot.
 
-## It Gets Complicated
+P.S. You may be wondering how all of this fits in with our earlier model and discussion around the MPO and scaling out Product Development. Of course, it doesn't have to fit in at all: models are useful until they aren't. Pick 'em up, use them for what you need them for, discard them. But scale and context-free models tend to be able to compose and assemble together. Sometimes joining them up give us a new context and scale-free view of something we couldn't see otherwise.
 
-If you remember when we talked about Boyd and management theory, I mentioned that once he created his OODA loop, as he studied and looked into things further, the image got more and more complicated.
+![You are here. The above essay addresses this area of Product Development. Skills (on the left) you use anywhere in much the same way. Activities and Conversations (top row) have their own unique characteristics](resources/images/levels-you-are-here.png)
 
-![The more Boyd dug into things, the more he realized that everything affects everything else, including all of the items in his diagram! Once you start mapping that, you realize that other things affect those things, and so on, ad infinitum. Intellectual work is infinitely divisible. [math and other physical systems, however, are decomposable]](resources/images/OODA.Boyd.svg)
-
-Let's take our metastable database problem and analyze it a little further. Let's say we were sketching this problem out, as if we were trying to solve it using a napkin.
-
-![Good things happen when you switch from graphical reporting/display tools to simply sketching solely to drive conversations.](resources/images/meta-sketch-1.png)
-
-There's our loop. Let's take each node and write it out as a sentence.
-
-![](resources/images/merta-sketch-2.png)
-
-![](resources/images/meta-sketch-3.png)
-
-![](resources/images/meta-sketch-4.png)
-
-
-![](resources/images/meta-sketch-5.png)
-
-Notice that I've not only written each node as a sentence, I've also broken the sentence up into what I consider to be meaningful chunks. Other folks might have other sentences or break them up differently. That's fine. The details here are not important. We're talking about process. Whichever choices others make, they're going to end up in the same spot we do.
-Adding Detail To Our Example Spec
-
-![](resources/images/lady-icon.png)
-
-Here we have our client, the person who wants to query the database. We even have a little icon and everything! [insert more warnings here about how graphical tools tend to lock you down to one way of looking at things]
-
-But wait, is "database client" really a person? Database clients can be anything, right?
-
-![](resources/images/grey-client.png)
-
-Well hell, that's great, we've taken the little icon of the person out, but it really doesn't haven't learned anything. The purpose of sketching things out is to understand problems in order to solve them. What kind of client? When do they use the database? We need more detail, so let's add some.
-
-![](resources/images/client-org-tree.png)
-
-It's a database client. For starters, let's say there are three major kinds of database clients: human client, API client, and message queue.
-
-That tells me how the actors relate to being a client, but how does a client relate to other things in the system?
-
-![We could do this in UML for something really fancy, but I think you get the idea.](resources/images/classic-oo-mapping-of-domain.png)
-
-Now we're getting somewhere! A client is one of many different types of client apps. It's also one of many different types of apps needing database access.
-The problem is that this is all wrong.
-
-## Why Wrong?
-
-By sketching out how things relate to one another, no matter how careful we are we start to introduce unneeded context. If it's just one or two of us kicking around, it doesn't matter. If it's just a few of us creating a app for a customer, it might matter a bit but not that much.
-
-A database client is a type of client app? It's a concurrent app? Those top two arrows are backwards, right? What happened to our little picture of the person? The person wouldn't just be in that one spot. People can ssh in to servers locally and run queries. They can cron up queries. People should be all over the place, because after all, aren't we really talking about what people are doing and what they want? If my database query fails over a web client and I automate the resubmit using cron, I have no spot in this picture.
-
-Well hell, Daniel, you might say, we've got that modeled. There are three major kinds of database clients: human client, API client, and message queue, remember? It's simply that the model is in error. Perhaps if we continued to add more detail we could fix it.
-
-Not only is that wrong, if you head down this path you're going to end up drawing complex, intricate diagrams that nobody, including yourself, fully understand. We only have six nodes in our graph and already we've created something that we cannot completely agree with. 
-
-That ambiguity and the associated unease can easily lead us to create even more things in our diagram. People make mistakes, create inconsistencies, whenever they write things down. Writing more things down not only does not fix it, it makes the problem worse since it becomes more and more non-obvious where any problems are. Plus we're creating more and more things that can be inconsistent. Remember, we were only looking at one node, on one card, in one loop, in pseudo code. That's as high level and simple as we can make it.
-
-We need another method, some new way of thinking. Let's try this a different way, adding probabilities instead of rigid logical relationships.
-
-![We're guessing we know these concepts, and we're guessing the degree they might be related to one another](resources/images/probability-web-intro.png)
-
-Now the graph isn't necessarily in error. We don't know who the exact database client might be. We're guessing.
-
-It's extremely important to understand that although this graph uses the same symbols and drawing methodology as the first one, this is an entirely different kind of thing. Up until now, we've been trying to model out things as rigid mathematical concepts. That's why there's no end to it. Now, however, we're just throwing together a bunch of things we're guessing about. Call it a "Probability Web".
-
-## Dang You, Math!
-
-You might be seeing where this is heading. Markov Chains.
-
-![Illustration of simple Markov Chains from Wikipedia. The system exists in one state, say A, and we map the percentage chancee the state of the system will change to E, and so on. It quickly gets very complicated](resources/images/markov.png)
-
-Things relating to one another based on probabilities are a type of Markov Chain. It's the basis of all Artificial Intelligence (AI) today, and there are dozens of books worth of material you can explore if you're interested. For now, all we care about is that Probability Webs are different in fundamental and completely incompatible ways from rigidly structured symbolic relationships, such as flowcharts, class diagrams, org charts, or computer code.
-
-The most important way that they're different is that a chunk of symbolic structure, let's call it "math", can be done. In fact, it's always done. You code for a bit. Once you stop coding, you have a chunk of rigidly structured symbols [self-modifying code jocks, we'll get back to you]. You go home. You've created a rigid structure in code that will be exactly the same when you come back tomorrow. If you were a brick mason, you'd go home knowing that the wall you made today will be exactly the same tomorrow. You can start planning on how you're going to add to it.
-
-In comparison, Probability Webs are not like that. Probability Webs are never done. Although we have a fixed number of symbols in our database client example, it's understood and expected that each of those symbols exist in a web with a bunch more. As new data comes in, the probabilities are updated, nodes are added, modified, or deleted. Although we like to explain and refer to these things as webs, we're really not building the webs, we're building the spiders. To reason about these things, we cheat. Only important, mostly-likely relations can be displayed in a graph like we have because otherwise it would be infinite. The snake eats its tail, not only in a simple loop, but in quintillions of loops all throughout the billions of nodes.
-
-We can display parts of probability webs, but if they continue to operate, we can never fully comprehend them. They are not structured in a way to allow simple conversation or diagramming.
-
-{format: fsharp}
-```fsharp
-open System
-
-// given a roll between 0 and 1
-// and a distribution D of
-// probabilities to end up in each state
-// returns the index of the state
-let state (D: float[]) roll =
-   let rec index cumul current =
-      let cumul = cumul + D.[current]
-      match (roll <= cumul) with
-      | true -> current
-      | false -> index cumul (current + 1)
-   index 0.0 0
-
-// given the transition matrix P
-// the index of the current state
-// and a random generator,
-// simulates what the next state is
-let nextState (P: float[][]) current (rng: Random) =
-   let dist = P.[current]
-   let roll = rng.NextDouble()
-   state dist roll
-
-// given a transition matrix P
-// the index i of the initial state
-// and a random generator
-// produces a sequence of states visited
-let simulate (P: float[][]) i (rng: Random) =
-   Seq.unfold (fun s -> Some(s, nextState P s rng)) i
-
-// Vector dot product
-let dot (V1: float[]) (V2: float[]) =
-   Array.zip V1 V2
-   |> Array.map(fun (v1, v2) -> v1 * v2)
-   |> Array.sum
-
-// Extracts the jth column vector of matrix M
-let column (M: float[][]) (j: int) =
-   M |> Array.map (fun v -> v.[j])
-
-// Given a row-vector S describing the probability
-// of each state and a transition matrix P, compute
-// the next state distribution
-let nextDist S P =
-   P
-   |> Array.mapi (fun j v -> column P j)
-   |> Array.map(fun v -> dot v S)
-
-// Euclidean distance between 2 vectors
-let dist (V1: float[]) V2 =
-   Array.zip V1 V2
-   |> Array.map(fun (v1, v2) -> (v1 - v2) * (v1 - v2))
-   |> Array.sum
-
-// Evaluate stationary distribution
-// by searching for a fixed point
-// under tolerance epsilon
-let stationary (P: float[][]) epsilon =
-   let states = P.[0] |> Array.length
-   [| for s in 1 .. states -> 1.0 / (float)states |] // initial
-   |> Seq.unfold (fun s -> Some((s, (nextDist s P)), (nextDist s P)))
-   |> Seq.map (fun (s, s') -> (s', dist s s'))
-   |> Seq.find (fun (s, d) -> d < epsilon)
-
-// Illustration
-
-// Our Markov chain models plane delays
-// 0 = early, 1 = on-time, 2 = delayed
-// more comments at
-// http://clear-lines.com/blog/post/Simple-Markov-chains-in-FSharp.aspx
-
-// Transition matrix:
-// each row corresponds to a state,
-// and contains an array of probabilities
-// to transition to each of the states.
-let P = 
-   [| 
-      [| 0.10; 0.85; 0.05 |];
-      [| 0.10; 0.75; 0.15 |];
-      [| 0.05; 0.60; 0.35 |]
-   |]
-
-let rng = new Random()
-
-// how many delays in a sequence of 1000 flights?
-let flights = simulate P 1 rng
-
-let delays = 
-   Seq.take 1000 flights 
-   |> Seq.filter (fun i -> i = 2) 
-   |> Seq.length
-
-// stationary distribution
-let longterm = stationary P 0.0001
-
-// impact of matrix modification
-
-// improve delays after delays
-let strat1 =
-   [|
-      [| 0.10; 0.85; 0.05 |];
-      [| 0.10; 0.75; 0.15 |];
-      [| 0.05; 0.61; 0.34 |]
-   |]
-
-// improve delays after on-time
-let strat2 =
-   [|
-      [| 0.10; 0.85; 0.05 |];
-      [| 0.10; 0.76; 0.14 |];
-      [| 0.05; 0.60; 0.35 |]
-   |]
-
-let impact1 = stationary strat1 0.0001
-let impact2 = stationary strat2 0.0001
-
-[*Looks complicated, but it's not. Here's a simple implementation of Markov Chains in F#, h/t to Mathias Brandewinder for his wonderful essay back in 2012 (Although I have to resist looking at it to much because programmer)*](https://brandewinder.com/2012/05/27/Simple-Markov-chains-in-FSharp/)
-
-## It's the Shape Of Your Head
-
-As humans, we have but one mouth. That mouth produces sounds and tones, either in chunks or in clusters. Put simply, we have a simple tone, a simple way of modifying it, and a simple way of joining them all together. If a complex diagram representing Probability Webs can't tell us what something is, no matter how complicated we make it, we have no chance at all of using our speech to convey that from one person to the other.
-
-![](resources/images/speech-and-the-inside-of-the-head.png)
-
-*For a hundred thousand years or more, this is the primary tool humans have used to communicate. It's only been extremely recent that we started writing. If we had 17 mouths, 53 ears, and were able to transmit ideas to multiple people simulaneously as probability graphs, we'd see the world much differently. We'd be able to reason about it in ways those simpleton one-mouth, two-ears folks couldn't. Also it would be very difficult to buy hats.*
-
-Would words or some sort of diagramming work? No, and for the same reasons. These are linear, at most 3-5 dimensional tools trying to represent billion-dimension graphs.
-
-```c++
-#include <iostream>
-
-class ConcurrentClientApps {};
-class AppsRequiringServerAccess {};
-
-class DatabaseClient : ConcurrentClientApps, AppsRequiringServerAccess {};
-
-class HumanClient : DatabaseClient {};
-class APIClient : DatabaseClient {};
-class MessageeQueue : DatabaseClient {};
-
-int main()
-{
-  std::cout << "Hello, World!" << std::endl;
-  return 0;
-}
-
-*With code and other formal symbolic systems, like diagramming, the structure is unambivalently baked into the system, checked by the compiler. No matter what, you always have that structure. With Probability Webs, there is no structure. The structure starts and grows as the code runs. The code only exists to continuously update the Probability Web, where the actual value lies.*
-
-
-Even the Probability Web itself doesn't know what it is, because as it begins to traverse the web, it's continuing to modify all of the connections. The model as it was when it began will not be the model when it ends. It's a completely different universe than we live in.
-
-## Brains, Reality, and Webs
-
-Except brains. Brains only exist to process reality, and reality is a bunch of really complex concepts all related in probabilistic ways.
-
-Here all of our concepts join up:
-
-- Reality is multivariate, not simple concepts
-- Reality exists as a web of things related by probability
-- We can never fully understand probability webs (although we constantly understand them "enough")
-- Our brains operate in roughly the same kind of Probability Web that reality does. Yay evolution.
-- When information leaves one of us to be shared with others, it's always in a single-channel, linear format
-- This format does not match up with the universe as we understand it
-- Ergo, reality will never be something we can completely diagram in a rigid way. Instead, we're always coming up with just good enough little graphs of ideas in our heads that work right now
-
-## Feedback Loops Are Bullshit
-
-It is very easy to diagram something. Once we do that, it is also very easy, perhaps automatic, to convince ourselves that we are done, we have diagrammed it completely. It's axiomatic that this is not true. Therefore, in ways we do not understand, the things we diagram must be incorrect. Perhaps it's incorrect in trivial ways. Perhaps not. But since we're using a Probability Web ourselves internal to come up with these models, we'll never know. The best we can do is come up with something, run it for a while, and adjust it when we finally understand how it's broken. [remember we have an exception for math and physics]
-
-![The very latest in the Structured Agile Framework (SAFe), a system for creating technology. Such diagrams are neither beast nor fowl. They're not code. They're not even much of a rough map to get started doing the actual work, as in our database client example. Instead, like most feedback loops you'll see in textbooks, the implication is that there's some kind of formal, proven system being displayed, like a circuit diagram for a radio. If you watch these types of diagrams being created, it's much more of an art form than a science.](resources/images/safe_bigboard.png)
-
-And it's worse than that, because the more we think of our modeled concepts as being rigid, like we did when we thought of "database client" as simply a person, the more likely we are to be wrong in important ways. We're always wrong, of course, but our idea that the concepts we create are fixed make us more wrong and less likely to change our ways. This increases exponentially with the size of the model. For anything based on human communication, the more you try to decompose the meaning of something, the more pieces you have in your hand that need further decomposing. It doesn't work like that.  [with the exception of math and physics]
-
-Instead of feedback loops, here is what we need: Feedback Webs.
-
-## Yet Here We Are
-
-But we're still human, and we still only have speech and writing to represent concepts. So like Plato's Cave, or a two-dimensional projection of a tesseract, we have to snapshot or project some kind of half-assed idea in order to get anywhere at all. We have to lie about reality in order to get it into terms we can usefully discuss. Because heads.
-
-We can play around with Feedback Webs in the small, using less than a dozen or so items to start conversations, but they're just that: conversation enablers. We can use more rigid structures like Feedback Loops in the large, perhaps showing dozens or hundreds of things all related in complex ways, but these are so wrong as to almost be farcical [Again, there's an exception for physical systems. We're talking our representation of concepts. Pure math and physics exist context-free. Everything else doesn't]
-
-The best use I've found for more complicated diagrams like the above are road maps: they might or might not lead me to a "neighborhood" with a half-dozen or so concepts that we can then reason about together as Probability Webs. Oddly, though, what we usually end up doing when we're done is "firming up" that structure and then trying to make sense of that with the larger model.
-
-This is a process that will never work. Or as some coders have finally realized, you will never have your Enterprise Model. There's some multivariate super-dimensional probability model that represents your enterprise that you could never understand, but it's constantly-changing and understood differently for all of the participants anyway, so even if you grew a twenty-ton brain, it doesn't matter. It doesn't work like that.
-
-This leaves us stuck using flowcharts, class diagrams, feedback loops and the rest. But the real action is with Feedback Webs. Like our database diagrams, the situation, the things we have to work with, are both solid and amorphous at the same time, depending on the level of detail you're using. If we're going to study learning at scale Probability Webs are the wet clay we use to bake into houses to build bigger structures. These are our bricks. Now we can get building.
-
-
-## We Have To Watch The Infinities
-Everything we do with foundations is going to bump up against infinities. We need to be constantly mindful that we can describe the general process, the general structure, and the general goal, but we could never provide the specifics, as all of these vary based on participants, context, history, and so forth. This doesn't mean we won't have a lot of interesting and useful things to say, but it means that for each thing we cover, we're going to have to note the rules that create and drive the infinity, go over a few examples, then back off. Otherwise we'll end up with one of those nuclear missile diagrams all of us so fear.
-
+The MPO gives us a categorization system for conversations and activities around Product Development. Boyd gives us a management/decision model. The two do not conflict, and joining them together gives us a wonderful meta-model of how any-sized organization can discover and create things that people want without shooting themselves in the ass.
+Let's play with that some more.

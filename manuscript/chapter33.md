@@ -2,7 +2,7 @@
 
 # Rapid Integrated Human-Machine Product Development #
 
-# Outline
+# Remaining Topics integrated Learning
 
 ## Our Story So Far
 
