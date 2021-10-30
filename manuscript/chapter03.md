@@ -20,6 +20,8 @@ In my mind, management is the skill of removing obstacles for people and teams t
 
 Management seems to happen when these categories come in pairs. Remember: Management is a skill, like negotiation, interviewing, database management, UX, or a thousand other skills. It's not a role. It's not a role because roles coordinate skills into something useful. Management is just another of those skills that can and should be used no matter what else you're doing.
 
+## Management Learning Levels
+
 **Decide-Act**. A pair programming team decides what to do next. That decision is codified by a test. They act to create the test, and as they create the test and integrate it into the rest of their formal model (hopefully!) that is the coding system, that action changes the testing decision, both current and previous. There's a back-and-forth between testing and coding, deciding and acting. That back-and-forth dynamic is what happens when we manage the code. (Interestingly enough, it also happens without formal TDD or pair programming. The only difference is that the "test" is either the code failing or the coder looking at something and not liking it. Also note that the test doesn't have to be executable. "It doesn't meet our coding standards" is something that can be tested. The word "test" is being used in a wide fashoin here.)
 
 But what happens if they can't decide? They can't pick out a small test, or the tests they have don't seem to be able to be reconfigured to meet the rest of the systems or the standards. That's a Decision-Action management problem. Like all management problems, it's either handled there or given off to the next one up the chain.
@@ -45,7 +47,7 @@ You are creating structures that implement behaviors that everybody in the organ
 
 In  a way, the primary thing for each of these levels to do is communicate freeform (not prepackaged computer forms) to everybody else about what's going on. The secondary thing for each of these levels to do is their job. Put another way, you have to repeat where you are, what you think you're doing, and why you can't (or can) do it. You have to do that using your own voice, mind, attitude, and worldview. After that, it's up to yourself and everybody else to process that into something useful. When there are obstacles in that processing, the skill of management helps the organization plan and evolve past them.
 
-## Levels in Management Conclusions
+## Management Means Handling Greater Breadth and Less Depth
 
 In this way, the more we think of management as a fixed, trainable, or structured field of study, the worse we'll do at it. The more we think of it as a mix-and-match art form, the better we'll be. I'm not saying that there's nothing to learn, there's a ton of really useful things. (Actually there's far too much for anybody to learn). I'm saying that management happens when we dynamically assemble all of those things to do what we want. It's jazz. It fails when we make it classical music. Lots of the really cool skills are like that.
 
