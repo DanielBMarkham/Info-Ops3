@@ -45,11 +45,11 @@ That's a mouthful of word. Knowing-what are things you can look at and/or diagra
 
 *I reckon it doesn't matter, as long as we can do the useful stuff we want to do.*
 
-This is the famous "brain in a jar problem"
+This is the famous "brain in a vat problem". Differing levels of consciousness are by definition completely unaware of higher or lower levels, wehther they're directly integrated with them or whether they're simulated. It doesn't matter in a way that we can do anything with.
 
 ## Is Science Stuff We Know or Just Stuff We're Really Good at Guessing At?
 
-*I reckong science is just being really good at guessing shit that's going to happen when we set things up a certain way and do certain things to them*
+*I reckong science is just being really good at how some organization of things is going to look like at the end if we set up a initial group of things a certain way and then do certain things to them.*
 
 Any reasonable study of science over the last four thousand years has to conclude that whatever we call science at the time is just stuff we're really good at guessing at. Over time we've gotten better and better at guessing. For many, they don't understand the point here. If I "know" with a 99.999999999% accuracy that gravity will work in a certain way given a certain situation, I know that, right?
 
@@ -70,43 +70,33 @@ Here's a rough swag at explaining the differences:
 
 The use of prior probabilities in the Bayesian technique is the most obvious difference between the two. Frequentists believe that there is always a bias in assigning probabilities which makes the approach subjective and less accurate. Bayesians, on the other hand, believe that not assigning prior probabilities is one of the biggest weaknesses of the frequentist approach.
 
-### Data Prediction
+#### Data Prediction
 
 Since the Frequentists don’t believe in assigning prior probabilities, their estimate is based on the maximum likelihood point. Bayesians, on the other hand, have a complete posterior distribution over possible parameter values. This allows them to account for the uncertainty in the estimate by integrating the entire distribution, and not just the most likely value.
 
-### Mitigating Uncertainty
+#### Mitigating Uncertainty
 
 The Bayesian approach to mitigating uncertainty is by treating it probabilistically. Frequentists don’t have that luxury. However, this doesn’t mean that there is no uncertainty in the frequentist approach. The estimate derived from sample data can, and is often, wrong. In order to mitigate this uncertainty, Frequentists use two techniques.
 
 - The use of confidence intervals.
 - Null hypothesis significance testing (NHST) which is related to P-values.
 
+## Semiotics
+
+*I reckon that if we're going to use logic to reason together about anything, we're going to have to acknowledge that there are three things required to do so: the thing itself, the way each of us sense that thing, and the signs, signals, gestures, words and so forth each of us assign to that experience*
+
+## Simpson's Paradox
+
+*I reckon that Simpson's Paradox is just one of many problems that arise because of semiotcs when people talk to one another. Problems like this are why a single person can never do anything but hard math by themselves. Semiotics always matters.*
+
 ## Cynefin
 
 *I reckon this is as good a frame as any if you insist on thinking about external realities instead of doing useful stuff. Seems besides the point, though.*
 
-## Mind-Body Problem
-
-
-
 ## The Hard Problem of Consciousness
 
+*I reckon that cour experience of a thing or situation is itself an experience of us experiencing it. More and more complex things have more and more layers of whatever consciousness is. It doesn't start or stop in any one layer or area that we can figure out now or may be ever able to figure out. (although we're really good at defining words and then bangin' them together in an attempt to do so!*
 
+## Mind-Body Problem
 
-## Simpson's Paradox
-
-
-
-Learning exists along a spectrum
-the unknown of the unrepresentable
-chaos
-compliated
-complex
-the unknown of the taken-for-granted
-begins and ends with zero sensory input
-along the way, both sensors and small systems are used
-language is infiniitely abstractable and hierarchical
-we get language for a thing when it moves from unknown of the unrepresentable to chaos
-math helps us the last of the way
-at some point, it's all automated and mathematical and it disappears because nobody thinks of it
-
+*I reckon the mnind-body problem is just our biggest effort to date to deal with the mind body problem, either splitting things into dualism or monism. Seems kind of silly to me, like asking how many angels can dance of the point of a pin, or how long a piece of string might be. We're asking ourselves how much of something is something, ie, it's a word game.*

@@ -38,6 +38,14 @@ What we'll end up doing, now that we've established our foundation, is taking th
 
 ## The Structure of Learning
 
+- Learning involves building some sort of new structure
+- That structure does something we couldn't do before
+- It consists of both little pieces we put into bigger pieces and how those pieces interact to do that
+- Learning at the personal level is just making up little bricks we can use (the gap is small)
+- Learning at the social level means putting those bricks togehter
+- There are two completely different ways of external reasoning, math and language
+- The purpose of this atom of learning is to take those pieces and bridge that gap
+
 ## Making up the Bricks
 We have bricks, we know what the building looks like
 
@@ -81,4 +89,4 @@ Stay ego-free, my friends.
 
 
 
-Next up, how biological systems learn and how they can be super-intelligent without actually knowing anything.
+Next up, how machine systems learn and how they can be super-intelligent without actually knowing anything.

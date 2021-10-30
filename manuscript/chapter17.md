@@ -10,7 +10,7 @@ Intelligence is the ability to observe, adapt, predict, and react to the widest 
 - Societies at Scale: Antipatterns, Disruption, Public Choice, etc
 - Emergent Group Formation and Cohesion
 
-# Outline
+# Remaining Topics in Learning in Biological Systems
 
 ## Notional Neuron Grows Up
 
