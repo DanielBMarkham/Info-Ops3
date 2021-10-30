@@ -36,6 +36,17 @@ But you know? No matter what physical reality is, brain don't care. If it did ca
 
 What we'll end up doing, now that we've established our foundation, is taking these fundamentals and comparing the with the observed situation in all three systems to see where we can create, improve, and measure learning at scale.
 
+## We have five very broken concepts that we're going to have to use anyway
+
+- Math/Logic/Programming
+- Language
+- Feedback Loops
+- Identifying Wrongness
+- Neurons
+
+### As long as we know how they're broken and how we can still use them, we can move forward
+
+
 ## The Structure of Learning
 
 - Learning involves building some sort of new structure

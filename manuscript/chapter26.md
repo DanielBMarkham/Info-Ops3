@@ -34,7 +34,7 @@ Continuing to see how simple I can make this, my thesis is that like the three t
 
 It's not that easiest-to-use is better, in fact in most cases just the opposite. If it's easy to do something you usually end up doing more of it. The point here is that overall, smaller is better. Full stop. It may be tough having the requisite things in place to get started, you may be coding in something like Erlang, but if the overall size is small, even if it's tough sledding to get prepared, it's a win.
 
-![Whether it's technical or business, process, practice, or structure, brains work both in isolation and together. The number of concepts we can actually manage (as opposed to simply believing we can) quickly grows out-of-control, leading to misunderstandings, context-switching, and oddly enough, the addition of even more concepts in an effort to remedy things. You can't add any more items to this diagram and have it still be undersandable.](resources/images/iron-triangle-brains.png)
+![Whether it's technical or business, process, practice, or structure, brains work both in isolation and together. The number of concepts we can actually manage (as opposed to simply believing we can) quickly grows out-of-control, leading to misunderstandings, context-switching, and oddly enough, the addition of even more concepts in an effort to remedy things. You can't add any more items to this diagram and have it still be undersandable.](resources/images/iron-triangle-yagni-brains-and-product-development.png)
 
 ## Product Development Iron Diamond
 

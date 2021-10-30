@@ -73,7 +73,6 @@ anagnorisis
 
 Wiki defines a crank as a person who holds an unshakable belief that most of thier contemporareis consider to be false. The thing they believe is so wildly different than what the mainstream belive as to be generally considerd ludicrous. Cranks have various maneuvers they do to dismiss all evidence that contradicts what they believe, making any rational debate or discusison about why they may be wrong a futile effort.
 
-
 "They laughed at Gallileo, they laughed at Edison, they laughed at Einstein. Yeah, but they also laughed at Bozo the Clown"
 
 A crank is a form of kook, which is just some extremely weird person; strange, eccentric, or crazy. Kooks are just socially odd and laughable. Cransk have some mastermind underlying system to their being a kook, which they're very willing to explain at length but which resists any sort of change based on reasoning.
@@ -97,3 +96,11 @@ The discussion then becomes one about simplicity, repetition of phrases to assur
 Maybe everybody's a kook or crank to somebody else about some area, the only question is whether it's done in a playful, accepting manner by both parties.
 
 Kooks are folks that believe things we don't that we think are simple-minded and we don't like them.
+
+### Crank Magnetism
+
+Probably very true. People stuck on odd, simplistic ideas are of the same character type. That doesn't tell us anything about whether they are right or wrong (Most likely wrong). It doesn't tell us about anything else in their lives. The best nuclear physicist in the world may believe in Bigfoot. In fact, carrying some kookiness around with you is probably the most mentally-healthy thing you can do.
+
+Crank Magnetism is a thing, but the gist seems to be an effort to group most of the uncool kids in one group and ignore them. In a big way, people espousing Crank Magnetism too much can develop own flavor of being a crank. Let's love and accept them anyway, just like we do with all the other cranks in humanity.
+
+While as a professional you don't want to waste your time on cranks, content and quality of ideas in a particular area is probably a much more useful way to go here. If my brain surgeon tells me he believes in UFOs, he's still going to be my brain surgeon.

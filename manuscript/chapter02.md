@@ -58,6 +58,8 @@ Yeah, not so much. Yes, you can use it, rely on it, build on it, and create awes
 I'm no Newton. I'm not even close. When we get to learning and science later in the book, it's just going to be "stuff we're really good at guessing at given these structural assumptions". Both of these things seem to compose and stack on top of one another as we continue the decade-by-decade march of progress. Works for me. But it's just guessing. While the difference is not important to your average research biologist, nuclear sub technician, family doctor, or college professor, it matters a lot to us when we begin talking about how humans and computers can interact to create science even faster.
 
 As we'll see over and over again, living our day-to-day lives is a pretty natural and easy thing to do. As we take that natural world and scale it way far down into the quantum world or way far up into cosmology, it gets freaky. The details start to matter a lot. The same thing happens when we talk about scaling up the complexity, speed, or size of computer systems. It happens when we tease apart what it means to learn or know anything. Details, edge cases, and oddball stuff we can observe but not understand will destroy our progress if we obsess on them. We may live in a giant simulation that was only created five minutes ago, but it's still our universe and we are required to deal with it as best as we can. We don't have to understand everything, we just have to have good enough guesses that work with one another in order to move forward. I am reminded of a phrase I heard in a movie once. "Yeah, that guy may be a real asshole, but he's *our* asshole".
+
+![](resources/images/reckoning-men-fighting.png)
 ## The Bayesians versus the Frequentists: Cage Match!
 
 If you thought the tabs-versus-spaces guys in programming were going to argue forever, that's nothing compared to the long-running fight between the Frequentists and the Bayesians.
@@ -92,6 +94,23 @@ The Bayesian approach to mitigating uncertainty is by treating it probabilistica
 ## Cynefin
 
 *I reckon this is as good a frame as any if you insist on thinking about external realities instead of doing useful stuff. Seems besides the point, though.*
+
+Cynefin (pronounced kee-nef-in, becaus Welsh) is a really cool idea generated from the mind of Dave Snowden and friends. The premise is that when you find yourself in a new situation trying to solve a problem, you need to categorize exactly what kind of situation it is before you can work out what to do. There are four "domains"
+
+- Simple
+- Chaotic
+- Complex
+- Complicated
+
+Each of these domains have their own characteristics and way of proceeding. Mankind's history has shown us that problems usually start in the chaotic and eventuall work their way to the simple. We find out where we are through "sensemaking", which has become quite the current buzzword among armchair intellectuals.
+
+![Rob England did whis wonderful 3D view of Cynefin back in 2018](resources/images/reckon-cynefin3d.png)
+
+There is much goodness here and plenty worth learning and applying. We have to remember, however, how Cynefin came about: a really smart person started thinking about the types of situations we find ourselves in and decided to map it. Other really smart people joined in, each adding a bit more useful detail. It accreted, evolved. The first diagram was just a standard 2x2 grid, the one we've all come to know and love. This one, as you can see, is shown in 3D. That's because there's all of this cool stuff going on as we related the four areas and move between them.
+
+Cynefin is a *social* way of describing and dealing with problems. Whether practitioners admit it or not, this about gettin' together and figurin' stuff out.
+
+Cynefin is a really cool town to vist, but we're going to be taking the bypass road. We're going to learn the underlying principles of how Dave and his group came up with cynefin. Then we can better appreciate what they've done, perhaps create our own models of social interation/problem solving, or (hopefully) leap beyond all of these models in the last section of the book and operate at a higher and more productive level.
 
 ## The Hard Problem of Consciousness
 
