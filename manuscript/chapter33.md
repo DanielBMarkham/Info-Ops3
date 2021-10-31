@@ -4,7 +4,17 @@
 
 # Remaining Topics integrated Learning
 
-## Our Story So Far
+## The Table is Set
+
+### Building the Right Thing
+
+### Building Things Right
+
+### Machines Learning
+
+### People Learning
+
+### Groups of People Learning
 
 
 

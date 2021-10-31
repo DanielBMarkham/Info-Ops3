@@ -35,4 +35,8 @@ chapter32.md
 chapter33.md
 chapter34.md
 chapter35.md
+chapter36.md
+chapter37.md
+chapter38.md
+chapter39.md
 backmatter.md
