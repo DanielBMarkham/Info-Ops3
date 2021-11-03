@@ -62,6 +62,18 @@ sentience
 intelligence
 : definition
 
+{id: definition-ethics}
+ethics
+: definition
+
+{id: definition-morality}
+morality
+: definition
+
+{id: definition-legality}
+legality
+: definition
+
 {id: definition-anagnorisis}
 anagnorisis
 : In a dramatic narrative, the moment in which a character finally has an epiphany about who they are and what they're done in the larger narrative. A moment of ultimate personal introspective existential clarity

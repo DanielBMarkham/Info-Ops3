@@ -27,18 +27,29 @@ Below I will state what I reckon in italics, then a short defense of it.
 
 *Programming or Math, I reckon it's the same thing as far as this book is concerned*
 
-I use the terms "programming" and "math" interchangeably throughout the book. I understand that there's a long list of differences, and each is much, much more complex, nuanced, and interesting than I make them out to be.
-To clarify, to me math consists of all of the grandchildren of Category Theory, wonderful place where Computer Science and mathematics join up. Both mainstream math and mainstream CS are learned and mostly understood the same down to the various forms of functions, Finite Automata and Turing Machines. CS spins off into things like the Halting Problem, Big-O notation and applications of lambda/church calculus; it beomes interested constantly-operating systems of mathematical computation, how they can be constructure and what they can be made to do. Mainstream math seems more interested in symbolic generalizations, systems of symbology, and ways of knowing/generating one system of things given another system; they are interested in the logical possibilities.
-I reckon if a mathematical system is complete, consistent, and calculable we're going to use math and programming interchangeably. I'm wrong in a lot of ways and I've learned to live with that. Somehow we must soldier on anyway.
+Programming and math are not the same, but they're close enough not to bother differientiating them in this book. We have Turing machines, Church Lambda calculus, and many of the other foundations of modern computing because mathematicians were looking for a way to use symbolic logic to prove mathematics. In this way, we can consider these mathematicians the first programmers.
+
+Today we use formal symbolic, calculateable systems (computer programs) to create many different systems of logic that we can use to explore various business domains. Mathematicians went on to generalize mathematics (mostly) into Category Theory, which can be used to create the majority of math fields today. Category Theory also maps directly to pure functional programming languages. In fact, programming languages like Haskell can be thought of as an effort to keep Category Theory and programming in lockstep.
+
+Surprisingly, this means that pure functional programs are one and the same as mathematical proofs, only using symbols the programmer supplies instead of things like the natural numbers. This is the famous Curry-Howard isomorphism you may have read about. It also means that once we leave the world of pure functional coding, the analogy completely fails.
+
+So when you build a purely functional program around rules for something you're observing, say rabbits, you're effectively creating your own new branch of rabbit mathematics, with it's own symbols and rules. Math generalized itself into Category Theory, a way to create your own mathematical systems, then programmers made that available to the average coder.
+
+So yes, most code is not purely functional and my equivalence falls apart, but we're going to use "programming" to mean purely functional programs conforming to something like the rules of Haskell, and we're going to use the word "math" to mean those branches and applications of mathematics that can be derived from Category Theory. As long as we keep those differences in mind, we're good.
+
 
 ## What is Learning?
 
 *I reckon learning is being able to state how things are put together and being able to do stuff.*
 
 From the "Seemingly Stupid Question Department", if we're going to study learning, what, exactly, does it mean to learn? That is not as easy of a question to answer as one might guess.
+
 The word "learn" is ususally used in combination with the word "know". Learning is what you do in order to know things. If you learn how to add numbers, you know addition. If you learn the names of continents, you know some geography. If you learn about Emily Dickenson, you know some poetry. If you learn fine dining, you know how to pick a wine for a meal. If you learn right from wrong, you know what choices you should make in difficult situations.
+
 If you've noticed, I went from learn/know in a concrete setting, addition, to a setting that we could argue about all day, personal morality. Hell, I could argue morality with myself. I tend to do so in difficult situations. Yet in all of these cases the pair of learn/know is used in the same way.
+
 We're going to declare two kinds of knowing: knowing-what and knowing-how. Knowing what is being able to provide a structural answer, such as a list of things, or the way certain topics relate both to each other and a parent, such as we just did with math and programmingc. Knowing how consists of proving a recipe to create a structure or behavior. This recipe consists of steps. Each step describes an initial structure, an operation, and a desired ending structure. Tests can be provided for each step such that the practitioner can replicate the recipe on their own, given that their understanding of all of the structures involved is close enough to the person providing the recipe.
+
 That's a mouthful of word. Knowing-what are things you can look at and/or diagram. Knowing-how are things you can do. Each of these have their own unique ways of disagreement or misunderstanding when we share them with others, and each of them have different strategies we use to work through those disagreements or misunderstandings.
 
 ## Does Anything Exist?
@@ -119,3 +130,9 @@ Cynefin is a really cool town to vist, but we're going to be taking the bypass r
 ## Mind-Body Problem
 
 *I reckon the mnind-body problem is just our biggest effort to date to deal with the mind body problem, either splitting things into dualism or monism. Seems kind of silly to me, like asking how many angels can dance of the point of a pin, or how long a piece of string might be. We're asking ourselves how much of something is something, ie, it's a word game.*
+
+## Isn't This Book an Extended Dunning-Kruger Demonstration?
+
+For those not familiar, the Dunning-Kruger Effect is where experts in one field tend to slightly over-estimate their abilities in fields for which they have no knowledge.
+
+I don't claim to be an expert in *any* field, and this book is useful only as much as we can use it to do neat stuff we couldn't do before. Even if every sentence is false, if it helps us do more things that we find useful, it's worth both of our time. If this book had a slogan, it'd be "Profound Ignorance and Intellectual Humility, but always model what you think you know" I'll be doing this and I expect you to do this as well.
