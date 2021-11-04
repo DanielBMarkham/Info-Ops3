@@ -78,6 +78,14 @@ legality
 anagnorisis
 : In a dramatic narrative, the moment in which a character finally has an epiphany about who they are and what they're done in the larger narrative. A moment of ultimate personal introspective existential clarity
 
+{id: definition-rhetoric}
+rhetoric
+: definition
+
+{id: definition-dialectic}
+dialectic
+: definition
+
 
 # Appendix
 

@@ -133,6 +133,16 @@ Cynefin is a really cool town to vist, but we're going to be taking the bypass r
 
 ## Isn't This Book an Extended Dunning-Kruger Demonstration?
 
+*I reckon folks are supposed to talk about dang near anything as long as they do so in ignorance and curiosity. I reckon we all got to do that.*
+
 For those not familiar, the Dunning-Kruger Effect is where experts in one field tend to slightly over-estimate their abilities in fields for which they have no knowledge.
 
 I don't claim to be an expert in *any* field, and this book is useful only as much as we can use it to do neat stuff we couldn't do before. Even if every sentence is false, if it helps us do more things that we find useful, it's worth both of our time. If this book had a slogan, it'd be "Profound Ignorance and Intellectual Humility, but always model what you think you know" I'll be doing this and I expect you to do this as well.
+
+## Are You Saying That Knowledge is just a Social Construct?
+
+*I reckon folks have all sorts of words for stuff, and they overlap and conflict with themselves*
+
+Definitions are a social construct, knowledge isn't. This means that differing social groups may very well perceive the same underlying reality, they just write those descriptions and join them up into "what" and "why" explanations using that language. When those groups are in different cultures, it's not much of a problem. But when they're in the same culture using the same overloaded words, people can have massive disagreements about reality simply because the language itself is unreliable.
+
+People who define things are limited by those definitions.
