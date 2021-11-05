@@ -54,7 +54,7 @@ We're going to accept being wrong and work through it.
 
 ![](resources/images/baby-girl-clipart.png)
 
-## Using Careful Introspection About our own Stress-Response System
+## Using Careful Introspection About Our Stress-Response System
 
 This comes easy enough for me. I make a lot of mistakes. Matter of fact, most of what I do and say is a mistake, measured by some metric. It's important to fully understand that, not in order to be a humble, better person or participate in a flavor-of-the-week self-improvement program, but because it contains the deeper knowledge that *everything learns by being wrong first*.
 

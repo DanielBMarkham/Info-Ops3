@@ -1,4 +1,4 @@
-# Precisely Identifying Failures is a Fail
+# Identifying Failures With Precision
 
 For reasons that can never change, it's impossible to tell somebody that they're wrong without being wrong in some way ourselves. Let's tour the wrongness zoo and find out why.
 
@@ -42,6 +42,8 @@ If I tried really hard and I were a good actor, I could perform mathematical sta
 
 Here we have our highest-order error about wrongness: failure to understand (or appreciate) the difference between human language and formal systems (algebra, geometry, calculus, category theory, computer programs, etc) You can't logically-reason about conceptual ideas, at least not in order to arrive at some kind of proof. (You can and should use logic for a lot of other things, though! You should be constantly using it! This is not an argument for giving up reason or logic!)
 
+## Using the Ladder of Civilization
+
 Let's take another look at our Ladder Of Civilization from the books, this time presented bottom-to-top in terms of inferences. On the left we have example lifeforms. On the right we have our nodes. In the middle is a presentation of what depends on what.
 
 ![The Ladder Of Civilization, Inference Edition. As life evolves, a natural stratification happens on the way to developing science. This is true whether it involves earthlings or aliens.](resources/images/wrong-about-wrong-ladder.png)
@@ -80,7 +82,7 @@ The worst mistake was skipping levels, so skipping levels constitutes our Sev 0 
 
 ![](resources/images/learning-starts-with-wrong-chart.png)
 
-## Sev 0: Epistemic Ignorance
+## Living Loving Language - Epistemic Errors
 
 *You don't know that there are living-language-learning interaction levels.*
 
@@ -124,7 +126,7 @@ Epistemic ignorance may be great art, but it is a fatal error for any mutual lea
 
 Epistemic ignorance may be great art, but it is a fatal error for any mutual learning system, i.e. dialectic. The coyote and Acme guy are never going to work it out. That's why these errors-in-error categorization are categorized Sev 0.
 
-## Sev 1: False Flag Errors
+## Confusion of Purpose - False Flag Errors
 
 *The purpose in your mind for your living-language-learning interaction and the purpose in their minds are different.*
 
@@ -177,7 +179,7 @@ If you can't identify what's happening you have no chance of fixing it. That's w
 
 Sev 1 error identification bugs are fatal to any current or future interaction. There's nowhere for both of you to go together if you're going in different directions.
 
-## Sev 2: Dialectical Conflation of Domains
+## Conflation of Domains - Dialectical Conceptual Errors
 
 *You're trying to solve a problem in one living-language-learning level that exists in another.*
 
@@ -199,7 +201,7 @@ Smelly people have important things to say. We fix wrongness in each of these le
 
 These errors and error categorization problems can be recovered from, and it's the job of good conversant to be able to do this. It's not always a sure-fire thing, though. I wish I had magic fairy dust to offer for those trying to do it. I do not. Such error identification and error correction conversations are minefields.
 
-## Sev 3: Dialectical Execution Errors
+## You're Doing it Wrong - Dialectic Execution Errors
 
 You're doing the living-language-learning work wrong.
 Dialectical Categorization Errors occur when you're in a spot to make great progress using the dialectic with other folks in some social group, but you're executing the work of the dialectic poorly.
@@ -218,7 +220,7 @@ Good projects have a dialectic that continues throughout all of development and 
 
 *Dialectical execution errors happen constantly and good social groups are able to recognize and recover from them with no time or energy lost. Bad social groups may not even be able to recognize them as they happen.*
 
-## Sev 4: Non-Dialectical Execution Errors
+## You Made a Mistake - Logic Errors
 
 *You've made some craftsmanship errors in the work you're doing.*
 
@@ -234,7 +236,7 @@ Instead of thinking of them as errors, they're much better considered as the act
 
 These are the errors everybody talks about. I'll leave these for another author.
 
-## Conclusion: You're Stuck. It's Work
+## Mind Your Knitting - It's a Process not a State
 
 We've ran out of categories, and we still haven't defined wrong yet.
 

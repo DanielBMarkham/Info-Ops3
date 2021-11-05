@@ -1,4 +1,4 @@
-# Learning Doesn't Work Through Feedback Loops
+# Learning Isn't Feedback Loops
 
 ***The phrase "feedback loop" idea is total bullshit. We're all going to have to keep using it anyway. Here's why.***
 

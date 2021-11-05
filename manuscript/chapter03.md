@@ -2,6 +2,14 @@
 
 *No matter what kind of organization you have or want, management doesn't go away. It's something to do and it's a skill and talent that some folks have to develop so that everybody overall can do better. How do you classify those skills?*
 
+One of the things we don't think about is how much a great part of learning is deciding what to learn. We have to make decisions and prioritize them or we'd be looking at blades of grass while the forest burned.
+
+Figuring out what to learn is much, much more important than learning itself. It's something in the tech world we hear all of the time: what the next tech I should be picking up?
+
+Not only do you learn as you go along, managing what time you spend on what, you also have to manage how much importance to assign to the thing you learn. Learning math in school may be well worth the time, but it's probably a lower priority than learning to look both ways to cross the street. In both cases you've decided to assign time to learning, but you assign different weights to the result
+
+## Survival Drives Focus
+
 ![](resources/images/levels-boyd-ooda.jpg)
 
 Is there a system for being a good fighter pilot? You might think that with the requirement that fighter pilots act almost instantly, engage in super-complex continuous maneuvers in multiple dimensions that the idea of having a "process" wouldn't work at all.
