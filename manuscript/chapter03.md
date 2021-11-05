@@ -62,4 +62,5 @@ P.S. You may be wondering how all of this fits in with our earlier model and dis
 ![You are here. The above essay addresses this area of Product Development. Skills (on the left) you use anywhere in much the same way. Activities and Conversations (top row) have their own unique characteristics](resources/images/levels-you-are-here.png)
 
 The MPO gives us a categorization system for conversations and activities around Product Development. Boyd gives us a management/decision model. The two do not conflict, and joining them together gives us a wonderful meta-model of how any-sized organization can discover and create things that people want without shooting themselves in the ass.
+
 Let's play with that some more.
