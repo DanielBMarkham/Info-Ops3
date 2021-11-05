@@ -44,7 +44,24 @@ Here we have our highest-order error about wrongness: failure to understand (or 
 
 ## Using the Ladder of Civilization
 
-Let's take another look at our Ladder Of Civilization from the books, this time presented bottom-to-top in terms of inferences. On the left we have example lifeforms. On the right we have our nodes. In the middle is a presentation of what depends on what.
+We're going to have to use a tool called "The Ladder of Civilization" to continue here. The tool is the simplest way I can find to describe everything in this universe *if you were some kind of creature existing outside the universe* Think of how you would describe the video game "The Sims" to somebody who had never played a video game.
+
+There are three kinds of impressions entities have:
+
+- A sensory input of something. We'll label that "S", for Sensory
+- Whatever it is, the object that we're sensing. Could be an internal idea, a real world thing, or a subconscious impression. It's something that exists outside our perception and once we sense it becomes an S. Well call that "O", for Object
+- The rules that the previous two have to abide by. For instance, ideas don't kick you in the shin. There are no list of senses an entity can have, there's no list of objects in a particular universe, and likewise there are no hard and fast rules. Yet these rules exist, both inside and outside the organism, and as the organism exists, these rules change. A dog may love you. Kick the dog and the dog may start running away when you approach. It's not the pain (S) the dog felt, it's not the kick (O) you gave. Something has changed in the rules of the dog's universe. We'll call that "Q" for Qualia.
+
+That's how anything at all experiences a universe. Once we start making universes, however, we notice that there are levels to the types of things that get grouped in our S, O, Q system. There are four such levels:
+
+- Subjective, mostly simple Sense-Reponse groupings. We'll label that "S"
+- Abstract. As creatures evolve, they can begin thinking (non-verally) in abstractions and generalizations. We'll label that "A"
+- Conversational. Once language begins being used for toolmaking, the physics of toolmaking and the lack of brain-to-brain communication cause language to explode in complexity and nuance. There's an lot of activity for us humans going on in the Conversational level. We'll label that "C"
+- At the highest level of grouping, we have reality. It'd odd, you'd think it'd be at the bottom. Remember that we're not talking about building a universe and the rules it would work under, we're simply looking at the UI and shooting the shit with our friends. How to make it work is another thing entirely that happens from the outside. From the inside, we're grouping up all of our things and how they work in our Sims Game, and as far as the little Sims know, the transistors, databases, and code that creates their world exists somewhere out there beyond what they can grasp. Perhaps if we made intelligent Sims they would slowly create science and discover all of this on their own, but for them it's a much higher level than just conversation. We'll label that "R"
+
+So we have three categories of impressions entities have, and we have found levels or groupings of those categories, creating 12 nodes in all starting with the most primitive thing in a universe and moving as high up as we can.
+
+We'll call that the Ladder Of Civilization, since it describes all of what we know about how civilization works. We'll create a grid of our twelve nodes, and from bottom-to-top we've created an organization system for looking at little entities in their universe and the level they operate on. We need that in order to talk about errors, cause arguing with a tree doesn't get you far. On the left I've provided some example lifeforms. On the right we have our nodes. In the middle is a presentation of what depends on what.
 
 ![The Ladder Of Civilization, Inference Edition. As life evolves, a natural stratification happens on the way to developing science. This is true whether it involves earthlings or aliens.](resources/images/wrong-about-wrong-ladder.png)
 
