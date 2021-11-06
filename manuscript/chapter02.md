@@ -70,7 +70,7 @@ I'm no Newton. I'm not even close. When we get to learning and science later in 
 
 As we'll see over and over again, living our day-to-day lives is a pretty natural and easy thing to do. As we take that natural world and scale it way far down into the quantum world or way far up into cosmology, it gets freaky. The details start to matter a lot. The same thing happens when we talk about scaling up the complexity, speed, or size of computer systems. It happens when we tease apart what it means to learn or know anything. Details, edge cases, and oddball stuff we can observe but not understand will destroy our progress if we obsess on them. We may live in a giant simulation that was only created five minutes ago, but it's still our universe and we are required to deal with it as best as we can. We don't have to understand everything, we just have to have good enough guesses that work with one another in order to move forward. I am reminded of a phrase I heard in a movie once. "Yeah, that guy may be a real asshole, but he's *our* asshole".
 
-{width: "33%}
+{width: "33%"}
 ![](resources/images/reckoning-men-fighting.png)
 
 ## The Bayesians versus the Frequentists: Cage Match!
