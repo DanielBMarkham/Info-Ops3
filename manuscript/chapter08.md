@@ -36,7 +36,40 @@ But you know? No matter what physical reality is, brain don't care. If it did ca
 
 What we'll end up doing, now that we've established our foundation, is taking these fundamentals and comparing the with the observed situation in all three systems to see where we can create, improve, and measure learning at scale.
 
-## We have five very broken concepts that we're going to have to use anyway
+## The Map
+
+The terrritory isn't the map, but having a map, even if it's bad one, beats nothing.
+### Existence in a Universe
+
+![In any sort of universe, these are the kind of things you'd talk about if you were explaining it to a friend](resources/images/gridorladderofcivilization.jpg)
+
+From *inside* that universe, however, it's very difficult to see all of this.
+
+### Consciousness and Sentience
+
+[Notional Neuron, our abstract way of modeling consciousness anbd discussing sentience](resources/images/notional-neuron-detail-small-3.jpg)
+
+We're just going to stipulate that consciousness is everywhere. It exists on various levels. Higher levels of consciousness are always aware of lower levels, perhaps not even considering them sentient, but they are never aware of higher levels, even as they participate in them.
+### Learning is a Fractal
+
+![The definition of anything is a fractal, and learning involves fuzzing out the piece we want enough so that it's useful to us for a given purpose. We always learn in some kind of context.](resources/images/fractal-circle.jpg)
+
+We will never know everything exactly.
+
+### The Idea of Wrong Doesn't Work
+
+![](resources/images/monty-python-shes-a-witch.png)
+
+When we realize somebody's wrong, it always makes perfect sense to us why they're wrong. But as we dive down into detailing exactly why they are wrong, we become even wronger than they are.
+
+### Feedback Loops are Bullshit, but they're all we Have
+
+[](resources/images/snake-eating-own-tail.png)
+
+We naturall want to create loops and cycles when we talk about learning, but they only work in the loosest, most abstract form. We're going to have to use some kind of cyclic behavior to go forward, but we shouldn't take it too seriously.
+### We're Left with Five Broken Concepts we're Going to use Anyway
+
+As long as we know how they're broken, we can still use them.
 
 - Math/Logic/Programming
 - Language
@@ -44,34 +77,29 @@ What we'll end up doing, now that we've established our foundation, is taking th
 - Identifying Wrongness
 - Neurons
 
-### As long as we know how they're broken and how we can still use them, we can move forward
-
-
 ## The Structure of Learning
 
-- Learning involves building some sort of new structure
+- Learning involves building some sort of new structure at the conversational level and below
 - That structure does something we couldn't do before
 - It consists of both little pieces we put into bigger pieces and how those pieces interact to do that
-- Learning at the personal level is just making up little bricks we can use (the gap is small)
-- Learning at the social level means putting those bricks togehter
-- There are two completely different ways of external reasoning, math and language
+- The Grid of Civilization forces us to use both formal systems and completely imprecise performed human langue, ie, math and language
+- At the internal/personal level (A), we can consider little strings of abstractions (Q,O,R) to be thoughts. Ones that repeat are things we have learned
+- At the conversational/social level (S), we're stuck using non-verbal internal abstractions among ourselve to come up with working shared rational, logical views of reality. It's like building castles out of jello
+- If it helps, you can thing of groups of these little strings (related chains of Q,O,R at the conversational level (S) ) as little bricks that we make as a species
+- At the external/social level learning means putting those bricks together
 - The purpose of this atom of learning is to take those pieces and bridge that gap
+- The structure that bridges that gap is a mostly social, mostly logical system that we can do useful things with we couldn't before. Overall, in a general sense, it's science.
+## Bridges let us Cross the Chasom
 
-## Making up the Bricks
-We have bricks, we know what the building looks like
-
-## The Canyon
-
-Ditch-digging, the universe, and crossing the chasm of human experience; balancing invention and practicality
+*Ditch-digging, the universe, and crossing the chasm of human experience; balancing invention and practicality*
 
 ![](resources/images/the-canyon-intro.png)
 
-Over the weekend I was studying the life of Martin Heidegger. Here's the super-short, mostly-wrong version: Heidegger understood language's inability to describe and ultimately deal with reality, so he used the German language's wonderful mix-and-match-word-parts to try to fix it. Using some words to fix the problem with all words is like trying to put out a fire with kerosene; the more you try, the bigger the problem gets.
+A while back, I was studying the life of Martin Heidegger. Here's the super-short, mostly-wrong version: Heidegger understood language's inability to describe and ultimately deal with reality, so he used the German language's wonderful mix-and-match-word-parts to try to fix it. Using some words to fix the problem with all words is like trying to put out a fire with kerosene; the more you try, the bigger the problem gets.
 
 He ended publishing over 47 volumes. Most of his work is not published. He spent a lot of time thinking about the meaning and differences of things like being-to-meaning, being-about-meaning, being-of-meaning, being-around-meaning, and so forth (I made up these terms, but they are indicative of the types of things he spent his life on. This guy didn't do a lot of ditch-digging.)
 
 ![Wow! Great books! Think I'll wait for the Netflix 143-episode series. I like to think of Heidegger as sort of a fundamentalist pre-socratic.](resources/images/Martin-Heidegger.jpg)
-
 
 You can't start believing your own bullshit. Put more kindly, you have to be arrogant and smart to come up with a unique and useful idea or two. (That doesn't mean you have to be unpleasant.) However by being arrogant and smart, you're prone to taking those ideas and turning them into a lifetime of deeper and deeper digging into how arrogant and smart you are. Every philosopher that have good biographies took some great ideas and went a thousand times farther than they probably should have. It's not the fault of those people; we tend to find lost keys somewhere around the lamppost. That's not because lost keys go there, it's because that's the place we can see best. People who have these great ideas see a little part, they create their own lamppost, so of course they're going to keep looking around that lamppost to see whatever other cool things they can dig up.
 
@@ -81,6 +109,7 @@ With that in mind, I needed to update my understanding of how people understand 
 
 ![Heidegger tried to use more and more language, some of his own design, to make the right side of the canyon go away. Everything was ultimately political and social. Language itself existed as sort of an ultimate truth, over the centuries passing down from generation-to-generation as it tried to express itself](resources/images/canyon-and-modes-of-existence.png)
 
+***Note that the canyon diagram matches up perfectly with our Grid of Civilization)***
 
 It's not just academic philosopher types. This happens to folks writing computer programs and cloud systems as well. You come up with something pretty cool, something that gets lots of attention, then you spend far too much time riding that mechanical pony around long after your dime ran out outside the local Walmart. Other kids want to ride too.
 

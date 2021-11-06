@@ -42,40 +42,58 @@ If I tried really hard and I were a good actor, I could perform mathematical sta
 
 Here we have our highest-order error about wrongness: failure to understand (or appreciate) the difference between human language and formal systems (algebra, geometry, calculus, category theory, computer programs, etc) You can't logically-reason about conceptual ideas, at least not in order to arrive at some kind of proof. (You can and should use logic for a lot of other things, though! You should be constantly using it! This is not an argument for giving up reason or logic!)
 
-## Using the Ladder of Civilization
+Our conclusion is that people are wrong when they don't know where they are in the universe. Are they doing science, art? How do we create a model of where people are when they interact without ourselves being an unwitting part of the answer? How can I judge and position you without my own opinion coming into play?
 
-We're going to have to use a tool called "The Ladder of Civilization" to continue here. The tool is the simplest way I can find to describe everything in this universe *if you were some kind of creature existing outside the universe* Think of how you would describe the video game "The Sims" to somebody who had never played a video game.
+## Walking the Grid of Civilization
 
-There are three kinds of impressions entities have:
+*How would you describe the universe to a friend?*
 
-- A sensory input of something. We'll label that "S", for Sensory
-- Whatever it is, the object that we're sensing. Could be an internal idea, a real world thing, or a subconscious impression. It's something that exists outside our perception and once we sense it becomes an S. Well call that "O", for Object
-- The rules that the previous two have to abide by. For instance, ideas don't kick you in the shin. There are no list of senses an entity can have, there's no list of objects in a particular universe, and likewise there are no hard and fast rules. Yet these rules exist, both inside and outside the organism, and as the organism exists, these rules change. A dog may love you. Kick the dog and the dog may start running away when you approach. It's not the pain (S) the dog felt, it's not the kick (O) you gave. Something has changed in the rules of the dog's universe. We'll call that "Q" for Qualia.
+![](resources/images/earth.png)
 
-That's how anything at all experiences a universe. Once we start making universes, however, we notice that there are levels to the types of things that get grouped in our S, O, Q system. There are four such levels:
 
-- Subjective, mostly simple Sense-Reponse groupings. We'll label that "S"
-- Abstract. As creatures evolve, they can begin thinking (non-verally) in abstractions and generalizations. We'll label that "A"
-- Conversational. Once language begins being used for toolmaking, the physics of toolmaking and the lack of brain-to-brain communication cause language to explode in complexity and nuance. There's an lot of activity for us humans going on in the Conversational level. We'll label that "C"
-- At the highest level of grouping, we have reality. It'd odd, you'd think it'd be at the bottom. Remember that we're not talking about building a universe and the rules it would work under, we're simply looking at the UI and shooting the shit with our friends. How to make it work is another thing entirely that happens from the outside. From the inside, we're grouping up all of our things and how they work in our Sims Game, and as far as the little Sims know, the transistors, databases, and code that creates their world exists somewhere out there beyond what they can grasp. Perhaps if we made intelligent Sims they would slowly create science and discover all of this on their own, but for them it's a much higher level than just conversation. We'll label that "R"
+This book is about learning, after all. We say things like "I learn new things every day!" but what does that really mean? Could you describe that to a computer? An alien?
 
-So we have three categories of impressions entities have, and we have found levels or groupings of those categories, creating 12 nodes in all starting with the most primitive thing in a universe and moving as high up as we can.
+As I learned in High School Geometry Class, I have a visual mind and I prove things and arrive at conclusions using the spaghetti-wall approach: I just keep throwing spaghetti everywhere. After a while, I inspect the wall to see what's sticking. It's messy but it works.
 
-We'll call that the Ladder Of Civilization, since it describes all of what we know about how civilization works. We'll create a grid of our twelve nodes, and from bottom-to-top we've created an organization system for looking at little entities in their universe and the level they operate on. We need that in order to talk about errors, cause arguing with a tree doesn't get you far. On the left I've provided some example lifeforms. On the right we have our nodes. In the middle is a presentation of what depends on what.
+![Warning: This thought experiment requires you to step outside our universe. This may not be easy for some.](resources/images/spaghetti-on-the-wall.jpg)
 
-![The Ladder Of Civilization, Inference Edition. As life evolves, a natural stratification happens on the way to developing science. This is true whether it involves earthlings or aliens.](resources/images/wrong-about-wrong-ladder.png)
+Let's say the universe is a program. For our purposes, let's use "The Sims" as an example. You've played The Sims for a while and love it. Then you go to a faraway country where you make a new friend. Your new friend has never played The Sims. In fact, they've never even seen a computer. You have to start from scratch and tell them what's going on.
 
-At the very top of the list we have science, our light in the darkness and the only thing any species has to explore the universe around them. At the bottom we have the most primitive life imaginable. (I called primitive life fungi. I leave the debate over what the most primitive life is to others) Evolving intelligence advances up the bar, from fungi to things we could never imagine (Multiverse builders? multi-dimensional super-intelligences?)
+![What a cool universe! I am the master of all that I see. Wait, you're saying I got to get a job? Seriously? What kind of asshole is running this thing?](resources/images/sims-guy.png)
 
-Hopefully none of the readers are fungi, so emotions are probably the first level on the chart where we all have some shared knowledge.
+It's a little universe where things exist and do things with other things. Seems like there are three categories of things:
 
-Study-after-study, along with a plethora of human experience, has shown that emotions come first, decisions and rationalizations later. We decide between fight-or-flight when we first encounter new stimulus. This instinctual decision looks different in different creatures.
+- **Sense/Act** things. Whatever your little guy is, whether it's a little man or an imaginary potted plant they sense and/or act on their outside environment.
+- **Objects**. These are concepts that exist in this universe, whether they're solid things like a tree or conceptual things like your Sim having a new idea. Internal to a Sim, the object is always shifting depending on how they're changing over time. One day a word like "work" means going to school. Another day the same word "work" means going to be a plumber. Objects are always shifting internally. Externally, the same object can generate many senses. I see one side of the apple, you see another. Same object, difference in sensing.
+- **Rules**. All of this, these sense/act things and these objects, go together in certain ways. You can't stick a thought on top of a rock. If you drop things, they fall. The rules go on and on and they might change. Heck if I can tell you what they are. I'm not a programmer (for purposes of our thought experiment) I can't even tell you how the rules are constructed. I just know there rules about sense/act and objects and how they relate to one another.## Using the Ladder of Civilization
 
-If we were badgers, we'd just choose fight or flight and that would be it. But since we're humans, we rationalize whatever choice we've made. Perhaps we debate instead of physically fighting. Instead of taking flight, perhaps we start a conversation using diplomatic pleasantries. The thing to understand is that reasoning doesn't matter at the lowest level of interaction. Many times we choose reason and argumentation only after our first non-intellectual choice is made. I'd argue that most of the history of human progress has been because we understood that humans are primarily instinctual and we've made all of our progress as we kept trying to find ways to work around that fact.
 
-Assuming that we have the same goal, we've come to our first category of being wrong about wrong: skipping levels on the ladder. The ultimate error in identifying wrongness is the failure to understand progress, collapsing the top to the bottom, conflating the laws of the universe with emotion. I feel a certain way, therefore there's nothing to be done. The universe is just like that. I don't have to think about it any further.
+These three categories of things in a universe keep popping up over and over again. There must be something to them. In fact, the first two have probably been written about by hundreds of really smart men over the centuries. We'll shorten them to Q, O, and R. (Q stands for ["Qualia"](https://en.wikipedia.org/wiki/Qualia). Long story.)
 
-Most folks today deny that they skip levels. It's quite painful to understand the true nature of human existence. Much easier talking about it in terms of far-away past, dark ages, tribal human sacrifices, religious wars, or mediums giving séances where people can contact the dead.
+![Sub-quantum physics, if it exists, lies somewhere to the lower left outside of this grid. The Great Pumpkin, is he exists, lies somewhere to the upper right of this grid.](resources/images/gridorladderofcivilization.jpg)
+
+This would probably sound all very vague and perhaps extremely complicated to your friend. So an atom changing state in Africa can make a man fart in Canada? Everything is related to everything through this Q, O, R business?
+
+Well, you continue to explain, technically yes, but in practice these naturally occur and can be grouped in levels.
+
+- **Subjective**. This category is about how one tiny thing interacts with another. An atom changes state. You kick a rock. A simple thing and another simple thing, as they are perceived by things in this universe. Remember that it's not about you and your universe; you're describing this universe to a friend and telling them about how thing in that universe work. You are the outsider. We're saying that everything in our little thought-experiment universe, The Sims, has a bunch of Q, O, R things that it and it alone perceives and interacts with. The Subjective Universe is the universe as it is experienced directly by all participants in it.
+- **Abstract**. As soon as there's some kind of brain activity, these things in the universe begin to form internal representations for general groups of related Subjective things.
+- Conversational. Once these abstractions are externalized and shared through some sort of communication, language begins.
+- **Real**. There is some set of rules that the programmers of this universe came up with to make it work. I don't know. I'm not a coder, but I know that the danged thing works somehow through a very similar pattern of Q, O, and R.
+
+![Leibniz lived in the late 17th century and was one of many, many philosophers trying to puzzle out how the universe works. I can't find much to disagree with here. Depending on how you define all of these terms. It's interesting to note, however, that his argument begins in the upper-right corner of our diagram and works downward, while we actually experience life in the opposite fashion. All of theology can be thought of as using the middle rows A and C to join up the opposite corners. Science is similar, hence the continued conflict. (Most of these arguments do not recognize the rows in the middle, though!)](resources/images/leibnizs-argument-for-god.png)
+
+Just like the three categories keep popping up everywhere, these four levels do as well. The categories pop up mostly in the context of science. I experience this (Q), therefore it must be put together like that (O), and it always works in this certain fashion (R). The levels usually pop up in the humanities. This is where you get weird questions like "do we all experience the same thing when we look at something blue?" (S->A), "Is knowledge a social construct?" (A->C), or "Is reality the same everywhere?" (C->R)
+
+As we move from lower left to upper right we're moving from a speck of matter interacting with another speck to some sort of master program that runs the universe. Graphs don't get much broader than this! And really, as we move from lower left to upper right, we're charting the development of an intelligent civilization and how perhaps, one day, they create their own universe. (If that's your thing)
+
+Since it keeps popping up, I'm using it. This spaghetti looks like it's stuck pretty firmly on the wall.
+
+## Using the Grid to Orient Ourselves
+
+Assuming that we have the same goal, we've come to our first category of being wrong about wrong: skipping levels on the ladder. The ultimate error in identifying wrongness is the failure to understand progress, collapsing the top to the bottom, conflating the laws of the universe with emotion. I feel a certain way, therefore there's nothing to be done. The universe is just like that. I don't have to think about it any further. The Great Pumpkin says atoms make up the universe and we can never know anything about atoms. End of story. (Much of the Middle Ages in Europe was exactly like this.)
+
+Skipping levels happens all of the time, but most folks either deny it or don't see it. It's quite painful to understand the true nature of human existence. Much easier talking about it in terms of far-away past, dark ages, tribal human sacrifices, religious wars, or mediums giving séances where people can contact the dead.
 
 Confusing the bottom (emotion) and the top (the universe) might be uncool to admit, but there are a ton of people who use science in place of the universe, conflating science and emotion. I don't like this thing, therefore science tells me it's bad. I will come up with reasons later. Or maybe somebody else will tell me. There could be very complicated reasons. I might not be able to explain them but I know it's true. After all, it's science.
 
@@ -155,7 +173,7 @@ For our imaginary family discussion, they don't know or care about the names of 
 
 Most times for us regular folks it doesn't matter. Sometimes, though, it does.
 
-![](resources/videos/python-shes-a-witch.mp4)
+<!-- ![](resources/videos/python-shes-a-witch.mp4) -->
 
 ![](resources/images/monty-python-shes-a-witch.png)
 
