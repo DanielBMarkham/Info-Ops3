@@ -2,10 +2,12 @@
 
 *Technology projects are much, much more about Product Development than Project Management. Today we've got more technology product development goodness, with plenty more to follow.*
 
+{width: 66%}
 ![](resources/images/iron-triangle-diamond.png)
 
 I was reading again today about the startup WhatsApp, a "little" company that sold for almost $20 Billion a few years back. There are a lot of interesting lessons to be had in both studying their story and how it parallels the story of many other successful startups. I thought that it would be fun to see how far I could distill those lessons down to just one concept.
 
+{width: 66%}
 ![](resources/images/iron-triangle-project-management.png)
 
 Have you seen this? This is the traditional "Iron Triangle" of project management. Many people know this through the old saying, "Budget, Schedule, or Features. Pick two"
@@ -14,6 +16,7 @@ The idea of the triangle is that each of these items directly influences the oth
 
 ## Oldest Way, Old Way, and New Way
 
+{width: 66%}
 ![](resources/images/iron-triangle-agile-project-management.png)
 
 I've been known to teach Agile, XP, and Scrum. When folks teach those things, we take the project management iron triangle and flip it upside down. In the old, sequential way, waterfall, the idea was that the requirements (scope) and schedule were fixed. That meant that costs went through the roof and the schedule slipped anyway. The triangle always works. Contrast that with Agile implementations where costs and time are fixed. You are working in some kind of sprint or timebox. You have already allocated a chunk of time/money. In this situation, requirements must change to fit the other two items. "I'm coming back in a week with some cool stuff you'll love. Let's make some tests that describe that, then we can talk about whether or not it's too much to deliver in our fixed timebox"
@@ -50,6 +53,7 @@ Certain things have to happen when you code. If you're coding using an imperativ
 
 It's important to understand that these items are fixed in relation to one another just like the items in the Project Management Iron Triangle. Continuing our coding example, Code Budgets arbitrarily keep your codebase small for any one feature. This activity makes the architecture full of many small pieces rather than a few (or one) large piece. That, in turn, limits the number of features/hypotheses we can develop against at any one time. This means we have to be very careful about both the quantity and quality of ideas in the pipeline. You can start at another point on the diamond and it works out the same. If you can tightly control one, you can tightly control all of them. The reverse is also true, losing control of one forces a loss of control over the others.
 
+{width: 66%}
 ![](resources/images/iron-triangle-your-users-are-here.png)
 
 **Target Market Addressed**. When Facebook started, they had one market: friends at Harvard. This happens over and over again with successful startups. They find an extremely small market. They live in their lives. They make something that those people want that can't easily scale. Then they make it scale. Intutively we want to start with scaling first, but as we now see, all we do then is destroy any chance of success we might have before we even start.
@@ -60,6 +64,7 @@ Everybody wants to build the next Facebook, but even Facebook didn't build a Fac
 
 The same holds true at the business level. You don't want a bunch of business models. You want one set of hypotheses that, when put together, validate one particular business model. When you're starting up, you want to cycle through these sets of hypotheses and models as you interact with people until you find one that works. This is also easier said than done, but if you're a tech guy studying product development, you should note the powerful cause-and-effect at play here: Simple business models validate quickly because they have fast build-test times, which means frictionless architectures, extremely-tight coding practices, minimal or no reporting or rituals, and tightly-limited target markets. Like the rest of the diamond points, once you start expanding one thing, you expand everything else out. It's easy to expand the diamond, impossible to contract it.
 
+{width: 66%}
 ![The only way to move forward is to blow that fucker up. If you want to really change for the positive and not just talk about it or go through the same old same old feeble actions of pretending, you gotta have the balls to do so. Sometimes you have to roll a hard six](resources/images/iron-triangle-blowing-up-the-enterprise-in-star-trek.jpg)
 
 ## Code Zero Zero Zero Destruct. Zero
