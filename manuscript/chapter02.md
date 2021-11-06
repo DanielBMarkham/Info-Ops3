@@ -117,6 +117,7 @@ Cynefin (pronounced kee-nef-in, becaus Welsh) is a really cool idea generated fr
 
 Each of these domains have their own characteristics and way of proceeding. Mankind's history has shown us that problems usually start in the chaotic and eventuall work their way to the simple. We find out where we are through "sensemaking", which has become quite the current buzzword among armchair intellectuals.
 
+{width: 66%}
 ![Rob England did whis wonderful 3D view of Cynefin back in 2018](resources/images/reckon-cynefin3d.png)
 
 There is much goodness here and plenty worth learning and applying. We have to remember, however, how Cynefin came about: a really smart person started thinking about the types of situations we find ourselves in and decided to map it. Other really smart people joined in, each adding a bit more useful detail. It accreted, evolved. The first diagram was just a standard 2x2 grid, the one we've all come to know and love. This one, as you can see, is shown in 3D. That's because there's all of this cool stuff going on as we related the four areas and move between them.

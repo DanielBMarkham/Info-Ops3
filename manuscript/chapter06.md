@@ -2,6 +2,7 @@
 
 ***The phrase "feedback loop" idea is total bullshit. We're all going to have to keep using it anyway. Here's why.***
 
+{height: 25%}
 ![](resources/images/wild-meerkat-9.jpg)
 
 We make a lot of bad decisions in organization and system design because of the way our heads are shaped. It's not our fault, but to fix it we have to understand it.
@@ -22,6 +23,7 @@ In fact, the more we looked at it, the more we realized that there never was rea
 
 But isn't there a better way to represent the world around us? Isn't there some way we can talk to others about how somethings cause other things that then feed off of one another? It turns out there is, and things that feed on themselves have been represented for a long time by the circle.
 
+{width: 33%}
 ![As far back as we can find civilization, we find people thinking of the world and universe as circular or cyclic. The ouroboros symbol, shown here, depicts a snake eating its own tail. We can date symbols like this being used to 3500+ BCE](resources/images/snake-eating-own-tail.png)
 
 As humans emerge from babies to adults, as mankind emerges from the dim mists of time to modern man, we stop thinking of simply cause and effect and start thinking about loops. Early religions were almost all circular. As the Cylons said on Battlestar Galactica, all of this has happened before. It will happen again. It's impossible to ignore: there's something deeply mystical about circular relationship.
@@ -32,14 +34,17 @@ Which brings us to feedback loops.
 
 Let's take a look at a user asking the database for something, but the database is broken. Almost everybody who has learned to program was told that programming was "making a list of things for the computer to do". It looks like this.
 
+{width: 66%}
 ![A depiction of classic, straight-line cause-and-effect, the kind all of us use in our day-to-day life.](resources/images/2021-10-12-feedback-loops-linear.png)
 
 You could almost write this directly to code, at least if you're using an imperative language.
 
+{width: 66%}
 ![As long as it's pseudo-code, this programming stuff is pretty easy!](resources/images/2021-10-12_6-26-20.png)
 
 Of course, there's no code here, but it represents a very simple idea. "Query the database. If it's busy, do it later". In fact, instead of asking the use to ask again later, we can just automate that.
 
+{width: 66%}
 ![If the database is busy, automate the retry. This will make things easier for them! Yay computers!](resources/images/2021-10-12_6-30-11.png)
 
 Even though everything looks brutally simple, facile even, and we're doing something almost every programmer since the Univac has done, we've actually actually stumbled into a really interesting new concept that humans haven't really explored that much because up until the last hundred of years or so we've lacked the ability to create vastly-complex systems of logic: the Metastable Failure.
@@ -48,10 +53,12 @@ The problem is that if the database can service the query because its busy servi
 
 Loops and circles to the rescue! To describe and reason about this particular metastable failure,  let's put this situation into a loop, a Feedback Loop.
 
+{width: 33%}
 ![In many situations, the thing that we do comes back around to us in circuitous, oblique ways to cause us to do it again. Like our old friend the ouroboros, the snake eats its tail. Everything that has happened will continue to happen. Forever.](resources/images/2021-10-12-feedback-loops-classic.png)
 
 Once we started looking, we found these loops in all kinds of places, not just programming. Between feedback loops and systems, we've got all of modern science covered.
 
+{width: 33%}
 ![Six Sigma's DMAIC loop. You put greek letters on stuff, it always makes it look better.](resources/images/DMAIC.png)
 
 ## It Gets Complicated
@@ -62,38 +69,47 @@ If you remember when we talked about Boyd and management theory, I mentioned tha
 
 Let's take our metastable database problem and analyze it a little further. Let's say we were sketching this problem out, as if we were trying to solve it using a napkin.
 
+{width: 66%}
 ![Good things happen when you switch from graphical reporting/display tools to simply sketching solely to drive conversations.](resources/images/meta-sketch-1.png)
 
 There's our loop. Let's take each node and write it out as a sentence.
 
+{width: 66%}
 ![](resources/images/merta-sketch-2.png)
 
+{width: 66%}
 ![](resources/images/meta-sketch-3.png)
 
+{width: 66%}
 ![](resources/images/meta-sketch-4.png)
 
 
+{width: 66%}
 ![](resources/images/meta-sketch-5.png)
 
 Notice that I've not only written each node as a sentence, I've also broken the sentence up into what I consider to be meaningful chunks. Other folks might have other sentences or break them up differently. That's fine. The details here are not important. We're talking about process. Whichever choices others make, they're going to end up in the same spot we do.
 Adding Detail To Our Example Spec
 
+{width: 33%}
 ![](resources/images/lady-icon.png)
 
 Here we have our client, the person who wants to query the database. We even have a little icon and everything! [insert more warnings here about how graphical tools tend to lock you down to one way of looking at things]
 
 But wait, is "database client" really a person? Database clients can be anything, right?
 
+{width: 33%}
 ![](resources/images/grey-client.png)
 
 Well hell, that's great, we've taken the little icon of the person out, but it really doesn't haven't learned anything. The purpose of sketching things out is to understand problems in order to solve them. What kind of client? When do they use the database? We need more detail, so let's add some.
 
+{width: 33%}
 ![](resources/images/client-org-tree.png)
 
 It's a database client. For starters, let's say there are three major kinds of database clients: human client, API client, and message queue.
 
 That tells me how the actors relate to being a client, but how does a client relate to other things in the system?
 
+{width: 66%}
 ![We could do this in UML for something really fancy, but I think you get the idea.](resources/images/classic-oo-mapping-of-domain.png)
 
 Now we're getting somewhere! A client is one of many different types of client apps. It's also one of many different types of apps needing database access.
@@ -113,6 +129,7 @@ That ambiguity and the associated unease can easily lead us to create even more 
 
 We need another method, some new way of thinking. Let's try this a different way, adding probabilities instead of rigid logical relationships.
 
+{width: 66%}
 ![We're guessing we know these concepts, and we're guessing the degree they might be related to one another](resources/images/probability-web-intro.png)
 
 Now the graph isn't necessarily in error. We don't know who the exact database client might be. We're guessing.
@@ -123,6 +140,7 @@ It's extremely important to understand that although this graph uses the same sy
 
 You might be seeing where this is heading. Markov Chains.
 
+{width: 33%}
 ![Illustration of simple Markov Chains from Wikipedia. The system exists in one state, say A, and we map the percentage chancee the state of the system will change to E, and so on. It quickly gets very complicated](resources/images/markov.png)
 
 Things relating to one another based on probabilities are a type of Markov Chain. It's the basis of all Artificial Intelligence (AI) today, and there are dozens of books worth of material you can explore if you're interested. For now, all we care about is that Probability Webs are different in fundamental and completely incompatible ways from rigidly structured symbolic relationships, such as flowcharts, class diagrams, org charts, or computer code.

@@ -10,6 +10,7 @@ Not only do you learn as you go along, managing what time you spend on what, you
 
 ## Survival Drives Focus
 
+{width: 66%}
 ![](resources/images/levels-boyd-ooda.jpg)
 
 Is there a system for being a good fighter pilot? You might think that with the requirement that fighter pilots act almost instantly, engage in super-complex continuous maneuvers in multiple dimensions that the idea of having a "process" wouldn't work at all.
@@ -35,6 +36,7 @@ Management seems to happen when these categories come in pairs. Remember: Manage
 But what happens if they can't decide? They can't pick out a small test, or the tests they have don't seem to be able to be reconfigured to meet the rest of the systems or the standards. That's a Decision-Action management problem. Like all management problems, it's either handled there or given off to the next one up the chain.
 When you get hung up on Decide-Act, it's because your decisions and actions don't work together. The system fails, you can't code it, it's not doing what it's supposed to do, and so on. You need help on figuring out how to make better decisions.
 
+{width: 66%}
 ![Whether you're fighting in jets, kicking off a startup, or managing a multi-billion dollar ten-year project, everybody uses the OODA loop. It is context and scale free](resources/images/levels-fighter-jet-ooda-loop.jpg)
 
 **Orient-Decide**.  The next level of back-and-forth is between where we are, what our goals are — and how to make the decisions needed to get there. This implies that as we move up in management levels/skills, we're responsible for both broader concepts and more "fuzzy" ideas. We're specifically responsible for taking those broader concept and fuzzy ideas and translating them into something more immediately useful to folks up and down the chain.
@@ -67,6 +69,7 @@ You're doing all of this all of the time. You're self-managing. That's the best 
 
 P.S. You may be wondering how all of this fits in with our earlier model and discussion around the MPO and scaling out Product Development. Of course, it doesn't have to fit in at all: models are useful until they aren't. Pick 'em up, use them for what you need them for, discard them. But scale and context-free models tend to be able to compose and assemble together. Sometimes joining them up give us a new context and scale-free view of something we couldn't see otherwise.
 
+{width: 66%}
 ![You are here. The above essay addresses this area of Product Development. Skills (on the left) you use anywhere in much the same way. Activities and Conversations (top row) have their own unique characteristics](resources/images/levels-you-are-here.png)
 
 The MPO gives us a categorization system for conversations and activities around Product Development. Boyd gives us a management/decision model. The two do not conflict, and joining them together gives us a wonderful meta-model of how any-sized organization can discover and create things that people want without shooting themselves in the ass.

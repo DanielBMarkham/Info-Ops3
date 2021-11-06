@@ -2,6 +2,7 @@
 
 # Learning Leaves Comfort Behind
 
+{width: 66%}
 ![We must start from a profound place of ignorance.The universe is under no obligation to make sense to you](resources/images/boxed-meme-quote-socrates-excellence-education.png)
 
 Childhood is a time to be presented with overly-simply, mostly-false versions of the way things work. It's not because we don't like children; it's because overly-simple versions of things can work just as well as complex ones in a large number of situations. Don't go near traffic. Don't play with fire. Never use violence. Don't take candy from strangers. The interior angles of a triangle always add up to 180 degrees. In 1492 Columbus sailed the ocean blue. You all the numbers by counting. Fluffy must have ran away. There's a large man in a red suit riding a flying sleigh that breaks into our houses once a year and leaves presents.
@@ -14,18 +15,25 @@ It's time for many of us to intellectually grow up.
 
 ***
 
+{width: 66%}
 ![](resources/images/grow-up-charts-1.png)
 
+{width: 66%}
 ![](resources/images/grow-up-charts-2.png)
 
+{width: 66%}
 ![](resources/images/grow-up-charts-3.png)
 
+{width: 66%}
 ![](resources/images/grow-up-charts-4.jpg)
 
+{width: 66%}
 ![](resources/images/grow-up-charts-5.jpg)
 
+{width: 66%}
 ![](resources/images/grow-up-charts-6.jpg)
 
+{width: 66%}
 ![](resources/images/grow-up-charts-7.jpg)
 
 ***
@@ -57,6 +65,7 @@ It's amusing how easily we see this in others yet somehow refuse to believe that
 
 It's not an unexpected thing in life that members of religions and political parties all accuse the members of differing groups of having overly-simple ways of looking at the world. It's the basis of most cultural warfare: we're the ones who understand the details and complexities required in this area. You guys are the ones living in a overly-simple world. Can't you see the important things you're missing here! And there you go into all of this detail on these other things that aren't important at all!
 
+{width: 66%}
 ![Think that the universe only consists of firmly-defined concepts held together in mathematical precision? Logical fallacies are your friend! Simply listen to the other person and point out which fallacy they're using. No further thinking required.](resources/images/grow-uplogical-fallacies.jpg)
 
 > There's nothing in life that's not [multivariate](#definition-multivariate) and where the definitions are not in flux. Many systems of interest are chaotic.[^grow-up-yes-there-are-simple-explainable] But humans can't communicate in multivariate chaotic formulae, even if we all worked from the same definitions. Our species is always in failure mode. The only question is whether the current mode matters or not for the particular goal under discussion
@@ -84,6 +93,7 @@ Why am I writing this? I'm writing it because I need you to engage me with intel
 
 What does it mean to intellectually grow up? It means intellectual humility, the simple fact that you and your social group (close or extended) don't know most things, no matter how sure you are about it. Aside from math/formal systems, the only way we truly know anything is by honest conversations between people of drastically different experiences and worldviews. Knowledge is not a social construct, but webs of related fine-grained siloed definitions are, and such webs are always necessary in our common search for knowledge. That means that the constant chaos, mixing, and stirring across social groups is the prime prerequisite for our own evolution. It always has been. If you're one of those folks who search for universal wisdom, you're on a search for definitions that work among the largest set of people over the longest period of time.
 
+{width: 66%}
 ![Concluded that all that matters is what people believe, i.e., what you can get them to believe? Rhetoric and argumentation are your friends! Learn, use, and employ the tools of persuasion.](resources/images/grow-up-rhetoric.png)
 
 Oddly enough, true education is the opposite of what many think it is. For many, becoming educated means knowing things and feeling assured that there are no important questions left in the fields you have studied and that you have now become more capable and powerful than those without an education. In fact, true education is learning the depths of the unknowns and contradictions we observe (E pur si muove) and developing personal habits to take you and the rest of us just a little bit out of that state. It's a curiosity. It's a growing wonder at the vastness of existence and our place in it. It's a profound ignorance. It's intellectual humility. It's understanding our own limitations. It's knowing that we're never wrong in a way that we'll never be able to easily understand ourselves[^grow-up-necessary-discussion]
@@ -92,6 +102,7 @@ None of us have any idea where our personal evolution or the evolution of our sp
 
 It's time to intellectually grow up.
 
+{width: 66%}
 ![Political memes, like flamethrowers, are hella fun on very special occasions. There are many variations on this cartoon illustrating a concept loosely labeled "Equality of Outcome" It reduces a complex topic, society and governance, to two variables with devil-may-care definitions. It's all about watching a baseball game. The premise is that there is a unique thing called a game, and that we all have the exact same desire to see that game. Here, everything in governance reduces to two variables to optimize, then we are told to optimize. The feeling and intent may be great and noble. The information content is zero. (In fact, it's negative. It's encourages harmful reductionism. Because it's purposely misleading, you become dumber consuming things like this, no matter what your politics)](resources/images/grow-up-euality-of-outcome.jpg)
 
 [^grow-up-dont-confuse-explaining]: Don't confuse this with explaining the universe at any level of detail a child requests. It's love, not malice. If a child asks me why something is, like the sky is blue, I will explain for as long as I am able and they are interested. But I'll also point out that for all intents and purposes, it just is. Because I said so. We explain the depth of the structures and universe around us to provide a sense of wonder and curiosity, not because there's going to be a test. The child gets to choose where to go from there. (And don't get me started on Santa)

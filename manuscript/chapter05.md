@@ -48,6 +48,7 @@ Our conclusion is that people are wrong when they don't know where they are in t
 
 *How would you describe the universe to a friend?*
 
+{width: 33%}
 ![](resources/images/earth.png)
 
 
@@ -55,10 +56,12 @@ This book is about learning, after all. We say things like "I learn new things e
 
 As I learned in High School Geometry Class, I have a visual mind and I prove things and arrive at conclusions using the spaghetti-wall approach: I just keep throwing spaghetti everywhere. After a while, I inspect the wall to see what's sticking. It's messy but it works.
 
+{width: 33%}
 ![Warning: This thought experiment requires you to step outside our universe. This may not be easy for some.](resources/images/spaghetti-on-the-wall.jpg)
 
 Let's say the universe is a program. For our purposes, let's use "The Sims" as an example. You've played The Sims for a while and love it. Then you go to a faraway country where you make a new friend. Your new friend has never played The Sims. In fact, they've never even seen a computer. You have to start from scratch and tell them what's going on.
 
+{height: 33%}
 ![What a cool universe! I am the master of all that I see. Wait, you're saying I got to get a job? Seriously? What kind of asshole is running this thing?](resources/images/sims-guy.png)
 
 It's a little universe where things exist and do things with other things. Seems like there are three categories of things:
@@ -125,6 +128,7 @@ Epistemology is the study of knowing things. How do we know things? What does it
 
 Epistemic ignorance is not simply not-knowing something; that's just ignorance. Epistemic ignorance is not knowing (or caring) that there are things to know.
 
+{width: 33%}
 ![](resources/images/wrong-about=wrong-acme-wile.jpg)
 
 {blockquote}
@@ -175,6 +179,7 @@ Most times for us regular folks it doesn't matter. Sometimes, though, it does.
 
 <!-- ![](resources/videos/python-shes-a-witch.mp4) -->
 
+{width: 33%}
 ![](resources/images/monty-python-shes-a-witch.png)
 
 

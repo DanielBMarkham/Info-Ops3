@@ -20,12 +20,14 @@ Make no mistake, though: we want to be wrong. That's good. We want to be wrong i
 
 The naive way to think about learning is to think about it from the outside. We all do that. We learn in many ways: there are a lot of physical things you might do: read a book, go to school, spaced repetition, apprenticeship, and so forth. There are millions of books, videos, recipes, products, and other things out there to help you learn, with more appearing daily. At heart, however, no matter what you're doing physically, mentally there's a finite number of ways to take things from the outside and make them part of your consciousness. Somehow or another, you're doing some form of mental work to get new learning inside. Here's the three different kinds of reasoning and how to use them to learn. Let's see exactly what that looks like.
 
+{width: 66%}
 ![Induction consists of looking at stuff, matching it to general rules, and assuming all things like that will follow those same rules. 1+1 is like 1+2 is like 1+3. We do addition through induction. Induction is running the machine we've created. We don't need to know all of the numbers to be able to add them together. In induction, the categorization and rule application is more important than the actual sensory input.](resources/images/deductive-inductive-reasoning-chart.jpg)
 
 ## Induction
 
 Induction is our natural life. We see something. We already know what it is and how to use it. We use it. We don't go testing every chair we come across to make sure it's a chair, even if it's a very weird-looking chair. We quickly categorize, sort, apply rules, and keep going. If you think about it, induction is done by plants as well as humans. Repeating a bunch of things you've memorized in a list without understanding is induction. It's a series of stuff we know and we're able to continue forward in the series without really knowing anything at all. It is the most naive way of reasoning about the world. It doesn't even require anything that we might consider intelligence.
 
+{width: 66%}
 ![Contrast Induction to Deduction. Deduction takes specific structures and rules, applies formal logic to them, and then proves that other, more generalized structures and rules are forced to be true. Deduction is creating the machine that we then run using Induction. Induction moves from the general to the specific, taking loosely matched input and running precise rules, whereas deduction moves from the specific to the general, taking tightly-defined rules of logic applying them to loosely defined categories, and ending with statements about everything. Deduction creates the rules, Induction applies them.](resources/images/Deductive-Reasoning.jpg)
 
 ## Deduction
@@ -36,6 +38,7 @@ The underlying concept to deduction is that we all have things we know to be tru
 
 The trick to deduction is making sure we identify A, B, and C in this example and also making sure the "->" transform for each of the three statements meet certain criteria. Deduction only works when our input is good and our logical system is sound. Garbage in, garbage out.
 
+{width: 66%}
 ![This shows how to apply the three types of reasoning. The word "therefore" in each diagram shows how we use each of them. Remember that learning goes the other way. Learning is when we take this information and create a new "therefore" using one of these three forms of reasoning](resources/images/Deduction-Induction-Abduction.png)
 
 ## Abduction
@@ -108,6 +111,7 @@ Also note that these new things we call "Consciousness Atoms" map to entirely di
 - **Read/Change**. When sensory information arrives, it has to go "somewhere". It's read and it changes some internal state. Perhaps there are magic monkeys. Beats me. It's atoms.
 - **Predict/Enforce**. As more sensory information arrives and the state continues to change, patterns are observed, either to predict or prevent new patterns. Note that predict/enforce works with either one of the three nodes in our atom, two of those nodes, or in most cases a series of all three nodes working over a period of time recursively inside probability webs. Predict/Enforce receives information. It sends information back out to other groups of neurons. Sometimes that's the neurons in one particular consciousness stream, but most times the streams change up from sequence-to-sequence and the output goes all over the place. Predict/Enforce is where layering, recursion, probability webs, and emergent structure/behavior happens.
 
+{height: 25%}
 ![This is our little manmade island between computation and biology. It allows us to use the same concepts to reason about both.](resources/images/notional-neuron-three-node.jpg)
 
 ## Notional Neuron
@@ -149,6 +153,7 @@ Some made-up definitions to keep us coloring inside the lines:
 - **Sentience**: lifeforms that are able to reason entirely in abstractions. The number instinct is an example the early abstractions that occur as sentience emerges in a species.
 - **Intelligence**: Sentient lifeforms that are able to reason in abstractions over a shared medium and over periods of time exceeding the direct capabilities of individual lifeforms.
 
+{width: 66%}
 ![](resources/images/notional-neuron-change-node.jpg)
 
 ## Change
@@ -160,6 +165,7 @@ Our top node is called "Change" There are a fixed-number of ways change comes to
 10. **Argumentation**. Neurons at a lower level of consciousness have a major disagreement about predictions or violations. The code that runs in our brains has bugs (The brain has bugs. It always has bugs. The code always works. The bugs are just more or less annoying)
 11. **Dialectic**. Neurons at a higher level of consciousness have a major disagreement about recognizing what's going on: the narrative, pain/pleasure received, what our reaction should be, or whether this current "storm" is productive. It's a kernel panic. (but it's not a brain panic. It's just a panic for this particular thought stream.)
 
+{width: 66%}
 ![](resources/images/notional-neuron-recognize-node.jpg)
 
 ## Recognize
@@ -171,6 +177,7 @@ Our next node, "Recognize" is where a lot of conflict gets handled. This conflic
 14. Re-Org, Re-factor. We are confused. Nothing is happening the way it's supposed to happen. Patterns of health are no longer present. Incoming information keeps failing to map up to our model.
 15. **Change Narrative**. Either our story map or our position in the map is mistaken. Incoming information maps up to our model, but the predicted sequence continues to not match up to what we thought it was going to be. Other conflicts happen to us. Change Narrative conflicts happen when we look upwards and the bigger story doesn't work. Neurons do not only process information as it relates to itself. They also model what they think other neurons are going to do. (Or simulate, if you don't like the word model. See Mirror Neurons)
 
+{width: 66%}
 ![](resources/images/notional-neuron-predict-enforce-node.jpg)
 
 ## Predict/Enforce
@@ -181,6 +188,7 @@ This is the part folks always focus on. At heart this is just a big analog conne
 
 On the left, along the outside of our diagram we see the classic OODA  decision/combat loop, only with "recursion" added in order to show how what we're really talking about are these nodes and loops existing in complex probability webs. We've already found out that probability webs are too much to draw. The word "recursion" does a lot of heavy-lifting here.
 
+{height: 50%}
 ![Notional Neuron in detail](resources/images/notional-neuron-detail-small-3.jpg)
 
 ## Notional Neuron at a Glance
