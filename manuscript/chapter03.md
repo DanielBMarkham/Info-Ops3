@@ -133,3 +133,23 @@ Negatives stack; positives don't.
 In pre-calculus algebra, we define a limit as a mathematical way of dealing with something we can never name. A function has a limit somewhere if, for any definitely-sized gap in the output you name, I can name a definitely-sized gap in the input such that the function's output falls within that gap.
 
 In many situations in math, I can't calculate directly what the answer is, but there's a pattern such that I can get us as close as we'd ever want to get, and it turns out for all intents and purposes that this is the same as being able to calculate the answer. A very similar thing happens with anything involving language and communication.
+
+![I can't directly calculate the area under this curve, but by splitting the area up under the curve into more and more rectangles, I can get as close as anybody would want to knowing the answer](resources/images/Riemann-integration-animated.gif)
+
+For many centuries, mathematicians knew how to calculate derivatives (the instantaneous slopes of lines) and integrals (the areas under curves). It took the Fundamental Theory of Calculus to show that these were two ways of looking at the same thing.
+
+![For whatever epsilon you want, I've got a delta for you. As show above, the Riemann Integral is taught by sketching on a blackboard, chatting informally, then taking that chat and turning it into math. Programmers do this over and over again, just our math hardly ever works out](resources/images/formula-for-the-riemann-integral.png)
+
+Science advances by tests that fail. These failing tests, over time, exclude more and more areas from our search, eventually either leading us to the right answer or close enough that it doesn't matter.
+
+## Two People, One Concept, X-Y Axis
+
+So far we've talked about one person clearly identifying and communicating an internal concept to the outside world, but aside from writing, that's almost never the case. Instead, there's always a sender and a receiver. This means that communication is always a back-and-forth about vague generalities, where with each volley back and forth both participants have a better idea of a shared concept. Such back-and-forth games are called Language Games, and they're the basis of all intelligent discourse, all language in general, really. [8]
+
+![With two people and one concept, you have two number lines, just like in an X-Y axis. Good luck with seven (or a hundred!) people. There's a solution. It's covered in a separate essay](resources/images/number-line-axis-and-guessing.png)
+
+It's as if we're two players playing a game of whack-a-mole, only on an infinite board, with zillions of holes from left to right and zillions of holes from top-to-bottom. Do you want a very tiny hammer and a lot of time to carefully aim? Or would you like one of our flame-throwers? Which is quicker and gets the job done well enough? All those little bastard moles gotta die. You can go looking for the tiny hammers if you'd like. The rest of us will take the flame throwers.
+
+The vast majority of the time, simple, vague, even sometimes completely idiotic words work perfectly fine for our purposes as long as they describe negative space and stack. It's rare that they don't. In fact, you can get a lot done with one random negative word, and that word doesn't even have to relate to anything we're talking about. [9] We place far, far too much faith in dictionaries.
+
+![WARNING: NUDITY AND LANGUAGE IN THIS VIDEO. You don't add more and more language and necessarily get something that's more useful. It's just the opposite, in fact. In this famous scene from "The Wire", two detectives perform a difficult and demanding job using only one word, f*ck. Note: this is presented for educational purposes only and is not part of any commercial activity. I wouldn't use this clip at all, but there's no better pop culture example of what I'm trying to teach.](resources/images/the-wire-fuck-scene.png)
