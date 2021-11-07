@@ -88,3 +88,48 @@ In  normal life, nobody cares about that sixth digit of pi until they're launchi
 
 If all of the internal representations of our ideas are like irrational numbers, then how can we ever convey to somebody that they're wrong? If you can't nail down the value, how can you talk about it?
 
+Through comparison, that's how. If you ask me where the square root of two is, I'll say something like "It's between 1 and 2". It's an irrational number. I can never truly answer that question. But I can easily exclude large areas of space where you don't have to look. In this case, I'm saying "It's not <1. It's also not >2"
+
+These statements of inequality join up in an "and" or intersection arrangement. This works even if the terms used in the intersection are themselves irrational! Woot! Magic!
+
+Where's the square root of 3? Somewhere between the square root of 2 and the square root of 5. You don't have to hit those numbers exactly, just exclude all of those areas I've excluded and we're 99% closer to the answer. We talk. We repeat and rinse until it doesn't matter anymore. Magic.
+
+![Taken during a recent vacation where this exact interaction happened](resources/images/2019-08-14-backyard-sunrise.jpg)
+
+## The Pier
+
+Let's perform a thought experiment. Let's say we go on vacation to the beach. One night you walk down to the pier and gaze into the water lit by the dock lights. For whatever reason, you're suddenly surprised: that little bit of plankton there is the cutest thing in the world!
+
+You run up to the house. You wake me up. I have to go see this cute plankton! It's cute! We go down to the dock and you proceed to try to tell me how to find it.
+
+There are two ways you might go about showing me your cute piece of microscopic plankton.
+
+You might try to point it out. There are many problems with this approach, though. Should you lay on the dock, slowly looking closely at each little tiny sea creature? You could point very carefully and precisely when you found the right one. That's going to take a long time and is unlikely to work.
+
+Perhaps you could just point vaguely. There it is! If I looked where you were pointing, even if I looked exactly where you pointed, it's highly unlikely that I would latch on to the exact thing that caught your fancy. Maybe you add more detail. It's to the right of that shadow of the point of the post in the light. It's three millimeters down from the edge of that bubble that just popped on the surface.
+
+But the water is always moving. The tide comes in and out. The current shifts the sea around. Sea creatures silently moved through the area while you were getting me from the house. How can you even be sure that the plankton you're pointing out is the one you were looking at before? Maybe it's just another one that looks very similar. A lot of these creatures look just like one another. How could you ever really know?
+
+![That has to be the cutest little speck over there that I've ever seen!](resources/images/gorgeous-underwater-landscape.jpg)
+
+A positive, descriptive approach is never going to work. You're really not even sure yourself that you have the same item as you had before, although most of us would easily (and subconsciously) convince ourselves that it was the same. No matter how exactly and precisely you point, you're never going to get it.
+
+If, instead, you started with negatives, we could quickly stop lying here in the cold dark on this hunk of wood looking at a hunk of water and getting eaten by mosquitoes, reach a conclusion and go grab a beer. It's not on the left side of the dock. It's not on the bottom or on the surface. It's not too far from the surface. It's not too far from that post. It's not light yellow like the other ones. It's not as small as the ones you see off the front of the pier.
+
+Within a dozen or so negative statements, as they stack and exclude more and more of the search space, we're quickly gathering around a particular spot in a particular configuration, observing a very small common area. There it is, you exclaim, pointing. The light is just right, the color of the light is just right, the breeze is the same, and there, right in front of us, is your cute plankton!
+
+Win!
+
+Now, there may be a dozen plankton in that very spot swimming around, and I may look at a completely different one than you did, but we have isolated our experience so much that it doesn't matter. We have essentially had the same experience and shared the same abstraction.
+
+Like always, the language you used was completely vague. Perhaps when you said "on the left side of the dock" I was confused. "Do you mean the left side before that bend?" In most cases, though. I am not confused. When we try to positively identify concepts using language, we suffer under this imprecision problem, but when we flip the problem around to describe negatives, we make the imprecise nature of language work in our favor instead of against us.
+
+And there's the magic: **None of your negative descriptions have to have any exactness at all, only enough agreed-upon exactness that both of us can exclude wide areas of the search grid.**
+
+Negatives stack; positives don't.
+
+## The Fundamental Theory of Communication
+
+In pre-calculus algebra, we define a limit as a mathematical way of dealing with something we can never name. A function has a limit somewhere if, for any definitely-sized gap in the output you name, I can name a definitely-sized gap in the input such that the function's output falls within that gap.
+
+In many situations in math, I can't calculate directly what the answer is, but there's a pattern such that I can get us as close as we'd ever want to get, and it turns out for all intents and purposes that this is the same as being able to calculate the answer. A very similar thing happens with anything involving language and communication.
