@@ -1,5 +1,7 @@
 # The Great Reckoning
 
+***YOU CAN SKIP THIS CHAPTER IF YOU'RE NOT INTERESTED IN ARGUING WITH MY PREMISES***
+
 I grew up in a rural area. Out here, we have a word that you might have heard on radio or TV: reckon. It's a standard English word but for whatever reason I find it used much more in rural, southern, and perhaps a bit uneductated settings. It's a modifier, usually used after a pronoun, as in "I reckon I'll go down to the bank this afternoon", or "You reckon that's clean enough?"
 
 Reckon comes from navigation, and it's generally used where the speaker is unsure of their statement but feels the need to make the statement anyway. It implies a certain ambivalence or apathy towards the topic at hand. This is why it has a bit of a connotation that the speaker is uneducated. We naturally feel that educated people should know exactly what they want to say and to say it forcefully. If you're not that sure of yourself, maybe you need tpo learn more. (Reckoning can also be used as a form of the word "judgment", and in the past the phrase "The Great Reckoning" was used as a placeholder in many religions for doomsday, the end-of-the-world, when all people would be judged. That's what makes the title to this chapter a pun. Dad Jokes for the win!)
@@ -149,3 +151,7 @@ I don't claim to be an expert in *any* field, and this book is useful only as mu
 Definitions are a social construct, knowledge isn't. This means that differing social groups may very well perceive the same underlying reality, they just write those descriptions and join them up into "what" and "why" explanations using that language. When those groups are in different cultures, it's not much of a problem. But when they're in the same culture using the same overloaded words, people can have massive disagreements about reality simply because the language itself is unreliable.
 
 People who define things are limited by those definitions.
+
+
+
+

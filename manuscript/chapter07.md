@@ -1,200 +1,347 @@
-# Notional Neuron goes to the Learning Zoo
+# Learning Isn't Feedback Loops
 
-![*There's a ton of bullshit here for sure, but there's also enough truth to make exploring extremely worthwhile*](resources/images/learning-zoo.jpg)
-
-## Disclaimer
-
-If we're going to learn about learning, we're going to have to talk about brains: biological brains, artificial brains, social brains, and a few more. In order to do that without getting lost in recursion, we're forced to create an artificial nomenclature, a bunch of labels that we can use to navigate our way around. We're not going to design a brain, but we're going to talk about the things a brain has to do. We're going to do that using an imaginary thought experiment neuron. We'll call him "Notional Neuron"
-
-There are no justifications for these names or diagrams forthcoming. There will not be an extended discussion about theory, qualia, or the foundations of reality. That might come later. Instead, frankly, we're going to pull a bunch of concepts out of our ass and make nice diagrams with them. If the names and diagrams work to help us through the book, they've done their job. If not, it is left to the reader as an exercise. Good luck. Many have been down this road, never to return. Here there be monsters.
-
-It's also important to understand that we are providing notional diagrams only. They are not meant to correspond to any particular thing in the real world. Where it's possible that there is correspondence it will be noted. Given this disclaimer, there should be many parallels and very few discrepancies with things we already know to be true.
-
-Many of the "joining" ideas that connect up our nomenclature and general concepts are founded on lots of books and schools of thought and intellectual history. These situations will also be noted. What we have here is a pot pourri of creativity and hard science. Caveat Emptor.
-
-Make no mistake, though: we want to be wrong. That's good. We want to be wrong in as useful a way as possible so that we can all learn more about learning than we knew before. There are two diametrically-opposed forces we need to join, biological and computational. If we're wrong in a good way we'll bring each side a little closer to the other. No instant miracles are contained here, only cool shit you didn't know before. Later we'll talk about how to do neat stuff with it.
-
-![When you learn, you have new ways of understanding and interacting with the world. There are only three ways of thinking that allow you to do that. We must reason to learn. These three types of reasoning are the only types that all intelligent beings can use.](resources/images/types-of-reasoning-and-learning.jpg)
-
-## Learning from the Outside
-
-The naive way to think about learning is to think about it from the outside. We all do that. We learn in many ways: there are a lot of physical things you might do: read a book, go to school, spaced repetition, apprenticeship, and so forth. There are millions of books, videos, recipes, products, and other things out there to help you learn, with more appearing daily. At heart, however, no matter what you're doing physically, mentally there's a finite number of ways to take things from the outside and make them part of your consciousness. Somehow or another, you're doing some form of mental work to get new learning inside. Here's the three different kinds of reasoning and how to use them to learn. Let's see exactly what that looks like.
-
-{width: 66%}
-![Induction consists of looking at stuff, matching it to general rules, and assuming all things like that will follow those same rules. 1+1 is like 1+2 is like 1+3. We do addition through induction. Induction is running the machine we've created. We don't need to know all of the numbers to be able to add them together. In induction, the categorization and rule application is more important than the actual sensory input.](resources/images/deductive-inductive-reasoning-chart.jpg)
-
-## Induction
-
-Induction is our natural life. We see something. We already know what it is and how to use it. We use it. We don't go testing every chair we come across to make sure it's a chair, even if it's a very weird-looking chair. We quickly categorize, sort, apply rules, and keep going. If you think about it, induction is done by plants as well as humans. Repeating a bunch of things you've memorized in a list without understanding is induction. It's a series of stuff we know and we're able to continue forward in the series without really knowing anything at all. It is the most naive way of reasoning about the world. It doesn't even require anything that we might consider intelligence.
-
-{width: 66%}
-![Contrast Induction to Deduction. Deduction takes specific structures and rules, applies formal logic to them, and then proves that other, more generalized structures and rules are forced to be true. Deduction is creating the machine that we then run using Induction. Induction moves from the general to the specific, taking loosely matched input and running precise rules, whereas deduction moves from the specific to the general, taking tightly-defined rules of logic applying them to loosely defined categories, and ending with statements about everything. Deduction creates the rules, Induction applies them.](resources/images/Deductive-Reasoning.jpg)
-
-## Deduction
-
-Anybody that's read a Sherlock Holmes book or watched a detective show has engaged in informal deductive reasoning. It's the kind of reasoning we think about when we think about "figuring stuff out".
-
-The underlying concept to deduction is that we all have things we know to be true. These things can be the names of things, how things relate to one another, or how things act over time. These existing things we know to be true can be expressed in mathematical format. Our goal with deductive reasoning is to create a proof: If A->B and B->C, then A->C. The things we already know to be true, if thought about logically, create new things we also know to be true. New stuff we know comes through the rigid application of rationalism and logic. Yay science.
-
-The trick to deduction is making sure we identify A, B, and C in this example and also making sure the "->" transform for each of the three statements meet certain criteria. Deduction only works when our input is good and our logical system is sound. Garbage in, garbage out.
-
-{width: 66%}
-![This shows how to apply the three types of reasoning. The word "therefore" in each diagram shows how we use each of them. Remember that learning goes the other way. Learning is when we take this information and create a new "therefore" using one of these three forms of reasoning](resources/images/Deduction-Induction-Abduction.png)
-
-## Abduction
-
-Many of you are probably wondering what the hell abduction is. We never learned abduction in school! There's a good reason for that. Abduction is the creative part of science that we don't really talk about. Traditionally it's been difficult to teach formally so we just ignored it and stuck little bits of it here and there into other areas. Unfortunately, that makes understanding both abduction and those other areas more difficult. Let's untangle this.
-
-Reasoning through abduction is just as important as the two other ways of reasoning. Our current tech implementations shows a severe lack of abductive understanding and practice. The big hole that's missing in AI right now is Abduction. Gotta have Abduction. If you look mainstream talk about abduction, it's not there but in order to do the best they can, they collapse part of it into induction and part of it into deduction. This makes a mess of things and makes it impossible to actually understand what's going on.
-
-In plain words, abduction is just guessing stuff and being able to come up with some kind of reason why your guess might be right. This is another thing we do all of the time. Our brains are quite excellent at it.
-
-If you've come here to learn about the current and future state of AI, you're in the right place. Abduction takes a seemingly big chunk of noisy stuff from all kinds of places and comes up with rules and creates loose associations that might explain them.
-
-As an example, let's take the gherkin testing language based on RSpec. Gherkin describes computer tests. It is written in the format of Given-When-Then. Induction is simply When-Then. See that, do/think this. Deduction is simply Given-Then. Given this to be true, then that must be also be true. Abduction creates an entire chain, Given-When-Then, but it is in the form of a question, a hypothesis. Abduction is both tentative and creative.
-
-## Learning Comes In Combinations
-
-My thesis is that when looked at it from the outside, intelligent creatures learn by holding two points of the reasoning triangle still and letting the other one change as our brains continue to work.
-
-Let's visit the "Learning Zoo"
-
-- **Inductive/Deductive Learning**: We're coming up with new forms of abduction, things we believe to be true but aren't sure. We take data in categories we know to be true and using rigid rules we also know to be true (and where we also we believe both the categorization and rules to be applicable in this particular situation.) This type of learning can work in a closed room. It's context-free because you're reasoning in the abstract. The context comes later. It's very content-dependent, though, as the entire world of deduction happens based on strict rules about the content of the argument. We apply inductive and deductive reasoning, sometimes over-and-over again, until abductive reasoning provides a newer or simpler way of looking at things. Are there other categories we should be using for this data or other rules that make more sense in this situation?
-
-This is thinking about science, not science itself. It's probably most clearly illustrated in the Socratic Method, where questions and logic are used in order to have the student guide themselves to a new understanding they didn't have before. We look at stuff we already have and wander if there isn't some better way of putting it all together. It's what we use as programmers when walk through somebody else's code we've never seen before and try to come up with why the original coder coded it that way. When we do that, we're learning how to abduce.
-
-- **Inductive/Abductive Learning**: We're figuring out new forms of deduction, the rigid rules this universe operates under provided with a bunch of guesses and data. In contrast to inductive/deductive, inductive/abductive is very context-dependent. You need to know the exact situation here. You are constantly looking at the environment, the data, the situation and so forth. The details. What's the simplest form of logical system that works here? You don't know exactly what you're looking for, since so many things can affect so many others. It's content-free, though. You figure out what system of logic you're stuck in by watching the data go by and continuously categorization and rules to sort it all out. You're trying to create the simplest system possible to organize all of the existing data such that it's useful in other situations. You know the rules to make an infinite series of the stuff, you think you know why that's true. You're trying to find the structure, the *why*.
-
-As you sort through things trying to find possible rules, you might create ad-hoc content, for example sometimes people sketch things on a whiteboard, but it's ephemeral. Mostly it gets thrown away until you get to the deductive part that holds true always.
-
-This is breakthrough science, figuring out how the math/world works, or at least the beginnings of it. It's illustrated in an audience watching a murder mystery, a jury reaching a verdict, a reader reading a new fantasy novel, or a child figuring out if they throw food from their highchair a grown-up will magically appear and pick it up. Repetition of data occurs, rule guesses are created, and the process continues until we spot the underlying systems that are being used. We come to a system of logical rules that must always hold true in this universe. We're learning how create these systems of logic and categorization. We're learning how to deduce. We figure out the rules of what we're experiencing and how they must relate to one another.
-
-- **Abductive/Deductive Learning**: We're coming up with new forms of induction, thinking about how to stop thinking. This is the end of science, or at least the beginnings of the end. This is where science ends because there's nothing left to figure out. You are given rules and categories in this universe along with all of the hypotheses that might be true in various ways and circumstances. We know a bunch of guesses that might be rules, we can work through the logic that takes these guesses and translates them into predictions, but it's a struggle matching them all up in order to mechanically predict future behavior.
-
-This is the way many programmers operate. They're given a fixed set of rules that must apply (the programming language). They're given a bunch of guesses about how certain things have to appear and work. Their job bolt it all together in a mathematical system that runs by itself ad infinitum.It's interesting to note that this way of learning cannot by definition lead to any breakthroughs on its own, although it's required that we do this for those future breakthroughs to happen. Abductive/Deductive learning can only lead to a place where it stops working. If your inductive rules don't work for this context and data stream, you've got some learning to do. (in the other two areas). We're learning induction.
-
-All of the arguments you hear about pure theory versus applied science boil down to people over-emphasizing either side of the Abductive/Deductive pair. Both are necessary. The missing piece here is abduction, as these are abductive arguments, but since we don't talk about abduction, many times the participants are lost at sea.
-
-| Type of Reasoning  | What it represents  |
-| --------- | --------- |
-| Deduction | Categorization systems and rules that relate them |
-| Induction | Easily calculating he possibly infinite number of next items in a particular situation |
-| Abduction | Possible new deductive/inductive pairs to investigate |
-
-## Channels of Change
-
-Thinking about learning from the outside, those three forms of reasoning describe the magic that must somehow happen. If the "learning machine" was made of gears, how do we start the gears going? How does learning get inside a brain, however we define "brain"? Here are the levers we can pull from the outside when we want to learn to get the learning machine started.
-
-- Direct Sensory
-- Recursion of acting/sensing
-- Repetition of acting/sensing
-- Carrot/Stick
-- Creation and comparison of abstract models
-
-
-There's a heavy dose of recursion implied in this list. Recursion accounts for a lot of the missing pieces that would otherwise be listed. Recursion wreaks havoc with a lot of folks. It causes all sorts of problems, like the mind-body problem or the hard problem of consciousness. We're okay with those problems, however. We don't care. We're not trying to explain or diagram how reality works. We're sketching something on a napkin that will get us a little farther along down the road. We back away from the problem in this way in order to take the contradictions out, while leaving some good nuggets of insight to mine later.
-
-## Learning from the Inside
-
-We've covered as much as we want about learning from the outside-in, top-down viewpoint. We've talked about the forms of reasoning and how they are used in combination. We can observe them happening all around us. Now let's flip things over, move inside our magic box. Let's change from a top-down view to a bottom-up view. We're going to get a lot more speculative and talk about what learning might look like from the inside-out in, bottom-up in our magic learning machine. This same machine is everywhere, a bacteria, monkey, computer, startup, or person. Can we make one model that handles them all? A supermodel?
-
-![When scientists look at consciousness, it's either some vague, humongous thing that emerges from entire brains in perhaps quantum ways we don't understand ... or it's so small that a little bit of it might be in anything. We're going to use the second approach. By making it super-small, it avoids having to explain and reason about the entire consciousness stack](resources/images/atom-of-consciousness-2.jpg)
-
-## Atom of Consciousness
-
-What is consciousness? Beats me, but everybody seems to agree that it whatever it is, it has these three qualities, although the phraseology people us may be different: Act/Sense, Read/Change, and Predict/Enforce.
-
-- **Consciousness Atom**. The Greeks a long time ago created something they called atoms, long before anybody had a clue what they were. Following in their footprints, we're naming "atoms of consciousness". Like the Greeks, we don't know what's in there, but by having these three attributes these atoms are able to combine in more and more complex fashions, eventually creating Scooter, the guy who changed your oil last week.
-
-Also note that these new things we call "Consciousness Atoms" map to entirely different things in different situations. Continuing to use our atom metaphor, we know atoms must exist. We know a couple of things about them. There is a vast gap between knowing there is an indivisible piece of stuff and knowing how it all can work together. If these are atoms, we have no idea about molecules or chemistry. That doesn't mean we can't begin use them as intellectual props. In our system, plants have some sort of rudimentary consciousness. Plants do these three things through various plant cells. Humans, on the other hand, have an amazingly-complex web of consciousness existing all over the place. A bunch of these consciousness atoms exist in neurons. We believe that's where most of the high-level learning and consciousness happens. Remember, it's only a model. These are not physical things. Our Consciousness Atoms represent abstract structure and behavior for purposes of analysis only. For now, though, we'll limit our discussion to what happens once consciousness atoms come together with a bunch of other stuff to make neurons.
-- **Act/Sense**. Hang on a minute, bub, aren't these opposites? Isn't "sense" passive and "act" active? Not in this context. Whatever we're calling a brain interacts with the outside world. That interaction might include the operation of simple sensors, movement or growth in the organism outside the atom, or any number of other things. However it happens, the organism can always reject incoming information, and it is always the case that it has acted in some fashion to receive information. Therefore, sensing and acting as far as an atom of consciousness goes are one and the same thing. We sense then act. We act, then sense. It's one and the same.
-- **Read/Change**. When sensory information arrives, it has to go "somewhere". It's read and it changes some internal state. Perhaps there are magic monkeys. Beats me. It's atoms.
-- **Predict/Enforce**. As more sensory information arrives and the state continues to change, patterns are observed, either to predict or prevent new patterns. Note that predict/enforce works with either one of the three nodes in our atom, two of those nodes, or in most cases a series of all three nodes working over a period of time recursively inside probability webs. Predict/Enforce receives information. It sends information back out to other groups of neurons. Sometimes that's the neurons in one particular consciousness stream, but most times the streams change up from sequence-to-sequence and the output goes all over the place. Predict/Enforce is where layering, recursion, probability webs, and emergent structure/behavior happens.
+***The phrase "feedback loop" idea is total bullshit. We're all going to have to keep using it anyway. Here's why.***
 
 {height: 25%}
-![This is our little manmade island between computation and biology. It allows us to use the same concepts to reason about both.](resources/images/notional-neuron-three-node.jpg)
+![](resources/images/wild-meerkat-9.jpg)
 
-## Notional Neuron
+We make a lot of bad decisions in organization and system design because of the way our heads are shaped. It's not our fault, but to fix it we have to understand it.
 
-You may have noticed that when I described Conscious Atoms, sometimes I referred to them as neurons. That's because Notional Neuron looks the same as our Consciousness Atom, only with more detail. Atoms come together to form a very similar system only at a larger scale. (Yes, you think inside of thinking, but there are only two levels of turtles here) Each of the three nodes inside our Notional Neuron are not just one thing, though. They represent an uncounted number of Atoms of Consciousness working in highly-complex ways. Neurons, whether in the real world or our little toy Notional Neuron, are probably the closest thing we have to biological entities that represent abstractions intelligent creatures create and use. Starting from the bottom and moving up, this is the first point that we start figuring out how learning and intelligence work. The mystery picture is beginning to come into focus.
+I have been using the phrase "feedback loop" for my entire career. An immature way to look at the world, simplifying as much as humanly possible, is in terms of cause and effect. We do A, doing A makes B happen. It's so simple that it's built into all lifeforms. Plants grow one way, they get more sun. Every now and then, herd creatures like deer or meerkats stop what they're doing, pop their heads up, and look for predators.
 
-We know Consciousness Atoms do these three types things but not how. Stick a bunch of them together into our Notional Neuron. Now we are beginning to see in general terms how these three types of things can work together. We use the Notional Neuron model to work downwards and talk about the mechanics/coding of AI. We use the same Notional Neuron model to work upwards and talk about creatures, societies, and so forth.
+There's no programming language or master plan required for this. Thing A happens. It makes thing B happen. Over time lifeforms that embrace A->B in certain environments breed better than those who don't.
 
-In other words, Consciousness Atoms come together to do much the same kind of work as neurons, only they do so in a way that we don't understand and are not going to explore. By adjusting parameters inside our Notional Neuron, we can create a target for that system of atoms, something all of those Consciousness Atoms need to form into in order for learning to work.  This lets us use the same model to cover all sorts of learning from babies to multinational organizations. In all of these situations we'll talk about, the name "consciousness atom" will exist in all sorts of things from lichen to supercomputers, but at the Notional Neuron level, this group of three topics remains the same. We have a way forward. We have a north star.
+When we observe, make notes, talk about, and study things around us, we think in the same format. It's not surprising. Various things in life are just strings of causality; D->E->G->H. Our job as natural philosophers and scientists is simply categorizing those things and events, then describing the various chains that we've categorized.
 
-5. **Change**. Things have changed.
-6. **Recognize**. What are those things that have changed and how do they fit into these other things?
-7. **Predict/Enforce**. Does that make sense? What's going to happen next? What has to happen?
+![As soon as people started talking about one thing causing another, we asked "Why?" If there's always cause and effect, what is the ultimate cause of everything? The study of ultimate causes, reasoning backwards from cause and effect, is called teleology.](resources/images/origins-of-teleology.png)
 
-![Input arrives at some bunch of neurons hanging out together. We'll call that a brain. Input doesn't arrive at one neuron but a cluster (1). The first wave of signals go out from the neurons nearby (2). As that signal dies off, it kicks off a secondary round of signals firing (3). The secondary round kicks off yet a third primary round while the first signal is just dying off (4). The signal "storm" continues (5), with fading signals kicking off yet another primary signaling round, perhaps causing something externally to happen as shown lower-right. Item (6) Could represent the use of an internally-created abstraction. That's because we're seeing a complex sequence of atoms talking and as a result of that we have a new primary signal](resources/images/cloud-neurons-probability-web.jpg)
+This works very well for many people and is our default way of talking about the world. It worked for mankind as a whole for tens of thousands of years, up until just relatively recently. But over time, as various species went extinct, the weather was found to be different from place-to-place, risk was understood as a separate concept among populations than individual, we began to realize that in some systems many things happen in cycles. The rain brings plants and ponds, ponds evaporate water into the sky, water in the sky brings rain. It's a cycle, not a straight line.
 
-## Consciousness, Sentience, and Intelligence
+Things are all interlocked. Many scientists and philosophers stopped talking about cause and effect and started talking about systems of things. We don't have a forest; we have an ecosystem. Things we do to one plant affect other plants and animals, and eventually down the road the end result of all of that causality directly affects. We live in a cycle with everything around us, whether biological or otherwise. The universe is full of all kinds of interlocking systems.
 
-Some made-up definitions to keep us coloring inside the lines:
+In fact, the more we looked at it, the more we realized that there never was really any such thing as cause and effect, it was simply a useful fiction. "No man is an island" is a catchy phrase used to describe that. As far as we know, every atom in the universe is gravitationally affected by every other atom. Cause and effect just isn't dead. We use cause and effect as a prop, an intellectual crutch. It's a child's tale told in order not to spend your life diving deep into things that don't matter to you. A fable. It's a useful fiction. Or, if you prefer, cause and effect do exist, it just exists among billions of interlocking variables spread out over creation. It's non-comprehensible. We are forced to use cause and effect because we can't process things otherwise.
 
+But isn't there a better way to represent the world around us? Isn't there some way we can talk to others about how somethings cause other things that then feed off of one another? It turns out there is, and things that feed on themselves have been represented for a long time by the circle.
 
-- **Cognition Storm**. (Show in simplified format above). The interaction of huge numbers of neurons firing amongst themselves as signals decay. The above diagram omits at least several key elements:
+{width: 33%}
+![As far back as we can find civilization, we find people thinking of the world and universe as circular or cyclic. The ouroboros symbol, shown here, depicts a snake eating its own tail. We can date symbols like this being used to 3500+ BCE](resources/images/snake-eating-own-tail.png)
 
-1. Cognition storms happen in 3D, not 2D.
+As humans emerge from babies to adults, as mankind emerges from the dim mists of time to modern man, we stop thinking of simply cause and effect and start thinking about loops. Early religions were almost all circular. As the Cylons said on Battlestar Galactica, all of this has happened before. It will happen again. It's impossible to ignore: there's something deeply mystical about circular relationship.
 
-2. There are thousands, perhaps millions of neurons involved in any one storm, not just the few shown here.
+Which brings us to feedback loops.
 
-3. Neurons may fire randomly even in the lack of signal being present
+## The Classic Loop
 
-4. Input and output are never so clearly delineated. Instead the neural web dynamically "layers" itself to incoming and outgoing data.
-
-5. While the reward system has been traditionally modeled as yes/no, pain/pleasure, levels of confidence, and so on, in fact there's a large amount of biochemistry involved. Certain hormones may impeded or accelerate certain kinds of signals. This would happen over a physical area, regardless of neural connections. Different hormones can be present simultaneously with one another. They conflict and interact with each other. We know things like this happen, but the details are largely a mystery.
-
-- **Cognition Stream**. The series of neuron interactions that are involved from initial input to either die-off or another round of primaries.
-- **Thought**. Internal representation (abstraction) of a related group/sequence of Cognition Streams as they occur. Does not persist.
-- **Cognition/Abstraction Level**. All of the neurons currently receiving and transmitting data based on the same original input. This implies that there exists some record of signal path and a built-in hard decay rate limit.
-- **Consciousness**: that which acts and senses its environment, changing itself internally and using those changes to both predict and/or enforce future actions and sensory responses.
-- **Life**: bits of consciousness assembled inside a boundary, such that if the boundary is broken the bits of consciousness do not continue in the same way they did before and they never resume that pattern afterwards. Two lifeforms (boundaries) sitting side-by-side given the same input and environment will over time result in a different number of bits of consciousness and a different pattern of conscious activity inside the boundary, although many similarities may otherwise exist (different dogs can be very different and yet both still be a member of the set "dogs".)
-- **Sentience**: lifeforms that are able to reason entirely in abstractions. The number instinct is an example the early abstractions that occur as sentience emerges in a species.
-- **Intelligence**: Sentient lifeforms that are able to reason in abstractions over a shared medium and over periods of time exceeding the direct capabilities of individual lifeforms.
+Let's take a look at a user asking the database for something, but the database is broken. Almost everybody who has learned to program was told that programming was "making a list of things for the computer to do". It looks like this.
 
 {width: 66%}
-![](resources/images/notional-neuron-change-node.jpg)
+![A depiction of classic, straight-line cause-and-effect, the kind all of us use in our day-to-day life.](resources/images/2021-10-12-feedback-loops-linear.png)
 
-## Change
-
-Our top node is called "Change" There are a fixed-number of ways change comes to our Notional Neuron:
-
-8. **Direct Sensory Input**. Something has arrived from outside our neuron or probability-based current web of neurons. This is not a yes/no. Instead, input hits a system. It affects a bunch of neurons all connected to a bunch more. These billions of connections are all updated continuously in a probabilistic fashion. As the input rolls out from the source, it becomes direct sensory input for other neurons, only at a decreased intensity level. Eventually the signal dies off and does not affect any more neurons. (Intelligence is not only probabilistic, it's analog)
-9. **Recurring Patterns**. Either the neuron we're looking at or neurons at roughly the same level of consciousness n our web (see above) are notifying us of a pattern.
-10. **Argumentation**. Neurons at a lower level of consciousness have a major disagreement about predictions or violations. The code that runs in our brains has bugs (The brain has bugs. It always has bugs. The code always works. The bugs are just more or less annoying)
-11. **Dialectic**. Neurons at a higher level of consciousness have a major disagreement about recognizing what's going on: the narrative, pain/pleasure received, what our reaction should be, or whether this current "storm" is productive. It's a kernel panic. (but it's not a brain panic. It's just a panic for this particular thought stream.)
+You could almost write this directly to code, at least if you're using an imperative language.
 
 {width: 66%}
-![](resources/images/notional-neuron-recognize-node.jpg)
+![As long as it's pseudo-code, this programming stuff is pretty easy!](resources/images/2021-10-12_6-26-20.png)
 
-## Recognize
-
-Our next node, "Recognize" is where a lot of conflict gets handled. This conflict comes in these forms:
-
-12. **Pain/Pleasure**. Degrees of success and/or failure are incoming, either from this neuron or our current web. Why? Is that what we were thinking would come next?
-13. React. Immediate action occurred, either from us or our current web.
-14. Re-Org, Re-factor. We are confused. Nothing is happening the way it's supposed to happen. Patterns of health are no longer present. Incoming information keeps failing to map up to our model.
-15. **Change Narrative**. Either our story map or our position in the map is mistaken. Incoming information maps up to our model, but the predicted sequence continues to not match up to what we thought it was going to be. Other conflicts happen to us. Change Narrative conflicts happen when we look upwards and the bigger story doesn't work. Neurons do not only process information as it relates to itself. They also model what they think other neurons are going to do. (Or simulate, if you don't like the word model. See Mirror Neurons)
+Of course, there's no code here, but it represents a very simple idea. "Query the database. If it's busy, do it later". In fact, instead of asking the use to ask again later, we can just automate that.
 
 {width: 66%}
-![](resources/images/notional-neuron-predict-enforce-node.jpg)
+![If the database is busy, automate the retry. This will make things easier for them! Yay computers!](resources/images/2021-10-12_6-30-11.png)
 
-## Predict/Enforce
+Even though everything looks brutally simple, facile even, and we're doing something almost every programmer since the Univac has done, we've actually actually stumbled into a really interesting new concept that humans haven't really explored that much because up until the last hundred of years or so we've lacked the ability to create vastly-complex systems of logic: the Metastable Failure.
 
-This is the part folks always focus on. At heart this is just a big analog connector working in a hard-wired way based on everything else in our Notional Neuron. The type of things it's connecting are just as important as the fact that they're all connected. It can send out new signals, recurse signals inside itself, or look for new connections. That's it.
+The problem is that if the database can service the query because its busy servicing a bunch of other queries, not only does it fail for you, because it has this huge stack of work to do that's only getting bigger, it's always going to fail. As a programmer you didn't do anything wrong. The database is not in error or broken in any way. But the entire system is failing and is in a stable state such that it will never recover.
 
-## OODRA
+Loops and circles to the rescue! To describe and reason about this particular metastable failure,  let's put this situation into a loop, a Feedback Loop.
 
-On the left, along the outside of our diagram we see the classic OODA  decision/combat loop, only with "recursion" added in order to show how what we're really talking about are these nodes and loops existing in complex probability webs. We've already found out that probability webs are too much to draw. The word "recursion" does a lot of heavy-lifting here.
+{width: 33%}
+![In many situations, the thing that we do comes back around to us in circuitous, oblique ways to cause us to do it again. Like our old friend the ouroboros, the snake eats its tail. Everything that has happened will continue to happen. Forever.](resources/images/2021-10-12-feedback-loops-classic.png)
 
-{height: 50%}
-![Notional Neuron in detail](resources/images/notional-neuron-detail-small-3.jpg)
+Once we started looking, we found these loops in all kinds of places, not just programming. Between feedback loops and systems, we've got all of modern science covered.
 
-## Notional Neuron at a Glance
+{width: 33%}
+![Six Sigma's DMAIC loop. You put greek letters on stuff, it always makes it look better.](resources/images/DMAIC.png)
 
-Here are all of the pieces put together into one diagram. No doubt, there's a ton of bullshit here. We expect that. It's an entirely imagined, man-made island. Note how Boyd's OODRA loop matches up nicely with the nodes and connections on the diagram. It's an indication that we can scale this out as-needed. We will find other indications as we move along. This discussion is our specification that we'll use and the road map we'll follow when we get to analyzing Artificial Intelligence and other forms of machine learning.
+## It Gets Complicated
 
-## Done
+If you remember when we talked about Boyd and management theory, I mentioned that once he created his OODA loop, as he studied and looked into things further, the image got more and more complicated.
 
-Our goal was to create a set of definitions and a rough map that we can use to talk about, reason, and discover new things about learning. We can use this with anything in complexity between a tree and a galactic super-intelligence. We have done so. Now onwards and upwards!
+![The more Boyd dug into things, the more he realized that everything affects everything else, including all of the items in his diagram! Once you start mapping that, you realize that other things affect those things, and so on, ad infinitum. Intellectual work is infinitely divisible. [math and other physical systems, however, are decomposable]](resources/images/OODA.Boyd.svg)
+
+Let's take our metastable database problem and analyze it a little further. Let's say we were sketching this problem out, as if we were trying to solve it using a napkin.
+
+{width: 66%}
+![Good things happen when you switch from graphical reporting/display tools to simply sketching solely to drive conversations.](resources/images/meta-sketch-1.png)
+
+There's our loop. Let's take each node and write it out as a sentence.
+
+{width: 66%}
+![](resources/images/merta-sketch-2.png)
+
+{width: 66%}
+![](resources/images/meta-sketch-3.png)
+
+{width: 66%}
+![](resources/images/meta-sketch-4.png)
+
+
+{width: 66%}
+![](resources/images/meta-sketch-5.png)
+
+Notice that I've not only written each node as a sentence, I've also broken the sentence up into what I consider to be meaningful chunks. Other folks might have other sentences or break them up differently. That's fine. The details here are not important. We're talking about process. Whichever choices others make, they're going to end up in the same spot we do.
+Adding Detail To Our Example Spec
+
+{width: 33%}
+![](resources/images/lady-icon.png)
+
+Here we have our client, the person who wants to query the database. We even have a little icon and everything! [insert more warnings here about how graphical tools tend to lock you down to one way of looking at things]
+
+But wait, is "database client" really a person? Database clients can be anything, right?
+
+{width: 33%}
+![](resources/images/grey-client.png)
+
+Well hell, that's great, we've taken the little icon of the person out, but it really doesn't haven't learned anything. The purpose of sketching things out is to understand problems in order to solve them. What kind of client? When do they use the database? We need more detail, so let's add some.
+
+{width: 33%}
+![](resources/images/client-org-tree.png)
+
+It's a database client. For starters, let's say there are three major kinds of database clients: human client, API client, and message queue.
+
+That tells me how the actors relate to being a client, but how does a client relate to other things in the system?
+
+{width: 66%}
+![We could do this in UML for something really fancy, but I think you get the idea.](resources/images/classic-oo-mapping-of-domain.png)
+
+Now we're getting somewhere! A client is one of many different types of client apps. It's also one of many different types of apps needing database access.
+The problem is that this is all wrong.
+
+## Why Wrong?
+
+By sketching out how things relate to one another, no matter how careful we are we start to introduce unneeded context. If it's just one or two of us kicking around, it doesn't matter. If it's just a few of us creating a app for a customer, it might matter a bit but not that much.
+
+A database client is a type of client app? It's a concurrent app? Those top two arrows are backwards, right? What happened to our little picture of the person? The person wouldn't just be in that one spot. People can ssh in to servers locally and run queries. They can cron up queries. People should be all over the place, because after all, aren't we really talking about what people are doing and what they want? If my database query fails over a web client and I automate the resubmit using cron, I have no spot in this picture.
+
+Well hell, Daniel, you might say, we've got that modeled. There are three major kinds of database clients: human client, API client, and message queue, remember? It's simply that the model is in error. Perhaps if we continued to add more detail we could fix it.
+
+Not only is that wrong, if you head down this path you're going to end up drawing complex, intricate diagrams that nobody, including yourself, fully understand. We only have six nodes in our graph and already we've created something that we cannot completely agree with. 
+
+That ambiguity and the associated unease can easily lead us to create even more things in our diagram. People make mistakes, create inconsistencies, whenever they write things down. Writing more things down not only does not fix it, it makes the problem worse since it becomes more and more non-obvious where any problems are. Plus we're creating more and more things that can be inconsistent. Remember, we were only looking at one node, on one card, in one loop, in pseudo code. That's as high level and simple as we can make it.
+
+We need another method, some new way of thinking. Let's try this a different way, adding probabilities instead of rigid logical relationships.
+
+{width: 66%}
+![We're guessing we know these concepts, and we're guessing the degree they might be related to one another](resources/images/probability-web-intro.png)
+
+Now the graph isn't necessarily in error. We don't know who the exact database client might be. We're guessing.
+
+It's extremely important to understand that although this graph uses the same symbols and drawing methodology as the first one, this is an entirely different kind of thing. Up until now, we've been trying to model out things as rigid mathematical concepts. That's why there's no end to it. Now, however, we're just throwing together a bunch of things we're guessing about. Call it a "Probability Web".
+
+## Dang You, Math!
+
+You might be seeing where this is heading. Markov Chains.
+
+{width: 33%}
+![Illustration of simple Markov Chains from Wikipedia. The system exists in one state, say A, and we map the percentage chancee the state of the system will change to E, and so on. It quickly gets very complicated](resources/images/markov.png)
+
+Things relating to one another based on probabilities are a type of Markov Chain. It's the basis of all Artificial Intelligence (AI) today, and there are dozens of books worth of material you can explore if you're interested. For now, all we care about is that Probability Webs are different in fundamental and completely incompatible ways from rigidly structured symbolic relationships, such as flowcharts, class diagrams, org charts, or computer code.
+
+The most important way that they're different is that a chunk of symbolic structure, let's call it "math", can be done. In fact, it's always done. You code for a bit. Once you stop coding, you have a chunk of rigidly structured symbols [self-modifying code jocks, we'll get back to you]. You go home. You've created a rigid structure in code that will be exactly the same when you come back tomorrow. If you were a brick mason, you'd go home knowing that the wall you made today will be exactly the same tomorrow. You can start planning on how you're going to add to it.
+
+In comparison, Probability Webs are not like that. Probability Webs are never done. Although we have a fixed number of symbols in our database client example, it's understood and expected that each of those symbols exist in a web with a bunch more. As new data comes in, the probabilities are updated, nodes are added, modified, or deleted. Although we like to explain and refer to these things as webs, we're really not building the webs, we're building the spiders. To reason about these things, we cheat. Only important, mostly-likely relations can be displayed in a graph like we have because otherwise it would be infinite. The snake eats its tail, not only in a simple loop, but in quintillions of loops all throughout the billions of nodes.
+
+We can display parts of probability webs, but if they continue to operate, we can never fully comprehend them. They are not structured in a way to allow simple conversation or diagramming.
+
+{format: fsharp}
+```fsharp
+open System
+
+// given a roll between 0 and 1
+// and a distribution D of
+// probabilities to end up in each state
+// returns the index of the state
+let state (D: float[]) roll =
+   let rec index cumul current =
+      let cumul = cumul + D.[current]
+      match (roll <= cumul) with
+      | true -> current
+      | false -> index cumul (current + 1)
+   index 0.0 0
+
+// given the transition matrix P
+// the index of the current state
+// and a random generator,
+// simulates what the next state is
+let nextState (P: float[][]) current (rng: Random) =
+   let dist = P.[current]
+   let roll = rng.NextDouble()
+   state dist roll
+
+// given a transition matrix P
+// the index i of the initial state
+// and a random generator
+// produces a sequence of states visited
+let simulate (P: float[][]) i (rng: Random) =
+   Seq.unfold (fun s -> Some(s, nextState P s rng)) i
+
+// Vector dot product
+let dot (V1: float[]) (V2: float[]) =
+   Array.zip V1 V2
+   |> Array.map(fun (v1, v2) -> v1 * v2)
+   |> Array.sum
+
+// Extracts the jth column vector of matrix M
+let column (M: float[][]) (j: int) =
+   M |> Array.map (fun v -> v.[j])
+
+// Given a row-vector S describing the probability
+// of each state and a transition matrix P, compute
+// the next state distribution
+let nextDist S P =
+   P
+   |> Array.mapi (fun j v -> column P j)
+   |> Array.map(fun v -> dot v S)
+
+// Euclidean distance between 2 vectors
+let dist (V1: float[]) V2 =
+   Array.zip V1 V2
+   |> Array.map(fun (v1, v2) -> (v1 - v2) * (v1 - v2))
+   |> Array.sum
+
+// Evaluate stationary distribution
+// by searching for a fixed point
+// under tolerance epsilon
+let stationary (P: float[][]) epsilon =
+   let states = P.[0] |> Array.length
+   [| for s in 1 .. states -> 1.0 / (float)states |] // initial
+   |> Seq.unfold (fun s -> Some((s, (nextDist s P)), (nextDist s P)))
+   |> Seq.map (fun (s, s') -> (s', dist s s'))
+   |> Seq.find (fun (s, d) -> d < epsilon)
+
+// Illustration
+
+// Our Markov chain models plane delays
+// 0 = early, 1 = on-time, 2 = delayed
+// more comments at
+// http://clear-lines.com/blog/post/Simple-Markov-chains-in-FSharp.aspx
+
+// Transition matrix:
+// each row corresponds to a state,
+// and contains an array of probabilities
+// to transition to each of the states.
+let P = 
+   [| 
+      [| 0.10; 0.85; 0.05 |];
+      [| 0.10; 0.75; 0.15 |];
+      [| 0.05; 0.60; 0.35 |]
+   |]
+
+let rng = new Random()
+
+// how many delays in a sequence of 1000 flights?
+let flights = simulate P 1 rng
+
+let delays = 
+   Seq.take 1000 flights 
+   |> Seq.filter (fun i -> i = 2) 
+   |> Seq.length
+
+// stationary distribution
+let longterm = stationary P 0.0001
+
+// impact of matrix modification
+
+// improve delays after delays
+let strat1 =
+   [|
+      [| 0.10; 0.85; 0.05 |];
+      [| 0.10; 0.75; 0.15 |];
+      [| 0.05; 0.61; 0.34 |]
+   |]
+
+// improve delays after on-time
+let strat2 =
+   [|
+      [| 0.10; 0.85; 0.05 |];
+      [| 0.10; 0.76; 0.14 |];
+      [| 0.05; 0.60; 0.35 |]
+   |]
+
+let impact1 = stationary strat1 0.0001
+let impact2 = stationary strat2 0.0001
+
+[*Looks complicated, but it's not. Here's a simple implementation of Markov Chains in F#, h/t to Mathias Brandewinder for his wonderful essay back in 2012 (Although I have to resist looking at it to much because programmer)*](https://brandewinder.com/2012/05/27/Simple-Markov-chains-in-FSharp/)
+
+## It's the Shape Of Your Head
+
+As humans, we have but one mouth. That mouth produces sounds and tones, either in chunks or in clusters. Put simply, we have a simple tone, a simple way of modifying it, and a simple way of joining them all together. If a complex diagram representing Probability Webs can't tell us what something is, no matter how complicated we make it, we have no chance at all of using our speech to convey that from one person to the other.
+
+![](resources/images/speech-and-the-inside-of-the-head.png)
+
+*For a hundred thousand years or more, this is the primary tool humans have used to communicate. It's only been extremely recent that we started writing. If we had 17 mouths, 53 ears, and were able to transmit ideas to multiple people simulaneously as probability graphs, we'd see the world much differently. We'd be able to reason about it in ways those simpleton one-mouth, two-ears folks couldn't. Also it would be very difficult to buy hats.*
+
+Would words or some sort of diagramming work? No, and for the same reasons. These are linear, at most 3-5 dimensional tools trying to represent billion-dimension graphs.
+
+```c++
+#include <iostream>
+
+class ConcurrentClientApps {};
+class AppsRequiringServerAccess {};
+
+class DatabaseClient : ConcurrentClientApps, AppsRequiringServerAccess {};
+
+class HumanClient : DatabaseClient {};
+class APIClient : DatabaseClient {};
+class MessageeQueue : DatabaseClient {};
+
+int main()
+{
+  std::cout << "Hello, World!" << std::endl;
+  return 0;
+}
+
+*With code and other formal symbolic systems, like diagramming, the structure is unambivalently baked into the system, checked by the compiler. No matter what, you always have that structure. With Probability Webs, there is no structure. The structure starts and grows as the code runs. The code only exists to continuously update the Probability Web, where the actual value lies.*
+
+
+Even the Probability Web itself doesn't know what it is, because as it begins to traverse the web, it's continuing to modify all of the connections. The model as it was when it began will not be the model when it ends. It's a completely different universe than we live in.
+
+## Brains, Reality, and Webs
+
+Except brains. Brains only exist to process reality, and reality is a bunch of really complex concepts all related in probabilistic ways.
+
+Here all of our concepts join up:
+
+- Reality is multivariate, not simple concepts
+- Reality exists as a web of things related by probability
+- We can never fully understand probability webs (although we constantly understand them "enough")
+- Our brains operate in roughly the same kind of Probability Web that reality does. Yay evolution.
+- When information leaves one of us to be shared with others, it's always in a single-channel, linear format
+- This format does not match up with the universe as we understand it
+- Ergo, reality will never be something we can completely diagram in a rigid way. Instead, we're always coming up with just good enough little graphs of ideas in our heads that work right now
+
+## Feedback Loops Are Bullshit
+
+It is very easy to diagram something. Once we do that, it is also very easy, perhaps automatic, to convince ourselves that we are done, we have diagrammed it completely. It's axiomatic that this is not true. Therefore, in ways we do not understand, the things we diagram must be incorrect. Perhaps it's incorrect in trivial ways. Perhaps not. But since we're using a Probability Web ourselves internal to come up with these models, we'll never know. The best we can do is come up with something, run it for a while, and adjust it when we finally understand how it's broken. [remember we have an exception for math and physics]
+
+![The very latest in the Structured Agile Framework (SAFe), a system for creating technology. Such diagrams are neither beast nor fowl. They're not code. They're not even much of a rough map to get started doing the actual work, as in our database client example. Instead, like most feedback loops you'll see in textbooks, the implication is that there's some kind of formal, proven system being displayed, like a circuit diagram for a radio. If you watch these types of diagrams being created, it's much more of an art form than a science.](resources/images/safe_bigboard.png)
+
+And it's worse than that, because the more we think of our modeled concepts as being rigid, like we did when we thought of "database client" as simply a person, the more likely we are to be wrong in important ways. We're always wrong, of course, but our idea that the concepts we create are fixed make us more wrong and less likely to change our ways. This increases exponentially with the size of the model. For anything based on human communication, the more you try to decompose the meaning of something, the more pieces you have in your hand that need further decomposing. It doesn't work like that.  [with the exception of math and physics]
+
+Instead of feedback loops, here is what we need: Feedback Webs.
+
+## Yet Here We Are
+
+But we're still human, and we still only have speech and writing to represent concepts. So like Plato's Cave, or a two-dimensional projection of a tesseract, we have to snapshot or project some kind of half-assed idea in order to get anywhere at all. We have to lie about reality in order to get it into terms we can usefully discuss. Because heads.
+
+We can play around with Feedback Webs in the small, using less than a dozen or so items to start conversations, but they're just that: conversation enablers. We can use more rigid structures like Feedback Loops in the large, perhaps showing dozens or hundreds of things all related in complex ways, but these are so wrong as to almost be farcical [Again, there's an exception for physical systems. We're talking our representation of concepts. Pure math and physics exist context-free. Everything else doesn't]
+
+The best use I've found for more complicated diagrams like the above are road maps: they might or might not lead me to a "neighborhood" with a half-dozen or so concepts that we can then reason about together as Probability Webs. Oddly, though, what we usually end up doing when we're done is "firming up" that structure and then trying to make sense of that with the larger model.
+
+This is a process that will never work. Or as some coders have finally realized, you will never have your Enterprise Model. There's some multivariate super-dimensional probability model that represents your enterprise that you could never understand, but it's constantly-changing and understood differently for all of the participants anyway, so even if you grew a twenty-ton brain, it doesn't matter. It doesn't work like that.
+
+This leaves us stuck using flowcharts, class diagrams, feedback loops and the rest. But the real action is with Feedback Webs. Like our database diagrams, the situation, the things we have to work with, are both solid and amorphous at the same time, depending on the level of detail you're using. If we're going to study learning at scale Probability Webs are the wet clay we use to bake into houses to build bigger structures. These are our bricks. Now we can get building.
+
+
+## We Have To Watch The Infinities
+Everything we do with foundations is going to bump up against infinities. We need to be constantly mindful that we can describe the general process, the general structure, and the general goal, but we could never provide the specifics, as all of these vary based on participants, context, history, and so forth. This doesn't mean we won't have a lot of interesting and useful things to say, but it means that for each thing we cover, we're going to have to note the rules that create and drive the infinity, go over a few examples, then back off. Otherwise we'll end up with one of those nuclear missile diagrams all of us so fear.
+
+Errors give us to-do items, feedback loops help us process those items. Neither of those two are firmly defined. Instead it's a dynamic, constantly-shifting millieu. But we know enough to work with them. How does that work take place? What's the generic thing that's doing all of this error spotting and fixing?

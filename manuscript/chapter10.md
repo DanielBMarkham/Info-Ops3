@@ -1,5 +1,9 @@
-# What is Artificial Intelligence?
+# Machine Learning #
 
-## History of AI
+# Remaining Topics in Machine Learning
 
-## Tour of current AI techniques
+## A Tour of Current Machine Learning
+
+
+## Learning in Layers
+

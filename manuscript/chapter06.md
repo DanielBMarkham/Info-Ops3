@@ -1,346 +1,317 @@
-# Learning Isn't Feedback Loops
+# Identifying Failures With Precision
 
-***The phrase "feedback loop" idea is total bullshit. We're all going to have to keep using it anyway. Here's why.***
+For reasons that can never change, it's impossible to tell somebody that they're wrong without being wrong in some way ourselves. Let's tour the wrongness zoo and find out why.
 
-{height: 25%}
-![](resources/images/wild-meerkat-9.jpg)
+![](resources/images/learning-starts-with-wrong-chart.png)
 
-We make a lot of bad decisions in organization and system design because of the way our heads are shaped. It's not our fault, but to fix it we have to understand it.
+It happened again. Somebody was wrong on the internet. And when I politely pointed out that they were wrong, I was wrong too, only in ways I could never have anticipated. I was wrong about wrong.
 
-I have been using the phrase "feedback loop" for my entire career. An immature way to look at the world, simplifying as much as humanly possible, is in terms of cause and effect. We do A, doing A makes B happen. It's so simple that it's built into all lifeforms. Plants grow one way, they get more sun. Every now and then, herd creatures like deer or meerkats stop what they're doing, pop their heads up, and look for predators.
+I was wrong about wrong. I bet you're wrong about wrong too.
 
-There's no programming language or master plan required for this. Thing A happens. It makes thing B happen. Over time lifeforms that embrace A->B in certain environments breed better than those who don't.
+First, *wrong* is such a simple word to be overloaded so much.
 
-When we observe, make notes, talk about, and study things around us, we think in the same format. It's not surprising. Various things in life are just strings of causality; D->E->G->H. Our job as natural philosophers and scientists is simply categorizing those things and events, then describing the various chains that we've categorized.
+If I postulate x+y=7, then later say that x and y are 5 and 8, those two statements cannot both be true at the same time. Obviously I am wrong. A more precise way of stating things is that I am inconsistent. I think most of the time when we say somebody is wrong, we mean they are being inconsistent with either things they've said previously or things that all people hold to be true.
 
-![As soon as people started talking about one thing causing another, we asked "Why?" If there's always cause and effect, what is the ultimate cause of everything? The study of ultimate causes, reasoning backwards from cause and effect, is called teleology.](resources/images/origins-of-teleology.png)
+This is probably the worst way about being wrong about wrong: thinking of human language as if it were geometry. "You said A implies B, and B implies C, so of course A must imply C, right?"
 
-This works very well for many people and is our default way of talking about the world. It worked for mankind as a whole for tens of thousands of years, up until just relatively recently. But over time, as various species went extinct, the weather was found to be different from place-to-place, risk was understood as a separate concept among populations than individual, we began to realize that in some systems many things happen in cycles. The rain brings plants and ponds, ponds evaporate water into the sky, water in the sky brings rain. It's a cycle, not a straight line.
+Wrong.  You are confusing two completely different types of communication.
 
-Things are all interlocked. Many scientists and philosophers stopped talking about cause and effect and started talking about systems of things. We don't have a forest; we have an ecosystem. Things we do to one plant affect other plants and animals, and eventually down the road the end result of all of that causality directly affects. We live in a cycle with everything around us, whether biological or otherwise. The universe is full of all kinds of interlocking systems.
+Perhaps "B" in the first context means one thing. The same term "B" might mean a subtly different thing in the second context. Same term "B", different underlying intentions. Language ain't math, and it's never going to be. Language is an art form we all participate in, it's an interactive nuanced performance. We perform human language for one another.
 
-In fact, the more we looked at it, the more we realized that there never was really any such thing as cause and effect, it was simply a useful fiction. "No man is an island" is a catchy phrase used to describe that. As far as we know, every atom in the universe is gravitationally affected by every other atom. Cause and effect just isn't dead. We use cause and effect as a prop, an intellectual crutch. It's a child's tale told in order not to spend your life diving deep into things that don't matter to you. A fable. It's a useful fiction. Or, if you prefer, cause and effect do exist, it just exists among billions of interlocking variables spread out over creation. It's non-comprehensible. We are forced to use cause and effect because we can't process things otherwise.
+{blockquote}
+*’Twas brillig, and the slithy toves       
+Did gyre and gimble in the wabe: 
+All mimsy were the borogoves,       
+And the mome raths outgrabe. 
+“Beware the Jabberwock, my son!       
+The jaws that bite, the claws that catch! 
+Beware the Jubjub bird, and shun       
+The frumious Bandersnatch!” 
+– Jabberwocky, by Lewis Carroll*
+{/blockquote}
 
-But isn't there a better way to represent the world around us? Isn't there some way we can talk to others about how somethings cause other things that then feed off of one another? It turns out there is, and things that feed on themselves have been represented for a long time by the circle.
+Is the text above wrong or right? The question makes no sense, as this is a poem. For this particular style of poetic art (a nonsense poem), the words don't matter, only how the sounds go together.
 
-{width: 33%}
-![As far back as we can find civilization, we find people thinking of the world and universe as circular or cyclic. The ouroboros symbol, shown here, depicts a snake eating its own tail. We can date symbols like this being used to 3500+ BCE](resources/images/snake-eating-own-tail.png)
+We have to understand the goal if we're ever able to evaluate if something's wrong or not. Broadly, there are two types of social interactions, math and art.
 
-As humans emerge from babies to adults, as mankind emerges from the dim mists of time to modern man, we stop thinking of simply cause and effect and start thinking about loops. Early religions were almost all circular. As the Cylons said on Battlestar Galactica, all of this has happened before. It will happen again. It's impossible to ignore: there's something deeply mystical about circular relationship.
+**Math** just is, it exists with or without people. People can "do" math, and in doing so they can do a terrible job of it, creating inconsistent statements.
 
-Which brings us to feedback loops.
+**Art** has to have an artist and an audience, even if they're the same person. The artist and audience get together to create some mutual experience: learning, joy, drama, persuasion, tool-making. Math just exists regardless of us humans, art is performed.
 
-## The Classic Loop
+If I tried really hard and I were a good actor, I could perform mathematical statements. Using a lot of inflection and body movements, I could stand in front of you and take the same algebraic statements about x and y above and perform them for you such that you receive half-a-dozen different meanings from them. Same math, different language meanings. Math is context-free. Art is all about context.
 
-Let's take a look at a user asking the database for something, but the database is broken. Almost everybody who has learned to program was told that programming was "making a list of things for the computer to do". It looks like this.
+Here we have our highest-order error about wrongness: failure to understand (or appreciate) the difference between human language and formal systems (algebra, geometry, calculus, category theory, computer programs, etc) You can't logically-reason about conceptual ideas, at least not in order to arrive at some kind of proof. (You can and should use logic for a lot of other things, though! You should be constantly using it! This is not an argument for giving up reason or logic!)
 
-{width: 66%}
-![A depiction of classic, straight-line cause-and-effect, the kind all of us use in our day-to-day life.](resources/images/2021-10-12-feedback-loops-linear.png)
+Our conclusion is that people are wrong when they don't know where they are in the universe. Are they doing science, art? How do we create a model of where people are when they interact without ourselves being an unwitting part of the answer? How can I judge and position you without my own opinion coming into play?
 
-You could almost write this directly to code, at least if you're using an imperative language.
+## Walking the Grid of Civilization
 
-{width: 66%}
-![As long as it's pseudo-code, this programming stuff is pretty easy!](resources/images/2021-10-12_6-26-20.png)
-
-Of course, there's no code here, but it represents a very simple idea. "Query the database. If it's busy, do it later". In fact, instead of asking the use to ask again later, we can just automate that.
-
-{width: 66%}
-![If the database is busy, automate the retry. This will make things easier for them! Yay computers!](resources/images/2021-10-12_6-30-11.png)
-
-Even though everything looks brutally simple, facile even, and we're doing something almost every programmer since the Univac has done, we've actually actually stumbled into a really interesting new concept that humans haven't really explored that much because up until the last hundred of years or so we've lacked the ability to create vastly-complex systems of logic: the Metastable Failure.
-
-The problem is that if the database can service the query because its busy servicing a bunch of other queries, not only does it fail for you, because it has this huge stack of work to do that's only getting bigger, it's always going to fail. As a programmer you didn't do anything wrong. The database is not in error or broken in any way. But the entire system is failing and is in a stable state such that it will never recover.
-
-Loops and circles to the rescue! To describe and reason about this particular metastable failure,  let's put this situation into a loop, a Feedback Loop.
+*How would you describe the universe to a friend?*
 
 {width: 33%}
-![In many situations, the thing that we do comes back around to us in circuitous, oblique ways to cause us to do it again. Like our old friend the ouroboros, the snake eats its tail. Everything that has happened will continue to happen. Forever.](resources/images/2021-10-12-feedback-loops-classic.png)
-
-Once we started looking, we found these loops in all kinds of places, not just programming. Between feedback loops and systems, we've got all of modern science covered.
-
-{width: 33%}
-![Six Sigma's DMAIC loop. You put greek letters on stuff, it always makes it look better.](resources/images/DMAIC.png)
-
-## It Gets Complicated
-
-If you remember when we talked about Boyd and management theory, I mentioned that once he created his OODA loop, as he studied and looked into things further, the image got more and more complicated.
-
-![The more Boyd dug into things, the more he realized that everything affects everything else, including all of the items in his diagram! Once you start mapping that, you realize that other things affect those things, and so on, ad infinitum. Intellectual work is infinitely divisible. [math and other physical systems, however, are decomposable]](resources/images/OODA.Boyd.svg)
-
-Let's take our metastable database problem and analyze it a little further. Let's say we were sketching this problem out, as if we were trying to solve it using a napkin.
-
-{width: 66%}
-![Good things happen when you switch from graphical reporting/display tools to simply sketching solely to drive conversations.](resources/images/meta-sketch-1.png)
-
-There's our loop. Let's take each node and write it out as a sentence.
-
-{width: 66%}
-![](resources/images/merta-sketch-2.png)
-
-{width: 66%}
-![](resources/images/meta-sketch-3.png)
-
-{width: 66%}
-![](resources/images/meta-sketch-4.png)
+![](resources/images/earth.png)
 
 
-{width: 66%}
-![](resources/images/meta-sketch-5.png)
+This book is about learning, after all. We say things like "I learn new things every day!" but what does that really mean? Could you describe that to a computer? An alien?
 
-Notice that I've not only written each node as a sentence, I've also broken the sentence up into what I consider to be meaningful chunks. Other folks might have other sentences or break them up differently. That's fine. The details here are not important. We're talking about process. Whichever choices others make, they're going to end up in the same spot we do.
-Adding Detail To Our Example Spec
+As I learned in High School Geometry Class, I have a visual mind and I prove things and arrive at conclusions using the spaghetti-wall approach: I just keep throwing spaghetti everywhere. After a while, I inspect the wall to see what's sticking. It's messy but it works.
 
 {width: 33%}
-![](resources/images/lady-icon.png)
+![Warning: This thought experiment requires you to step outside our universe. This may not be easy for some.](resources/images/spaghetti-on-the-wall.jpg)
 
-Here we have our client, the person who wants to query the database. We even have a little icon and everything! [insert more warnings here about how graphical tools tend to lock you down to one way of looking at things]
+Let's say the universe is a program. For our purposes, let's use "The Sims" as an example. You've played The Sims for a while and love it. Then you go to a faraway country where you make a new friend. Your new friend has never played The Sims. In fact, they've never even seen a computer. You have to start from scratch and tell them what's going on.
 
-But wait, is "database client" really a person? Database clients can be anything, right?
+{height: 33%}
+![What a cool universe! I am the master of all that I see. Wait, you're saying I got to get a job? Seriously? What kind of asshole is running this thing?](resources/images/sims-guy.png)
+
+It's a little universe where things exist and do things with other things. Seems like there are three categories of things:
+
+- **Sense/Act** things. Whatever your little guy is, whether it's a little man or an imaginary potted plant they sense and/or act on their outside environment.
+- **Objects**. These are concepts that exist in this universe, whether they're solid things like a tree or conceptual things like your Sim having a new idea. Internal to a Sim, the object is always shifting depending on how they're changing over time. One day a word like "work" means going to school. Another day the same word "work" means going to be a plumber. Objects are always shifting internally. Externally, the same object can generate many senses. I see one side of the apple, you see another. Same object, difference in sensing.
+- **Rules**. All of this, these sense/act things and these objects, go together in certain ways. You can't stick a thought on top of a rock. If you drop things, they fall. The rules go on and on and they might change. Heck if I can tell you what they are. I'm not a programmer (for purposes of our thought experiment) I can't even tell you how the rules are constructed. I just know there rules about sense/act and objects and how they relate to one another.## Using the Ladder of Civilization
+
+
+These three categories of things in a universe keep popping up over and over again. There must be something to them. In fact, the first two have probably been written about by hundreds of really smart men over the centuries. We'll shorten them to Q, O, and R. (Q stands for ["Qualia"](https://en.wikipedia.org/wiki/Qualia). Long story.)
+
+![Sub-quantum physics, if it exists, lies somewhere to the lower left outside of this grid. The Great Pumpkin, is he exists, lies somewhere to the upper right of this grid.](resources/images/gridorladderofcivilization.jpg)
+
+This would probably sound all very vague and perhaps extremely complicated to your friend. So an atom changing state in Africa can make a man fart in Canada? Everything is related to everything through this Q, O, R business?
+
+Well, you continue to explain, technically yes, but in practice these naturally occur and can be grouped in levels.
+
+- **Subjective**. This category is about how one tiny thing interacts with another. An atom changes state. You kick a rock. A simple thing and another simple thing, as they are perceived by things in this universe. Remember that it's not about you and your universe; you're describing this universe to a friend and telling them about how thing in that universe work. You are the outsider. We're saying that everything in our little thought-experiment universe, The Sims, has a bunch of Q, O, R things that it and it alone perceives and interacts with. The Subjective Universe is the universe as it is experienced directly by all participants in it.
+- **Abstract**. As soon as there's some kind of brain activity, these things in the universe begin to form internal representations for general groups of related Subjective things.
+- Conversational. Once these abstractions are externalized and shared through some sort of communication, language begins.
+- **Real**. There is some set of rules that the programmers of this universe came up with to make it work. I don't know. I'm not a coder, but I know that the danged thing works somehow through a very similar pattern of Q, O, and R.
+
+![Leibniz lived in the late 17th century and was one of many, many philosophers trying to puzzle out how the universe works. I can't find much to disagree with here. Depending on how you define all of these terms. It's interesting to note, however, that his argument begins in the upper-right corner of our diagram and works downward, while we actually experience life in the opposite fashion. All of theology can be thought of as using the middle rows A and C to join up the opposite corners. Science is similar, hence the continued conflict. (Most of these arguments do not recognize the rows in the middle, though!)](resources/images/leibnizs-argument-for-god.png)
+
+Just like the three categories keep popping up everywhere, these four levels do as well. The categories pop up mostly in the context of science. I experience this (Q), therefore it must be put together like that (O), and it always works in this certain fashion (R). The levels usually pop up in the humanities. This is where you get weird questions like "do we all experience the same thing when we look at something blue?" (S->A), "Is knowledge a social construct?" (A->C), or "Is reality the same everywhere?" (C->R)
+
+As we move from lower left to upper right we're moving from a speck of matter interacting with another speck to some sort of master program that runs the universe. Graphs don't get much broader than this! And really, as we move from lower left to upper right, we're charting the development of an intelligent civilization and how perhaps, one day, they create their own universe. (If that's your thing)
+
+Since it keeps popping up, I'm using it. This spaghetti looks like it's stuck pretty firmly on the wall.
+
+## Using the Grid to Orient Ourselves
+
+Assuming that we have the same goal, we've come to our first category of being wrong about wrong: skipping levels on the ladder. The ultimate error in identifying wrongness is the failure to understand progress, collapsing the top to the bottom, conflating the laws of the universe with emotion. I feel a certain way, therefore there's nothing to be done. The universe is just like that. I don't have to think about it any further. The Great Pumpkin says atoms make up the universe and we can never know anything about atoms. End of story. (Much of the Middle Ages in Europe was exactly like this.)
+
+Skipping levels happens all of the time, but most folks either deny it or don't see it. It's quite painful to understand the true nature of human existence. Much easier talking about it in terms of far-away past, dark ages, tribal human sacrifices, religious wars, or mediums giving séances where people can contact the dead.
+
+Confusing the bottom (emotion) and the top (the universe) might be uncool to admit, but there are a ton of people who use science in place of the universe, conflating science and emotion. I don't like this thing, therefore science tells me it's bad. I will come up with reasons later. Or maybe somebody else will tell me. There could be very complicated reasons. I might not be able to explain them but I know it's true. After all, it's science.
+
+To make our way past this problem we have to fight our own nature. We short-circuit as much thinking as we can and never think any more about it. Energy is precious. Brains are lazy. Survival and passing on genes is the goal, not thinking up stuff. Why won't the car start? Because the universe hates me. We naturally fall back to skipping as many of the levels as we can.
+
+![The map is not the territory, but now that we have some sort of organization system for how entities in a universe must understand where they are, we can use that as an error in error categorization system as well](resources/images/grid-of-civilization-errors-in-error-identification-small.jpg)
+
+What's the trick to dealing with the fact that we don't like thinking and suck at thinking about things in-depth? For 99% of our history, humans used conversation: language, communication. Our building blocks, then, are the pieces of language performance. We have to categorize language. We stated "assuming we have the same goal", but what are the different goals people have when using language?
+
+Broadly, there are three kinds of goals and associated social interactions we can have involving language: rhetoric, didactic, and dialectic.
+
+**Rhetoric** is communication with intent to persuade. If you've ever watched a courtroom drama on TV, you've watched a lawyer use rhetoric to persuade the jury. If you've ever been to a religious service or watched a person on TV or the internet get angry and rant about something, you've experienced rhetoric. Martin Luther King Jr. was one of the best rhetoricians in the last hundred years. Rhetoric can either be about a good cause or a bad cause, but it's judged on how well it persuades. That's what it's for.
+
+**Didactic** is communication with intent to teach. Anybody who's attended school or watched a YouTube how-to video has experienced didactic communication. There's a teacher and a class. The teacher seeks to instill new abilities and habits in the pupils using various techniques, such as the Socratic Method. Carl Sagan was one of the greatest media didactics in the last hundred years. The skills of being a good teacher are not related to whether you're teaching a good or bad thing, a true or false topic. Didactic is for instilling knowledge into the minds of the audience, it's judged on how well it teaches. That's what it's for.
+
+**Dialectic** is communication with intent to align language or discern truth. The ancient Greeks used a lot of dialectic, walking around in a small social group jointly considering what various things meant or implied. If you've ever watched a good science fiction TV show or movie, you're watching the dialectic. At some point our heroes, using logic, science, and reason, figure out that some of their assumptions about the universe are wrong. That slime mold, it was actually intelligent life! The dialectic doesn't involve true or false, good or bad. It's a group of people coming into alignment on terms such that an action of shared value can occur. We agree that slime mold is intelligent, therefor we're not going to set it on fire. We used the dialectic to explore ourselves and the universe around us and we all ended up in a useful spot we weren't in before. That's what it's for.
+
+![](resources/images/learning-starts-with-wrong-chart.png)
+
+Whenever you tell somebody they're wrong, you're using rhetoric. Your goal is to persuade them of their error. Both of you are engaging in the art form of spoken or written language. Both of you have one of these three goals, rhetoric, didactic, or dialectic. 
+
+We know what kinds of communication we're using (language). We know our goals might be (rhetoric, didactic, or dialectic). We have context. We can talk about wrong or right, otherwise the word "wrong" doesn't have enough context to make any sense.
+
+The worst mistake was skipping levels, so skipping levels constitutes our Sev 0 errors about wrongness. Now we can now set up a categorization system for identifying bugs in our error-detection systems.
+
+{height: 66%}
+![You either don't know, can't know, or refuse to acknowledge that there is a journey from being-in-reality to understanding-reality](resources/images/errors-in-error-identification-sev-0.jpg)
+## Living Loving Language - Epistemic Errors
+
+*You don't know that there are living-language-learning interaction levels.*
+
+Epistemology is the study of knowing things. How do we know things? What does it mean when we say we know something? It involves everything you would expect: sourcing, justification, fideism, and so forth.
+
+Epistemic ignorance is not simply not-knowing something; that's just ignorance. Epistemic ignorance is not knowing (or caring) that there are things to know.
 
 {width: 33%}
-![](resources/images/grey-client.png)
+![](resources/images/wrong-about=wrong-acme-wile.jpg)
 
-Well hell, that's great, we've taken the little icon of the person out, but it really doesn't haven't learned anything. The purpose of sketching things out is to understand problems in order to solve them. What kind of client? When do they use the database? We need more detail, so let's add some.
+{blockquote}
+Dear Sir,
+
+This is in reply to my complaint email. I told you that your "Acme Surefire Roadrunner-Catching Kit" which included paint, a balloon, and an anvil, did not work.
+
+You replied that I had not received adequate training. I should watch some of the free online webinars in how to use the kit.
+
+You are wrong sir!
+
+Every day something bad happens to me. I fall off cliffs, I run into canyon walls, I blow myself up. In my mind, I have consulted with the Great Pumpkin, ruler of the universe. Now I understand that this is just the way life is going to be for me. No coyote anywhere will ever be able to catch any roadrunner. It is forbidden. Therefore I expect a full refund on all the money I paid.
+
+Sincerely,
+
+Wile E. Coyote
+{/blockquote}
+
+*(The Acme guy may be correct, the coyote may actually just need more training. Or the coyote might be correct, perhaps the universe is always going to screw him over. Who's correct or not isn't our point. By ignoring all the other levels of living-language-learning, the coyote has called out the error in a way that is impossible to deal with. He knows something is wrong, but he doesn't know what type of thing is wrong. He thinks it's just the way the universe is. It's just wrong. He has no error-identification and classification system.)*
+
+If a clown kicks the same dog every day for four years, then the dog sees a similar clown and bites him, do you proclaim that the the dog is wrong? Of course not. That would be applying levels of mutual cognizance to the interaction that are simply not appropriate. You're being wrong when you proclaim the type of wrongness you see. Once again, it doesn't matter who is wrong or right. We're talking about figuring out what kind of error you have before communicating it.
+
+Some examples:
+- Einstein saying "God doesn't play dice with the universe". It's a great quote, and it captures succinctly his point, but he is correcting colleagues in a way that there is no response to. What could they say, that god actually plays a lot of dice?
+- A doctor explains to a family that a certain kind of medical procedure is required for their child to save their life. The procedure only has a 10% chance of succeeding. They decide to trust in their faith instead of getting the procedure
+- An old man, feeling badly about an argument decades ago, sets off on a journey of hundreds of miles on his riding lawnmower in order to apologize
+- Troops in dire mortal combat, responding to religious sights and sounds of their youth, stop fighting and celebrate a shared religious holiday, then return to fighting
+- The largely apocryphal story of Hernán Cortés landing in the New World and burning his boats so that his men knew there would be no retreat. They survived here or died.
+
+In many cases, instinct, gut feelings, and deliberate faith are wonderful things to go on. In almost all areas of life, we don't use all of those intermediary levels between emotion and our conception of the universe anyway. I see my dog, I'm happy. He's happy. We don't need to sit down and start doing syllogisms for that. Collapsing things to their simplest essence can be beautiful.
+
+Remember, the point isn't whether logic or reason works or not. The point isn't who's more correct or not. The point is that you can't correct a logic error for somebody not using logic. Whether they know they're acting on instinct or not, they are, and there's nothing to do. We don't correct instinct.
+Epistemic ignorance may be great art, but it is a fatal error for any mutual learning system, i.e. dialectic. The coyote and Acme guy are never going to work it out. That's why these errors-in-error categorization are categorized Sev 0.
+
+Epistemic ignorance may be great art, but it is a fatal error for any mutual learning system, i.e. dialectic. The coyote and Acme guy are never going to work it out. That's why these errors-in-error categorization are categorized Sev 0.
+
+{height: 66%}
+![My internal existence and our social ingroup existence are completely different things. Not realizing that others outside my head have a different reality than I do leads to many kinds of misunderstandings](resources/images/errors-in-error-identifcation-sev-1.jpg)
+
+## Confusion of Purpose - False Flag Errors
+
+*The purpose in your mind for your living-language-learning interaction and the purpose in their minds are different.*
+
+We've established that when we tell somebody they're wrong we're not checking their math. We've established that didactic and rhetoric are wonderful tools, but if we're getting together to find truth and align our language/terms, we're using the dialectic.
+
+In most of our experiences, these three types of communication happen at the same time. A teenager asks for the car keys, explaining how such great parents as you guys would obviously see the benefit in giving the car to them tonight (rhetoric). In return, and as sort of a perverse form of tribute, the parent may give a ten-minute lecture on the evils of dangerous driving (didactic). There may follow a five-minute argument on who was at fault for the fender-bender that happened in the family car last month (back to rhetoric). Finally, there could be a ten-minute family discussion, with both sides being open-minded and trying to learn, about what it means to be conscientious while driving with a peer group you desperately want to impress (dialectic).
+
+For our imaginary family discussion, they don't know or care about the names of these goals. To them, most likely, they're just having an honest conversation using logic and reason about the disposition of the car this evening. Nobody distinguishes the constant movement we do between these various kinds of conversation because nobody has to. But for many professionals, such as lawyers, public speakers, some kinds of internet celebrities, these are completely different things and mastering them means the difference between success and failure at their job.
+
+Most times for us regular folks it doesn't matter. Sometimes, though, it does.
+
+<!-- ![](resources/videos/python-shes-a-witch.mp4) -->
 
 {width: 33%}
-![](resources/images/client-org-tree.png)
+![](resources/images/monty-python-shes-a-witch.png)
 
-It's a database client. For starters, let's say there are three major kinds of database clients: human client, API client, and message queue.
 
-That tells me how the actors relate to being a client, but how does a client relate to other things in the system?
+ {blockquote}
+ Dear Gustoff, Village Leader In Charge Of Angry Mobs
 
-{width: 66%}
-![We could do this in UML for something really fancy, but I think you get the idea.](resources/images/classic-oo-mapping-of-domain.png)
+This is in reply to your email from last week. I was very clear. You have unfairly accused my mom of being a witch. This resulted in her death and caused a great hardship on our family
 
-Now we're getting somewhere! A client is one of many different types of client apps. It's also one of many different types of apps needing database access.
-The problem is that this is all wrong.
+You replied that there had been a fair trial, conducted by no other than the famous Sir Bedevere The Wise, Knight Of The Round Table and Adjudicator Of All Scientific Matters, found her guilty and gave her a fair sentence. You pointed out that even she agreed the sentence was just. She did weigh as much as a duck, clearly indicating she was made of wood and therefor a witch.You, sir, are wrong!
 
-## Why Wrong?
+Feathers also float, as do small bits of bread. The great tome of Toledo tells us that witches can also be made out of butterflies. You're a bad person who never liked my mom. And that scale doesn't even look like it could work!
 
-By sketching out how things relate to one another, no matter how careful we are we start to introduce unneeded context. If it's just one or two of us kicking around, it doesn't matter. If it's just a few of us creating a app for a customer, it might matter a bit but not that much.
+ Sincerely,Carrot-Nosed Kid Who Is Also Not A Witch
+{/blockquote}
 
-A database client is a type of client app? It's a concurrent app? Those top two arrows are backwards, right? What happened to our little picture of the person? The person wouldn't just be in that one spot. People can ssh in to servers locally and run queries. They can cron up queries. People should be all over the place, because after all, aren't we really talking about what people are doing and what they want? If my database query fails over a web client and I automate the resubmit using cron, I have no spot in this picture.
+*(The logic here and in the accompanying movie clip is atrocious. Our email writer makes one logical fallacy after another as he points out what's wrong. But that's not his worst mistake! His mistake is not understanding the thing he's criticizing, the original scene. 
+Bedevere "teaches" the angry mob about the correct way to spot witches. Bedevere is appearing to be a teacher. Engaging in didactic, especially if the teacher is good, is a wonderful experience for the entire audience. He's asking questions back-and-forth with the crowd, as if they're all on a journey to "discover" whether she's a witch or not. He appears to be helping them. But what in fact he's doing is rhetoric: he's persuading the mob of his greatness and authority in all matters of science. The actual science or underlying reasons have nothing to do with anything. 
 
-Well hell, Daniel, you might say, we've got that modeled. There are three major kinds of database clients: human client, API client, and message queue, remember? It's simply that the model is in error. Perhaps if we continued to add more detail we could fix it.
+Our email writer will never ever get anywhere, poor logic or not, if he continues to attempt to use logic in a discussion that involves rhetoric. What Bevedere is actually doing and what he appears to be doing are two entirely separate things, whether Bedevere realizes it or not.  The Pythons knew this. There's a wonderful punchline at the end, where Bevedere has done such a great job of persuasion that the accused herself actually agrees she's probably a witch)*
 
-Not only is that wrong, if you head down this path you're going to end up drawing complex, intricate diagrams that nobody, including yourself, fully understand. We only have six nodes in our graph and already we've created something that we cannot completely agree with. 
+Professionals master all three skills, and for maximum effect they never point out which one they're using at any given time. Keeping an audience unawares, a good speaker can smoothly switch from educating the audience about history, asking them questions from their own person experience, and strongly advocating some preconceived point. This is the way all public discourse works. (It's also what made Socrates very angry, but that's a story for another day)
 
-That ambiguity and the associated unease can easily lead us to create even more things in our diagram. People make mistakes, create inconsistencies, whenever they write things down. Writing more things down not only does not fix it, it makes the problem worse since it becomes more and more non-obvious where any problems are. Plus we're creating more and more things that can be inconsistent. Remember, we were only looking at one node, on one card, in one loop, in pseudo code. That's as high level and simple as we can make it.
+Listeners enjoy these performances and respond by continuing to imitate the performer in their own interactions, conflating things as needed to achieve whatever goals they have.
 
-We need another method, some new way of thinking. Let's try this a different way, adding probabilities instead of rigid logical relationships.
+Some examples:
 
-{width: 66%}
-![We're guessing we know these concepts, and we're guessing the degree they might be related to one another](resources/images/probability-web-intro.png)
+- The sneaky used-car salesman who offers to take a young couple into his office so that they can do some math and see if they can afford the car. To the couple, he's doing simple math. He also being kind enough to teach them some about how to budget their finances. To the salesman, he is using rhetoric to persuade them to buy a car. In his rhetoric, he is purposefully confusing the listeners as to his true goals
+- The book writer who is writing a book about how ancient aliens gave all of the technology to us that we have today. To the reader, the author is presenting a clear case of various factual things that most people agree on. He presents a logical case so sound that there can only be one conclusion: we were visited by aliens and they gave us all out technology. To the writer, however, whether he knows it or not, he's cherry-picking all sorts of half-understood things from history and drawing suppositions that appear to connect them. In his mind he also may just be using reason and logic, attempting to teach an important thing he's figured out. But the real goal is rhetoric
+- A teacher sets up a "debate" between students on a topic they want to teach. Encouraging both students to make the best case they can, the teacher while appearing to referee the debate actually conveys the selected course material to the class
+- A startup grows to the point that the coders decide to write down some coding standards. A long email discussion follows which different developers get quite passionate about whether to require tabs or spaces. Each developer creates a document full of links to research, books, and blogs to support their position. Since each side is "right", they see no need to discuss the matter until the other side accepts their error. They're trying to use math and rhetoric to take the place of the dialectic. While both may very well be required by the group as supporting documentation, in the end, an agreement on terms and standards is for many things is quite arbitrary
 
-Now the graph isn't necessarily in error. We don't know who the exact database client might be. We're guessing.
+In a big way, false flag errors are an intellectual sucker punch.
 
-It's extremely important to understand that although this graph uses the same symbols and drawing methodology as the first one, this is an entirely different kind of thing. Up until now, we've been trying to model out things as rigid mathematical concepts. That's why there's no end to it. Now, however, we're just throwing together a bunch of things we're guessing about. Call it a "Probability Web".
+When you're correcting somebody using a false flag premise, either of you may be engaging in this behavior deliberately or by accident, making it even more difficult to remedy. There are a lot of people in the world thinking they're just using "simple logic" when in fact they're making rhetorical arguments. They don't know better. You can't correct somebody if they don't even know what they're doing.
 
-## Dang You, Math!
+If you can't identify what's happening you have no chance of fixing it. That's what makes it so pernicious.
 
-You might be seeing where this is heading. Markov Chains.
+Sev 1 error identification bugs are fatal to any current or future interaction. There's nowhere for both of you to go together if you're going in different directions.
 
-{width: 33%}
-![Illustration of simple Markov Chains from Wikipedia. The system exists in one state, say A, and we map the percentage chancee the state of the system will change to E, and so on. It quickly gets very complicated](resources/images/markov.png)
+{height: 66%}
+![You can't use computer logic to fix social systems, or emotions to reason about logic. As opposed to SEV 0 errors, SEV 1 acknowledges that there are levels and systems of logic, it just tries to force one level into controlling another](resources/images/errors-in-error-identification-sev-2.jpg)
 
-Things relating to one another based on probabilities are a type of Markov Chain. It's the basis of all Artificial Intelligence (AI) today, and there are dozens of books worth of material you can explore if you're interested. For now, all we care about is that Probability Webs are different in fundamental and completely incompatible ways from rigidly structured symbolic relationships, such as flowcharts, class diagrams, org charts, or computer code.
+## Conflation of Domains - Dialectical Conceptual Errors
 
-The most important way that they're different is that a chunk of symbolic structure, let's call it "math", can be done. In fact, it's always done. You code for a bit. Once you stop coding, you have a chunk of rigidly structured symbols [self-modifying code jocks, we'll get back to you]. You go home. You've created a rigid structure in code that will be exactly the same when you come back tomorrow. If you were a brick mason, you'd go home knowing that the wall you made today will be exactly the same tomorrow. You can start planning on how you're going to add to it.
+*You're trying to solve a problem in one living-language-learning level that exists in another.*
 
-In comparison, Probability Webs are not like that. Probability Webs are never done. Although we have a fixed number of symbols in our database client example, it's understood and expected that each of those symbols exist in a web with a bunch more. As new data comes in, the probabilities are updated, nodes are added, modified, or deleted. Although we like to explain and refer to these things as webs, we're really not building the webs, we're building the spiders. To reason about these things, we cheat. Only important, mostly-likely relations can be displayed in a graph like we have because otherwise it would be infinite. The snake eats its tail, not only in a simple loop, but in quintillions of loops all throughout the billions of nodes.
+If we're clear on why we're interacting, and it's for our mutual benefit, the next category of errors involve mixing up one level of our ladder with another one. The good news is that we're beginning to enter territory where we can make an error calling out an error and still have a recovery and successful conclusion. The bad news is that Sev 2 bugs are notoriously difficult to sort out.
 
-We can display parts of probability webs, but if they continue to operate, we can never fully comprehend them. They are not structured in a way to allow simple conversation or diagramming.
+Dialectical Conflation of Domain bugs in error-spotting are when you apply the rules and thinking patterns of one level of the Ladder of Civilization to other ones by announcing the ones in-between are unimportant.
 
-{format: fsharp}
-```fsharp
-open System
+![](resources/videos/../images/wrong-about-wrong-its-not-about-the-nail.png
 
-// given a roll between 0 and 1
-// and a distribution D of
-// probabilities to end up in each state
-// returns the index of the state
-let state (D: float[]) roll =
-   let rec index cumul current =
-      let cumul = cumul + D.[current]
-      match (roll <= cumul) with
-      | true -> current
-      | false -> index cumul (current + 1)
-   index 0.0 0
+*(It's obvious to us that the man understands what's going on and is trying to help, but his error identification and categorization system is broken. She is in pain, which is a very low-level stimulus. She is doing the best she can to express and solve that pain using language. Nobody expresses exactly what's wrong the first time they try to express it, and many of us get stuck simply saying something hurts without being able to offer any practical reason why, no matter how obvious things are to others. Instead of trying to identify and fix an error six levels away, he should just shut up and do something about her pain. Mixing up levels just ends up in frustration for all concerned. Fixable, but many times extremely difficult to pull off.)*
 
-// given the transition matrix P
-// the index of the current state
-// and a random generator,
-// simulates what the next state is
-let nextState (P: float[][]) current (rng: Random) =
-   let dist = P.[current]
-   let roll = rng.NextDouble()
-   state dist roll
+What if you're smelly or really rude? What if you can't make a complete sentence without being crass, vulgar, ugly, racist, rude, misogynist, and so forth. Perhaps your body odor is so bad that people can't stand to be around you. You make a mistake. I respond by saying "You're wrong! I don't have to put up with abuse like this! I can't engage in any useful discourse with somebody as disgusting as you!"
 
-// given a transition matrix P
-// the index i of the initial state
-// and a random generator
-// produces a sequence of states visited
-let simulate (P: float[][]) i (rng: Random) =
-   Seq.unfold (fun s -> Some(s, nextState P s rng)) i
+Let's face it, in announcing your error, I'm not wrong. We cannot continue. Something must be done.
 
-// Vector dot product
-let dot (V1: float[]) (V2: float[]) =
-   Array.zip V1 V2
-   |> Array.map(fun (v1, v2) -> v1 * v2)
-   |> Array.sum
+Once again, though, my identification of your error is itself in error. I'm confusing sensual and social stimulae with intellectual ideas. Your smelling bad, or your being disgustingly rude, are indeed ways of shutting down our conversation, but none of that has a damned thing to do with our topic of discussion. I'm mixing up your being sensually or socially wrong (having some condition of the physique or personality, innate or intentional) with your being intellectually wrong.
 
-// Extracts the jth column vector of matrix M
-let column (M: float[][]) (j: int) =
-   M |> Array.map (fun v -> v.[j])
+Smelly people have important things to say. We fix wrongness in each of these levels by addressing things at that level. Dealing with smelly people may involve plugging our noses up. Dealing with obnoxious people may involve strict group norms. These are all wrongs that need to be righted, no doubt, but these problems have nothing to do with our goals. Trying to take a social hammer to drive an intellectual nail in is itself wrong. Whether accidentally or on-purpose, we're conflating dialectical domains.
 
-// Given a row-vector S describing the probability
-// of each state and a transition matrix P, compute
-// the next state distribution
-let nextDist S P =
-   P
-   |> Array.mapi (fun j v -> column P j)
-   |> Array.map(fun v -> dot v S)
+These errors and error categorization problems can be recovered from, and it's the job of good conversant to be able to do this. It's not always a sure-fire thing, though. I wish I had magic fairy dust to offer for those trying to do it. I do not. Such error identification and error correction conversations are minefields.
 
-// Euclidean distance between 2 vectors
-let dist (V1: float[]) V2 =
-   Array.zip V1 V2
-   |> Array.map(fun (v1, v2) -> (v1 - v2) * (v1 - v2))
-   |> Array.sum
+{height: 66%}
+![You understand and are using analysis, you're just not doing it. SEV 3 is a normal daily screw-up. It's the first part of the work of ATDD/TDD ](resources/images/errors-in-error-identification-sev-3.jpg)
 
-// Evaluate stationary distribution
-// by searching for a fixed point
-// under tolerance epsilon
-let stationary (P: float[][]) epsilon =
-   let states = P.[0] |> Array.length
-   [| for s in 1 .. states -> 1.0 / (float)states |] // initial
-   |> Seq.unfold (fun s -> Some((s, (nextDist s P)), (nextDist s P)))
-   |> Seq.map (fun (s, s') -> (s', dist s s'))
-   |> Seq.find (fun (s, d) -> d < epsilon)
+## You're Doing it Wrong - Dialectic Execution Errors
 
-// Illustration
+You're doing the living-language-learning work wrong.
+Dialectical Categorization Errors occur when you're in a spot to make great progress using the dialectic with other folks in some social group, but you're executing the work of the dialectic poorly.
 
-// Our Markov chain models plane delays
-// 0 = early, 1 = on-time, 2 = delayed
-// more comments at
-// http://clear-lines.com/blog/post/Simple-Markov-chains-in-FSharp.aspx
+Remember that the purpose of the dialectic is to come into alignment on terms, language. This is usually done by participants making broad statements using stereotypes and generalizations, then the group as a whole narrowing down those generalizations to some specific set of terms they all can agree on.
 
-// Transition matrix:
-// each row corresponds to a state,
-// and contains an array of probabilities
-// to transition to each of the states.
-let P = 
-   [| 
-      [| 0.10; 0.85; 0.05 |];
-      [| 0.10; 0.75; 0.15 |];
-      [| 0.05; 0.60; 0.35 |]
-   |]
+It has to be that because we all come into the discussion with various abstractions of various levels and various words to describe those abstractions. Good dialectics resolve that, or at least resolve it as much as required for a formal system of logical, consistent, and executable falsifiable tests to be constructed.
 
-let rng = new Random()
+There's an old joke that most programming jobs begin with specifications so ludicrous as to be absurd "Do more good stuff" might be the start of a project.
 
-// how many delays in a sequence of 1000 flights?
-let flights = simulate P 1 rng
+[*(Software developers are very familiar with the various ways technology teams can get screwed over by the organization. The vast majority of these are either Sev 2 bugs or the results of them)*](resources/images/wrong-about-wrong-tom-takes-requirements.png)
 
-let delays = 
-   Seq.take 1000 flights 
-   |> Seq.filter (fun i -> i = 2) 
-   |> Seq.length
+Some companies have project owners walled-off from coders. It's a tedious chore having conversations, so everybody tries to have as little as possible. Or a false gated-schedule is set up, where certain kinds of conversations only happen at certain times. The dialectic can't be natural, and without a natural ebb-and-flow of human interaction, it's not a dialectic at all. It's some advanced form of order-taking.
 
-// stationary distribution
-let longterm = stationary P 0.0001
+Good projects have a dialectic that continues throughout all of development and deployment. They have a lot of these Sev 3 errors that come up, but the project recognizes them and quickly recovers. Bad projects have requirements. Don't have a Tom.
 
-// impact of matrix modification
+*Dialectical execution errors happen constantly and good social groups are able to recognize and recover from them with no time or energy lost. Bad social groups may not even be able to recognize them as they happen.*
 
-// improve delays after delays
-let strat1 =
-   [|
-      [| 0.10; 0.85; 0.05 |];
-      [| 0.10; 0.75; 0.15 |];
-      [| 0.05; 0.61; 0.34 |]
-   |]
+{height: 66%}
+![Everybody agrees with one another about what they want, but what they want isn't a complete, consistent, computable formal system. SEV 4 errors are the second part of the work of ATDD/TDD](resouces/images/../../resources/images/errors-in-error-identification-sev-4.jpg)
+## You Made a Mistake - Logic Errors
 
-// improve delays after on-time
-let strat2 =
-   [|
-      [| 0.10; 0.85; 0.05 |];
-      [| 0.10; 0.76; 0.14 |];
-      [| 0.05; 0.60; 0.35 |]
-   |]
+*You've made some craftsmanship errors in the work you're doing.*
 
-let impact1 = stationary strat1 0.0001
-let impact2 = stationary strat2 0.0001
+Finally, we have the errors we make in other forms of interaction that can directly affect our ability to spot wrongness. There's a list of logical fallacies you might be familiar with. There are various lists of pedagogical mistakes that can be made. (Pedagogy is the study of teaching)
 
-[*Looks complicated, but it's not. Here's a simple implementation of Markov Chains in F#, h/t to Mathias Brandewinder for his wonderful essay back in 2012 (Although I have to resist looking at it to much because programmer)*](https://brandewinder.com/2012/05/27/Simple-Markov-chains-in-FSharp/)
+A programming error, for instance, is a non-dialectical error. Is that a feature or a bug? Putting a feature into a bug-tracking system is an example of a error identification mistake that involves no social interaction (rhetoric, didactic, dialectic)
 
-## It's the Shape Of Your Head
+> *Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth. – Sherlock Holmes*
 
-As humans, we have but one mouth. That mouth produces sounds and tones, either in chunks or in clusters. Put simply, we have a simple tone, a simple way of modifying it, and a simple way of joining them all together. If a complex diagram representing Probability Webs can't tell us what something is, no matter how complicated we make it, we have no chance at all of using our speech to convey that from one person to the other.
+*(This logical fallacy is so popular it even has its own wiki entry on the rational wiki. Logical fallacies are used in everyday life. Simply because somebody uses a logical fallacy doesn't mean their conclusion is wrong, that's a fallacy in itself, "argument from fallacy".  Instead of being useful at proving right or wrong, as long as we share a common goal, fallacies are a necessary part of identifying where further language alignment is needed. That's called a "fallacy fork" Testing out and trying terms and propositions is the actual work of the dialectic)*
 
-![](resources/images/speech-and-the-inside-of-the-head.png)
+Instead of thinking of them as errors, they're much better considered as the actual work.
 
-*For a hundred thousand years or more, this is the primary tool humans have used to communicate. It's only been extremely recent that we started writing. If we had 17 mouths, 53 ears, and were able to transmit ideas to multiple people simulaneously as probability graphs, we'd see the world much differently. We'd be able to reason about it in ways those simpleton one-mouth, two-ears folks couldn't. Also it would be very difficult to buy hats.*
+These are the errors everybody talks about. I'll leave these for another author.
 
-Would words or some sort of diagramming work? No, and for the same reasons. These are linear, at most 3-5 dimensional tools trying to represent billion-dimension graphs.
+## Mind Your Knitting - It's a Process not a State
 
-```c++
-#include <iostream>
+We've ran out of categories, and we still haven't defined wrong yet. We've defined ways of making mistakes when identifying errors. Those come in clear groups. Can't we identify how somebody/something is wrong without using one of the categories above, each with its own problems? When we find any error that falls into a category listed above, it always means that there's just more work to do.
 
-class ConcurrentClientApps {};
-class AppsRequiringServerAccess {};
+Is there no way out of this conundrum? It seems we are in a trap of our own making, and indeed we are. For reasons we can never change, it's impossible to tell somebody they're wrong without being wrong in some way ourselves in doing so.
 
-class DatabaseClient : ConcurrentClientApps, AppsRequiringServerAccess {};
+Why must that be true?
 
-class HumanClient : DatabaseClient {};
-class APIClient : DatabaseClient {};
-class MessageeQueue : DatabaseClient {};
+We will always be wrong when telling somebody that they're wrong because we're providing a boolean response to something that can't take a boolean. Human languages are squishy, malleable. They constantly change and words can mean anything. In fact, in a great many cases where we think somebody is in error, we have different ideas about what the same words mean. When we give up that exploration of language differences and expect human interaction to work like a printed geometric proof on a page, we're trying to use a tool in a place where that tool will never sufficiently work. Yeah, the hammer will get the screw in a little ways, and we can feel good about it, but it'll never do the real job of a screwdriver.
 
-int main()
-{
-  std::cout << "Hello, World!" << std::endl;
-  return 0;
-}
+Ever watch physicists online engage in commenting about some news-of-the-day? One physicist might say that the news is overblown, but the underlying concepts are good. Then they'll go to some length explaining the underlying concepts. Another might say that no, the article itself is wrong and the first physicist either doesn't have a good grasp on the underlying concepts or is mistaken. A third might weigh in that both are right in various fashions, but there's a third domain implicated that neither of the first two have considered.
 
-*With code and other formal symbolic systems, like diagramming, the structure is unambivalently baked into the system, checked by the compiler. No matter what, you always have that structure. With Probability Webs, there is no structure. The structure starts and grows as the code runs. The code only exists to continuously update the Probability Web, where the actual value lies.*
+I love watching smart people talk about their work. I also love watching children learn to speak. Ever watch two-year-olds engage in some discussion over a topic, such as who gets the icy pop? These things usually quickly devolve to something like "Mine! Mine! Mine!" and "Boogerhead!", followed quickly by "Mom! He called me a boogerhead!"
 
+These are two examples of the same thing, humans using language, interacting, grasping for knowledge, control, and power. They're engaging in dialectics, no matter how primitive. The children will come to a better definition of what the term "mine" means. The physicists will come to a better definition of what (perhaps) causality means in a quantum multiverse. The only difference is that the physicists are working at the top of the bar and the two-year-olds much further towards the bottom.
 
-Even the Probability Web itself doesn't know what it is, because as it begins to traverse the web, it's continuing to modify all of the connections. The model as it was when it began will not be the model when it ends. It's a completely different universe than we live in.
+Assuming we're doing the dialectic, trying to have productive interactions to make us all better people, we're all headed to the same spot at the top: reproducible tests. To get there there's a list of prerequisites that have to be done. At each stage, all of us get things right and all of us make errors. In a big way, no matter what we do we're always in error until we get to the top, and even then we're not quite sure if we're right or not. Is that scientist wrong for espousing String Theory? If so, is that the same kind of wrong as the guy who said that The Great Pumpkin told him that Summer Squash will take over the Earth one day? How do I tell each of these people they're wrong in a way where I don't make their errors worse and lead us both down a path we'll never recover from?
 
-## Brains, Reality, and Webs
+Errors in these categories are not errors, they're items in a to-do list.
 
-Except brains. Brains only exist to process reality, and reality is a bunch of really complex concepts all related in probabilistic ways.
+Now we have a working map. That gives us a better job description. Now that we know about finding mistakes and how they lead us to more work, we can talk about the day-to-day process of working, identifying problems, then fixing them.
 
-Here all of our concepts join up:
 
-- Reality is multivariate, not simple concepts
-- Reality exists as a web of things related by probability
-- We can never fully understand probability webs (although we constantly understand them "enough")
-- Our brains operate in roughly the same kind of Probability Web that reality does. Yay evolution.
-- When information leaves one of us to be shared with others, it's always in a single-channel, linear format
-- This format does not match up with the universe as we understand it
-- Ergo, reality will never be something we can completely diagram in a rigid way. Instead, we're always coming up with just good enough little graphs of ideas in our heads that work right now
-
-## Feedback Loops Are Bullshit
-
-It is very easy to diagram something. Once we do that, it is also very easy, perhaps automatic, to convince ourselves that we are done, we have diagrammed it completely. It's axiomatic that this is not true. Therefore, in ways we do not understand, the things we diagram must be incorrect. Perhaps it's incorrect in trivial ways. Perhaps not. But since we're using a Probability Web ourselves internal to come up with these models, we'll never know. The best we can do is come up with something, run it for a while, and adjust it when we finally understand how it's broken. [remember we have an exception for math and physics]
-
-![The very latest in the Structured Agile Framework (SAFe), a system for creating technology. Such diagrams are neither beast nor fowl. They're not code. They're not even much of a rough map to get started doing the actual work, as in our database client example. Instead, like most feedback loops you'll see in textbooks, the implication is that there's some kind of formal, proven system being displayed, like a circuit diagram for a radio. If you watch these types of diagrams being created, it's much more of an art form than a science.](resources/images/safe_bigboard.png)
-
-And it's worse than that, because the more we think of our modeled concepts as being rigid, like we did when we thought of "database client" as simply a person, the more likely we are to be wrong in important ways. We're always wrong, of course, but our idea that the concepts we create are fixed make us more wrong and less likely to change our ways. This increases exponentially with the size of the model. For anything based on human communication, the more you try to decompose the meaning of something, the more pieces you have in your hand that need further decomposing. It doesn't work like that.  [with the exception of math and physics]
-
-Instead of feedback loops, here is what we need: Feedback Webs.
-
-## Yet Here We Are
-
-But we're still human, and we still only have speech and writing to represent concepts. So like Plato's Cave, or a two-dimensional projection of a tesseract, we have to snapshot or project some kind of half-assed idea in order to get anywhere at all. We have to lie about reality in order to get it into terms we can usefully discuss. Because heads.
-
-We can play around with Feedback Webs in the small, using less than a dozen or so items to start conversations, but they're just that: conversation enablers. We can use more rigid structures like Feedback Loops in the large, perhaps showing dozens or hundreds of things all related in complex ways, but these are so wrong as to almost be farcical [Again, there's an exception for physical systems. We're talking our representation of concepts. Pure math and physics exist context-free. Everything else doesn't]
-
-The best use I've found for more complicated diagrams like the above are road maps: they might or might not lead me to a "neighborhood" with a half-dozen or so concepts that we can then reason about together as Probability Webs. Oddly, though, what we usually end up doing when we're done is "firming up" that structure and then trying to make sense of that with the larger model.
-
-This is a process that will never work. Or as some coders have finally realized, you will never have your Enterprise Model. There's some multivariate super-dimensional probability model that represents your enterprise that you could never understand, but it's constantly-changing and understood differently for all of the participants anyway, so even if you grew a twenty-ton brain, it doesn't matter. It doesn't work like that.
-
-This leaves us stuck using flowcharts, class diagrams, feedback loops and the rest. But the real action is with Feedback Webs. Like our database diagrams, the situation, the things we have to work with, are both solid and amorphous at the same time, depending on the level of detail you're using. If we're going to study learning at scale Probability Webs are the wet clay we use to bake into houses to build bigger structures. These are our bricks. Now we can get building.
-
-
-## We Have To Watch The Infinities
-Everything we do with foundations is going to bump up against infinities. We need to be constantly mindful that we can describe the general process, the general structure, and the general goal, but we could never provide the specifics, as all of these vary based on participants, context, history, and so forth. This doesn't mean we won't have a lot of interesting and useful things to say, but it means that for each thing we cover, we're going to have to note the rules that create and drive the infinity, go over a few examples, then back off. Otherwise we'll end up with one of those nuclear missile diagrams all of us so fear.
 

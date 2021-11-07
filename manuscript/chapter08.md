@@ -1,132 +1,200 @@
-# Learning Foundation Complete
+# Notional Neuron goes to the Learning Zoo
 
-One of the more interesting aspects of negatives stacking and the importance of being wrong is how if affects all sorts of political interactions. As it turns out, quite surprisingly, people complaining, even in extremely vague language, are the bedrock of all progress of western civilzation.
+![*There's a ton of bullshit here for sure, but there's also enough truth to make exploring extremely worthwhile*](resources/images/learning-zoo.jpg)
 
-It's quite easy to take an instance of somebody complaining in vague terms, perhaps somebody saying "this sux!", and point out how completely useless that kind of comment is. And that's correct! All negative comments turn out to be useless. It is the comment itself that begins the process of analysis that then leads to something productive. Once we narrow down things to the point where it doesn't matter whether we act, then and only then do we add a test.
+## Disclaimer
 
-That test is made using the same language of negatives that we have stacked to find a particular area of interest that we're currently exploring. 
+If we're going to learn about learning, we're going to have to talk about brains: biological brains, artificial brains, social brains, and a few more. In order to do that without getting lost in recursion, we're forced to create an artificial nomenclature, a bunch of labels that we can use to navigate our way around. We're not going to design a brain, but we're going to talk about the things a brain has to do. We're going to do that using an imaginary thought experiment neuron. We'll call him "Notional Neuron"
 
-This does not guarantee success. Or that we're right. But it guarantees that we will have the same experience most all of the time. Science, as it turns out, relies on negatives stacking, tests corresponding to that uniquely-experienced area of inquiry (using the same language as the area it's described in), and reproducible results. That's it.
+There are no justifications for these names or diagrams forthcoming. There will not be an extended discussion about theory, qualia, or the foundations of reality. That might come later. Instead, frankly, we're going to pull a bunch of concepts out of our ass and make nice diagrams with them. If the names and diagrams work to help us through the book, they've done their job. If not, it is left to the reader as an exercise. Good luck. Many have been down this road, never to return. Here there be monsters.
 
-We'd like to think of science as being the progress of humans stacked on top of one another over the ages. One writer described it as "standing on the shoulders of giants". And that's true. But it's not true in a literal way. We are not literally standing on the shoulders of giants, nor are we using the things we've written down over the years to do that, as much as we'd like to think otherwise. We are not taking the words of previous people and adding our own words to them to make something new. 
+It's also important to understand that we are providing notional diagrams only. They are not meant to correspond to any particular thing in the real world. Where it's possible that there is correspondence it will be noted. Given this disclaimer, there should be many parallels and very few discrepancies with things we already know to be true.
 
-That's probably the most surprising thing of all, out of all of this. 
+Many of the "joining" ideas that connect up our nomenclature and general concepts are founded on lots of books and schools of thought and intellectual history. These situations will also be noted. What we have here is a pot pourri of creativity and hard science. Caveat Emptor.
 
-What we're doing is creating areas where a small group of people have an interest in exploring, or silos, where we have agreed-upon negatives that stack to create testable, reproducible, experiments that correspond to the area we're trying to explore or the thing we're trying to find. Since those negativts are by definitions unprecise and vague, that language does not have to resolve itself into some sort of formal, logical, self-consistent graph of meaning. So while we can certainly use vague language to describe whatever our target is, and we can use vague language to describe how we reproduce things, the corresponding part of this, the silo'ed negatives stacking part? That is a socially-constructed boundary of vagaries. And that's fine. It seems to work quite well for everybody concerned.
+Make no mistake, though: we want to be wrong. That's good. We want to be wrong in as useful a way as possible so that we can all learn more about learning than we knew before. There are two diametrically-opposed forces we need to join, biological and computational. If we're wrong in a good way we'll bring each side a little closer to the other. No instant miracles are contained here, only cool shit you didn't know before. Later we'll talk about how to do neat stuff with it.
 
-There was a time when the human language was small enough and the concepts generally understood in a shared way well enough, that you could read a book and then go do the thing while understanding the entire "stack" of tech you're using to accomplish that. Those days are long gone, but we still have the illusion that they're not, mainly because of the limits of human cognition. 
+![When you learn, you have new ways of understanding and interacting with the world. There are only three ways of thinking that allow you to do that. We must reason to learn. These three types of reasoning are the only types that all intelligent beings can use.](resources/images/types-of-reasoning-and-learning.jpg)
 
-This is why it's possible to describe lots of experiments that seem like they might work to experts in the field when in fact they're not reproducible or the experiments are reproducible but the results aren't. It's not a problem with the experts or the field of study.
+## Learning from the Outside
 
-Popper got very close to this when he said that all science should be falsifiable. It's not that it should be falsifiable as much as it should contain self-consistent vague language that describes a reproducible, falsifiable system of inquiry. 
+The naive way to think about learning is to think about it from the outside. We all do that. We learn in many ways: there are a lot of physical things you might do: read a book, go to school, spaced repetition, apprenticeship, and so forth. There are millions of books, videos, recipes, products, and other things out there to help you learn, with more appearing daily. At heart, however, no matter what you're doing physically, mentally there's a finite number of ways to take things from the outside and make them part of your consciousness. Somehow or another, you're doing some form of mental work to get new learning inside. Here's the three different kinds of reasoning and how to use them to learn. Let's see exactly what that looks like.
 
-Dang, that's a mouthful of words, isn't it?
+{width: 66%}
+![Induction consists of looking at stuff, matching it to general rules, and assuming all things like that will follow those same rules. 1+1 is like 1+2 is like 1+3. We do addition through induction. Induction is running the machine we've created. We don't need to know all of the numbers to be able to add them together. In induction, the categorization and rule application is more important than the actual sensory input.](resources/images/deductive-inductive-reasoning-chart.jpg)
 
-So the beginning of the learning loop, by definition, is a vague, formless, negative feeling. This feeling is based either on sensory input, some internal caluculation, or a sequence of either of the two in combination. But make no mistake, it is that beginning, it is that that vague sense of negativeness, where learning begins.
+## Induction
 
-We cannot natively, naively, or intuitively see this. The human brain is a cheater. Describing how learning happens, like we just did, is a mess of words and complexities. When we're diving down into this particular pool, it's quite easy to think either the entire concept is very fuzzy and we'll never, ever reach our goals of understanding learning at scale. Brain don't care about any of this. 
+Induction is our natural life. We see something. We already know what it is and how to use it. We use it. We don't go testing every chair we come across to make sure it's a chair, even if it's a very weird-looking chair. We quickly categorize, sort, apply rules, and keep going. If you think about it, induction is done by plants as well as humans. Repeating a bunch of things you've memorized in a list without understanding is induction. It's a series of stuff we know and we're able to continue forward in the series without really knowing anything at all. It is the most naive way of reasoning about the world. It doesn't even require anything that we might consider intelligence.
 
-Biological systems work on this same learning principle. But they don't care about the rigor of reproducibility, vagueness, falsifibility, or negatives stacking to create boundaries as much as science does. (Even if they do in practice). That's because biological systems only have to believe that they understand what's going on and that there's a cause and effect in place. Scientific systems have to **know** and be able to describe all of that. 
+{width: 66%}
+![Contrast Induction to Deduction. Deduction takes specific structures and rules, applies formal logic to them, and then proves that other, more generalized structures and rules are forced to be true. Deduction is creating the machine that we then run using Induction. Induction moves from the general to the specific, taking loosely matched input and running precise rules, whereas deduction moves from the specific to the general, taking tightly-defined rules of logic applying them to loosely defined categories, and ending with statements about everything. Deduction creates the rules, Induction applies them.](resources/images/Deductive-Reasoning.jpg)
 
-The word "know" here is also quite interesting. Once we dive down microscopically to the quantum level? Cause and effect? Locality? Particles? Uniqueness? Even the idea of space and time? They become amorphous. 
+## Deduction
 
-Indeed, there are a lot of philosophers of science that are either frequentists or bayesians. By that I mean that they do not view science as a lock-step, cause-and-effect area of exploration as much as a "set this up, do this thing, and mostly this other thing will happen" situation. Sometimes, like dropping a hammer on Earth, the word "mostly" corresponds to 100%. Sometimes, like at the quantum level, the word "mostly" corresponds to a probably field, matrices of values with probabilities corresponding in multiple dimensions. 
+Anybody that's read a Sherlock Holmes book or watched a detective show has engaged in informal deductive reasoning. It's the kind of reasoning we think about when we think about "figuring stuff out".
 
-But you know? No matter what physical reality is, brain don't care. If it did care? If we had to evolve as a biological species the same way as a computer program has to be coded? We never would have evolved at all. It's important to understand that while the fundamentals of learning for both biological, machine, and social systems, the actual way that learning takes place varies drastically between all three. 
+The underlying concept to deduction is that we all have things we know to be true. These things can be the names of things, how things relate to one another, or how things act over time. These existing things we know to be true can be expressed in mathematical format. Our goal with deductive reasoning is to create a proof: If A->B and B->C, then A->C. The things we already know to be true, if thought about logically, create new things we also know to be true. New stuff we know comes through the rigid application of rationalism and logic. Yay science.
 
-What we'll end up doing, now that we've established our foundation, is taking these fundamentals and comparing the with the observed situation in all three systems to see where we can create, improve, and measure learning at scale.
+The trick to deduction is making sure we identify A, B, and C in this example and also making sure the "->" transform for each of the three statements meet certain criteria. Deduction only works when our input is good and our logical system is sound. Garbage in, garbage out.
 
-## The Map
+{width: 66%}
+![This shows how to apply the three types of reasoning. The word "therefore" in each diagram shows how we use each of them. Remember that learning goes the other way. Learning is when we take this information and create a new "therefore" using one of these three forms of reasoning](resources/images/Deduction-Induction-Abduction.png)
 
-The terrritory isn't the map, but having a map, even if it's bad one, beats nothing.
-### Existence in a Universe
+## Abduction
 
-![In any sort of universe, these are the kind of things you'd talk about if you were explaining it to a friend](resources/images/gridorladderofcivilization.jpg)
+Many of you are probably wondering what the hell abduction is. We never learned abduction in school! There's a good reason for that. Abduction is the creative part of science that we don't really talk about. Traditionally it's been difficult to teach formally so we just ignored it and stuck little bits of it here and there into other areas. Unfortunately, that makes understanding both abduction and those other areas more difficult. Let's untangle this.
 
-From *inside* that universe, however, it's very difficult to see all of this.
+Reasoning through abduction is just as important as the two other ways of reasoning. Our current tech implementations shows a severe lack of abductive understanding and practice. The big hole that's missing in AI right now is Abduction. Gotta have Abduction. If you look mainstream talk about abduction, it's not there but in order to do the best they can, they collapse part of it into induction and part of it into deduction. This makes a mess of things and makes it impossible to actually understand what's going on.
 
-### Consciousness and Sentience
+In plain words, abduction is just guessing stuff and being able to come up with some kind of reason why your guess might be right. This is another thing we do all of the time. Our brains are quite excellent at it.
 
-[Notional Neuron, our abstract way of modeling consciousness anbd discussing sentience](resources/images/notional-neuron-detail-small-3.jpg)
+If you've come here to learn about the current and future state of AI, you're in the right place. Abduction takes a seemingly big chunk of noisy stuff from all kinds of places and comes up with rules and creates loose associations that might explain them.
 
-We're just going to stipulate that consciousness is everywhere. It exists on various levels. Higher levels of consciousness are always aware of lower levels, perhaps not even considering them sentient, but they are never aware of higher levels, even as they participate in them.
-### Learning is a Fractal
+As an example, let's take the gherkin testing language based on RSpec. Gherkin describes computer tests. It is written in the format of Given-When-Then. Induction is simply When-Then. See that, do/think this. Deduction is simply Given-Then. Given this to be true, then that must be also be true. Abduction creates an entire chain, Given-When-Then, but it is in the form of a question, a hypothesis. Abduction is both tentative and creative.
 
-![The definition of anything is a fractal, and learning involves fuzzing out the piece we want enough so that it's useful to us for a given purpose. We always learn in some kind of context.](resources/images/fractal-circle.jpg)
+## Learning Comes In Combinations
 
-We will never know everything exactly.
+My thesis is that when looked at it from the outside, intelligent creatures learn by holding two points of the reasoning triangle still and letting the other one change as our brains continue to work.
 
-### The Idea of Wrong Doesn't Work
+Let's visit the "Learning Zoo"
 
-![](resources/images/monty-python-shes-a-witch.png)
+- **Inductive/Deductive Learning**: We're coming up with new forms of abduction, things we believe to be true but aren't sure. We take data in categories we know to be true and using rigid rules we also know to be true (and where we also we believe both the categorization and rules to be applicable in this particular situation.) This type of learning can work in a closed room. It's context-free because you're reasoning in the abstract. The context comes later. It's very content-dependent, though, as the entire world of deduction happens based on strict rules about the content of the argument. We apply inductive and deductive reasoning, sometimes over-and-over again, until abductive reasoning provides a newer or simpler way of looking at things. Are there other categories we should be using for this data or other rules that make more sense in this situation?
 
-When we realize somebody's wrong, it always makes perfect sense to us why they're wrong. But as we dive down into detailing exactly why they are wrong, we become even wronger than they are.
+This is thinking about science, not science itself. It's probably most clearly illustrated in the Socratic Method, where questions and logic are used in order to have the student guide themselves to a new understanding they didn't have before. We look at stuff we already have and wander if there isn't some better way of putting it all together. It's what we use as programmers when walk through somebody else's code we've never seen before and try to come up with why the original coder coded it that way. When we do that, we're learning how to abduce.
 
-### Feedback Loops are Bullshit, but they're all we Have
+- **Inductive/Abductive Learning**: We're figuring out new forms of deduction, the rigid rules this universe operates under provided with a bunch of guesses and data. In contrast to inductive/deductive, inductive/abductive is very context-dependent. You need to know the exact situation here. You are constantly looking at the environment, the data, the situation and so forth. The details. What's the simplest form of logical system that works here? You don't know exactly what you're looking for, since so many things can affect so many others. It's content-free, though. You figure out what system of logic you're stuck in by watching the data go by and continuously categorization and rules to sort it all out. You're trying to create the simplest system possible to organize all of the existing data such that it's useful in other situations. You know the rules to make an infinite series of the stuff, you think you know why that's true. You're trying to find the structure, the *why*.
 
-[](resources/images/snake-eating-own-tail.png)
+As you sort through things trying to find possible rules, you might create ad-hoc content, for example sometimes people sketch things on a whiteboard, but it's ephemeral. Mostly it gets thrown away until you get to the deductive part that holds true always.
 
-We naturall want to create loops and cycles when we talk about learning, but they only work in the loosest, most abstract form. We're going to have to use some kind of cyclic behavior to go forward, but we shouldn't take it too seriously.
-### We're Left with Five Broken Concepts we're Going to use Anyway
+This is breakthrough science, figuring out how the math/world works, or at least the beginnings of it. It's illustrated in an audience watching a murder mystery, a jury reaching a verdict, a reader reading a new fantasy novel, or a child figuring out if they throw food from their highchair a grown-up will magically appear and pick it up. Repetition of data occurs, rule guesses are created, and the process continues until we spot the underlying systems that are being used. We come to a system of logical rules that must always hold true in this universe. We're learning how create these systems of logic and categorization. We're learning how to deduce. We figure out the rules of what we're experiencing and how they must relate to one another.
 
-As long as we know how they're broken, we can still use them.
+- **Abductive/Deductive Learning**: We're coming up with new forms of induction, thinking about how to stop thinking. This is the end of science, or at least the beginnings of the end. This is where science ends because there's nothing left to figure out. You are given rules and categories in this universe along with all of the hypotheses that might be true in various ways and circumstances. We know a bunch of guesses that might be rules, we can work through the logic that takes these guesses and translates them into predictions, but it's a struggle matching them all up in order to mechanically predict future behavior.
 
-- Math/Logic/Programming
-- Language
-- Feedback Loops
-- Identifying Wrongness
-- Neurons
+This is the way many programmers operate. They're given a fixed set of rules that must apply (the programming language). They're given a bunch of guesses about how certain things have to appear and work. Their job bolt it all together in a mathematical system that runs by itself ad infinitum.It's interesting to note that this way of learning cannot by definition lead to any breakthroughs on its own, although it's required that we do this for those future breakthroughs to happen. Abductive/Deductive learning can only lead to a place where it stops working. If your inductive rules don't work for this context and data stream, you've got some learning to do. (in the other two areas). We're learning induction.
 
-## The Structure of Learning
+All of the arguments you hear about pure theory versus applied science boil down to people over-emphasizing either side of the Abductive/Deductive pair. Both are necessary. The missing piece here is abduction, as these are abductive arguments, but since we don't talk about abduction, many times the participants are lost at sea.
 
-- Learning involves building some sort of new structure at the conversational level and below
-- That structure does something we couldn't do before
-- It consists of both little pieces we put into bigger pieces and how those pieces interact to do that
-- The Grid of Civilization forces us to use both formal systems and completely imprecise performed human langue, ie, math and language
-- At the internal/personal level (A), we can consider little strings of abstractions (Q,O,R) to be thoughts. Ones that repeat are things we have learned
-- At the conversational/social level (S), we're stuck using non-verbal internal abstractions among ourselve to come up with working shared rational, logical views of reality. It's like building castles out of jello
-- If it helps, you can thing of groups of these little strings (related chains of Q,O,R at the conversational level (S) ) as little bricks that we make as a species
-- At the external/social level learning means putting those bricks together
-- The purpose of this atom of learning is to take those pieces and bridge that gap
-- The structure that bridges that gap is a mostly social, mostly logical system that we can do useful things with we couldn't before. Overall, in a general sense, it's science.
-## Bridges let us Cross the Chasom
+| Type of Reasoning  | What it represents  |
+| --------- | --------- |
+| Deduction | Categorization systems and rules that relate them |
+| Induction | Easily calculating he possibly infinite number of next items in a particular situation |
+| Abduction | Possible new deductive/inductive pairs to investigate |
 
-*Ditch-digging, the universe, and crossing the chasm of human experience; balancing invention and practicality*
+## Channels of Change
 
-![](resources/images/the-canyon-intro.png)
+Thinking about learning from the outside, those three forms of reasoning describe the magic that must somehow happen. If the "learning machine" was made of gears, how do we start the gears going? How does learning get inside a brain, however we define "brain"? Here are the levers we can pull from the outside when we want to learn to get the learning machine started.
 
-A while back, I was studying the life of Martin Heidegger. Here's the super-short, mostly-wrong version: Heidegger understood language's inability to describe and ultimately deal with reality, so he used the German language's wonderful mix-and-match-word-parts to try to fix it. Using some words to fix the problem with all words is like trying to put out a fire with kerosene; the more you try, the bigger the problem gets.
-
-He ended publishing over 47 volumes. Most of his work is not published. He spent a lot of time thinking about the meaning and differences of things like being-to-meaning, being-about-meaning, being-of-meaning, being-around-meaning, and so forth (I made up these terms, but they are indicative of the types of things he spent his life on. This guy didn't do a lot of ditch-digging.)
-
-![Wow! Great books! Think I'll wait for the Netflix 143-episode series. I like to think of Heidegger as sort of a fundamentalist pre-socratic.](resources/images/Martin-Heidegger.jpg)
-
-You can't start believing your own bullshit. Put more kindly, you have to be arrogant and smart to come up with a unique and useful idea or two. (That doesn't mean you have to be unpleasant.) However by being arrogant and smart, you're prone to taking those ideas and turning them into a lifetime of deeper and deeper digging into how arrogant and smart you are. Every philosopher that have good biographies took some great ideas and went a thousand times farther than they probably should have. It's not the fault of those people; we tend to find lost keys somewhere around the lamppost. That's not because lost keys go there, it's because that's the place we can see best. People who have these great ideas see a little part, they create their own lamppost, so of course they're going to keep looking around that lamppost to see whatever other cool things they can dig up.
-
-Still, you should never be afraid of being a bit arrogant, coming up with new stuff, or joining together old stuff into something that's either new or looks pretty cool. The world needs folks like that. Whether that's your lamppost or not, it's a cool set of keys you found that somebody might want. Just keep it all in context.
-
-With that in mind, I needed to update my understanding of how people understand the world. The canyon diagram shows that there are two basic ways of existing in and thinking about the universe you're in, abstract logical/mathematical reasoning, and flexible, totally-ambiguous spoken/performed language. Of course, all of us constantly use both of these, move around them fluidly, and join them together in various ways, but most times we are unaware. We forget this stuff, then we end up spending our life writing 47 volumes of impenetrable stuff that might be useful or might be total bullshit, nobody really knows. They'll argue about it forever.
-
-![Heidegger tried to use more and more language, some of his own design, to make the right side of the canyon go away. Everything was ultimately political and social. Language itself existed as sort of an ultimate truth, over the centuries passing down from generation-to-generation as it tried to express itself](resources/images/canyon-and-modes-of-existence.png)
-
-***Note that the canyon diagram matches up perfectly with our Grid of Civilization)***
-
-It's not just academic philosopher types. This happens to folks writing computer programs and cloud systems as well. You come up with something pretty cool, something that gets lots of attention, then you spend far too much time riding that mechanical pony around long after your dime ran out outside the local Walmart. Other kids want to ride too.
-
-To avoid this tendency while still trying to be a worthwhile member of society, I've always sketched out any sort of abstract concept or problem I'm working on enough to find a way forward to a larger goal, then either discarded or actively tried to forget it, instead focusing entirely on the goal. From time-to-time I come back to these sketches to see if I can bang them together into something else that's cool, but once again only enough to find a way forward to a larger goal. You start focusing on your own abstractions too much, you'll end up talking to your oatmeal. You don't want to talk to your oatmeal.
-
-![Sketch, align, reason, use, discard, rinse and repeat](resources/images/it-aint-much-but-its-honest-work.gif)
-
-The canyon diagram helps me reason about the kinds of things people do, the modes of thought they have, and how different modes really follow different rules. If you don't understand those rules, you can't effectively engage with what's going on. It points out obvious things (to me), like the natural opposite of politics is science, or that total faith and total truth, while giving a happy feeling of certainty, are diametrically different things.
-
-I believe I can use this sketch to take most large movements in mankind, things like rationalism, existentialism, fideism, etc., and map them. I can even show how these movements have changed over time by tracking how their location on the diagram changes. More importantly, all conversations about building cool new stuff or fixing broken stuff live here. It's the map. That's what I needed.
-
-But however it turns out, for now I've got my modes of existence mapped into categories I can attempt to use to talk more about productive conversations. If it works past that point, that's cool. If not, I'll sketch out another one.
-
-Stay ego-free, my friends.
-
----
+- Direct Sensory
+- Recursion of acting/sensing
+- Repetition of acting/sensing
+- Carrot/Stick
+- Creation and comparison of abstract models
 
 
+There's a heavy dose of recursion implied in this list. Recursion accounts for a lot of the missing pieces that would otherwise be listed. Recursion wreaks havoc with a lot of folks. It causes all sorts of problems, like the mind-body problem or the hard problem of consciousness. We're okay with those problems, however. We don't care. We're not trying to explain or diagram how reality works. We're sketching something on a napkin that will get us a little farther along down the road. We back away from the problem in this way in order to take the contradictions out, while leaving some good nuggets of insight to mine later.
 
-Next up, how machine systems learn and how they can be super-intelligent without actually knowing anything.
+## Learning from the Inside
+
+We've covered as much as we want about learning from the outside-in, top-down viewpoint. We've talked about the forms of reasoning and how they are used in combination. We can observe them happening all around us. Now let's flip things over, move inside our magic box. Let's change from a top-down view to a bottom-up view. We're going to get a lot more speculative and talk about what learning might look like from the inside-out in, bottom-up in our magic learning machine. This same machine is everywhere, a bacteria, monkey, computer, startup, or person. Can we make one model that handles them all? A supermodel?
+
+![When scientists look at consciousness, it's either some vague, humongous thing that emerges from entire brains in perhaps quantum ways we don't understand ... or it's so small that a little bit of it might be in anything. We're going to use the second approach. By making it super-small, it avoids having to explain and reason about the entire consciousness stack](resources/images/atom-of-consciousness-2.jpg)
+
+## Atom of Consciousness
+
+What is consciousness? Beats me, but everybody seems to agree that it whatever it is, it has these three qualities, although the phraseology people us may be different: Act/Sense, Read/Change, and Predict/Enforce.
+
+- **Consciousness Atom**. The Greeks a long time ago created something they called atoms, long before anybody had a clue what they were. Following in their footprints, we're naming "atoms of consciousness". Like the Greeks, we don't know what's in there, but by having these three attributes these atoms are able to combine in more and more complex fashions, eventually creating Scooter, the guy who changed your oil last week.
+
+Also note that these new things we call "Consciousness Atoms" map to entirely different things in different situations. Continuing to use our atom metaphor, we know atoms must exist. We know a couple of things about them. There is a vast gap between knowing there is an indivisible piece of stuff and knowing how it all can work together. If these are atoms, we have no idea about molecules or chemistry. That doesn't mean we can't begin use them as intellectual props. In our system, plants have some sort of rudimentary consciousness. Plants do these three things through various plant cells. Humans, on the other hand, have an amazingly-complex web of consciousness existing all over the place. A bunch of these consciousness atoms exist in neurons. We believe that's where most of the high-level learning and consciousness happens. Remember, it's only a model. These are not physical things. Our Consciousness Atoms represent abstract structure and behavior for purposes of analysis only. For now, though, we'll limit our discussion to what happens once consciousness atoms come together with a bunch of other stuff to make neurons.
+- **Act/Sense**. Hang on a minute, bub, aren't these opposites? Isn't "sense" passive and "act" active? Not in this context. Whatever we're calling a brain interacts with the outside world. That interaction might include the operation of simple sensors, movement or growth in the organism outside the atom, or any number of other things. However it happens, the organism can always reject incoming information, and it is always the case that it has acted in some fashion to receive information. Therefore, sensing and acting as far as an atom of consciousness goes are one and the same thing. We sense then act. We act, then sense. It's one and the same.
+- **Read/Change**. When sensory information arrives, it has to go "somewhere". It's read and it changes some internal state. Perhaps there are magic monkeys. Beats me. It's atoms.
+- **Predict/Enforce**. As more sensory information arrives and the state continues to change, patterns are observed, either to predict or prevent new patterns. Note that predict/enforce works with either one of the three nodes in our atom, two of those nodes, or in most cases a series of all three nodes working over a period of time recursively inside probability webs. Predict/Enforce receives information. It sends information back out to other groups of neurons. Sometimes that's the neurons in one particular consciousness stream, but most times the streams change up from sequence-to-sequence and the output goes all over the place. Predict/Enforce is where layering, recursion, probability webs, and emergent structure/behavior happens.
+
+{height: 25%}
+![This is our little manmade island between computation and biology. It allows us to use the same concepts to reason about both.](resources/images/notional-neuron-three-node.jpg)
+
+## Notional Neuron
+
+You may have noticed that when I described Conscious Atoms, sometimes I referred to them as neurons. That's because Notional Neuron looks the same as our Consciousness Atom, only with more detail. Atoms come together to form a very similar system only at a larger scale. (Yes, you think inside of thinking, but there are only two levels of turtles here) Each of the three nodes inside our Notional Neuron are not just one thing, though. They represent an uncounted number of Atoms of Consciousness working in highly-complex ways. Neurons, whether in the real world or our little toy Notional Neuron, are probably the closest thing we have to biological entities that represent abstractions intelligent creatures create and use. Starting from the bottom and moving up, this is the first point that we start figuring out how learning and intelligence work. The mystery picture is beginning to come into focus.
+
+We know Consciousness Atoms do these three types things but not how. Stick a bunch of them together into our Notional Neuron. Now we are beginning to see in general terms how these three types of things can work together. We use the Notional Neuron model to work downwards and talk about the mechanics/coding of AI. We use the same Notional Neuron model to work upwards and talk about creatures, societies, and so forth.
+
+In other words, Consciousness Atoms come together to do much the same kind of work as neurons, only they do so in a way that we don't understand and are not going to explore. By adjusting parameters inside our Notional Neuron, we can create a target for that system of atoms, something all of those Consciousness Atoms need to form into in order for learning to work.  This lets us use the same model to cover all sorts of learning from babies to multinational organizations. In all of these situations we'll talk about, the name "consciousness atom" will exist in all sorts of things from lichen to supercomputers, but at the Notional Neuron level, this group of three topics remains the same. We have a way forward. We have a north star.
+
+5. **Change**. Things have changed.
+6. **Recognize**. What are those things that have changed and how do they fit into these other things?
+7. **Predict/Enforce**. Does that make sense? What's going to happen next? What has to happen?
+
+![Input arrives at some bunch of neurons hanging out together. We'll call that a brain. Input doesn't arrive at one neuron but a cluster (1). The first wave of signals go out from the neurons nearby (2). As that signal dies off, it kicks off a secondary round of signals firing (3). The secondary round kicks off yet a third primary round while the first signal is just dying off (4). The signal "storm" continues (5), with fading signals kicking off yet another primary signaling round, perhaps causing something externally to happen as shown lower-right. Item (6) Could represent the use of an internally-created abstraction. That's because we're seeing a complex sequence of atoms talking and as a result of that we have a new primary signal](resources/images/cloud-neurons-probability-web.jpg)
+
+## Consciousness, Sentience, and Intelligence
+
+Some made-up definitions to keep us coloring inside the lines:
+
+
+- **Cognition Storm**. (Show in simplified format above). The interaction of huge numbers of neurons firing amongst themselves as signals decay. The above diagram omits at least several key elements:
+
+1. Cognition storms happen in 3D, not 2D.
+
+2. There are thousands, perhaps millions of neurons involved in any one storm, not just the few shown here.
+
+3. Neurons may fire randomly even in the lack of signal being present
+
+4. Input and output are never so clearly delineated. Instead the neural web dynamically "layers" itself to incoming and outgoing data.
+
+5. While the reward system has been traditionally modeled as yes/no, pain/pleasure, levels of confidence, and so on, in fact there's a large amount of biochemistry involved. Certain hormones may impeded or accelerate certain kinds of signals. This would happen over a physical area, regardless of neural connections. Different hormones can be present simultaneously with one another. They conflict and interact with each other. We know things like this happen, but the details are largely a mystery.
+
+- **Cognition Stream**. The series of neuron interactions that are involved from initial input to either die-off or another round of primaries.
+- **Thought**. Internal representation (abstraction) of a related group/sequence of Cognition Streams as they occur. Does not persist.
+- **Cognition/Abstraction Level**. All of the neurons currently receiving and transmitting data based on the same original input. This implies that there exists some record of signal path and a built-in hard decay rate limit.
+- **Consciousness**: that which acts and senses its environment, changing itself internally and using those changes to both predict and/or enforce future actions and sensory responses.
+- **Life**: bits of consciousness assembled inside a boundary, such that if the boundary is broken the bits of consciousness do not continue in the same way they did before and they never resume that pattern afterwards. Two lifeforms (boundaries) sitting side-by-side given the same input and environment will over time result in a different number of bits of consciousness and a different pattern of conscious activity inside the boundary, although many similarities may otherwise exist (different dogs can be very different and yet both still be a member of the set "dogs".)
+- **Sentience**: lifeforms that are able to reason entirely in abstractions. The number instinct is an example the early abstractions that occur as sentience emerges in a species.
+- **Intelligence**: Sentient lifeforms that are able to reason in abstractions over a shared medium and over periods of time exceeding the direct capabilities of individual lifeforms.
+
+{width: 66%}
+![](resources/images/notional-neuron-change-node.jpg)
+
+## Change
+
+Our top node is called "Change" There are a fixed-number of ways change comes to our Notional Neuron:
+
+8. **Direct Sensory Input**. Something has arrived from outside our neuron or probability-based current web of neurons. This is not a yes/no. Instead, input hits a system. It affects a bunch of neurons all connected to a bunch more. These billions of connections are all updated continuously in a probabilistic fashion. As the input rolls out from the source, it becomes direct sensory input for other neurons, only at a decreased intensity level. Eventually the signal dies off and does not affect any more neurons. (Intelligence is not only probabilistic, it's analog)
+9. **Recurring Patterns**. Either the neuron we're looking at or neurons at roughly the same level of consciousness n our web (see above) are notifying us of a pattern.
+10. **Argumentation**. Neurons at a lower level of consciousness have a major disagreement about predictions or violations. The code that runs in our brains has bugs (The brain has bugs. It always has bugs. The code always works. The bugs are just more or less annoying)
+11. **Dialectic**. Neurons at a higher level of consciousness have a major disagreement about recognizing what's going on: the narrative, pain/pleasure received, what our reaction should be, or whether this current "storm" is productive. It's a kernel panic. (but it's not a brain panic. It's just a panic for this particular thought stream.)
+
+{width: 66%}
+![](resources/images/notional-neuron-recognize-node.jpg)
+
+## Recognize
+
+Our next node, "Recognize" is where a lot of conflict gets handled. This conflict comes in these forms:
+
+12. **Pain/Pleasure**. Degrees of success and/or failure are incoming, either from this neuron or our current web. Why? Is that what we were thinking would come next?
+13. React. Immediate action occurred, either from us or our current web.
+14. Re-Org, Re-factor. We are confused. Nothing is happening the way it's supposed to happen. Patterns of health are no longer present. Incoming information keeps failing to map up to our model.
+15. **Change Narrative**. Either our story map or our position in the map is mistaken. Incoming information maps up to our model, but the predicted sequence continues to not match up to what we thought it was going to be. Other conflicts happen to us. Change Narrative conflicts happen when we look upwards and the bigger story doesn't work. Neurons do not only process information as it relates to itself. They also model what they think other neurons are going to do. (Or simulate, if you don't like the word model. See Mirror Neurons)
+
+{width: 66%}
+![](resources/images/notional-neuron-predict-enforce-node.jpg)
+
+## Predict/Enforce
+
+This is the part folks always focus on. At heart this is just a big analog connector working in a hard-wired way based on everything else in our Notional Neuron. The type of things it's connecting are just as important as the fact that they're all connected. It can send out new signals, recurse signals inside itself, or look for new connections. That's it.
+
+## OODRA
+
+On the left, along the outside of our diagram we see the classic OODA  decision/combat loop, only with "recursion" added in order to show how what we're really talking about are these nodes and loops existing in complex probability webs. We've already found out that probability webs are too much to draw. The word "recursion" does a lot of heavy-lifting here.
+
+{height: 50%}
+![Notional Neuron in detail](resources/images/notional-neuron-detail-small-3.jpg)
+
+## Notional Neuron at a Glance
+
+Here are all of the pieces put together into one diagram. No doubt, there's a ton of bullshit here. We expect that. It's an entirely imagined, man-made island. Note how Boyd's OODRA loop matches up nicely with the nodes and connections on the diagram. It's an indication that we can scale this out as-needed. We will find other indications as we move along. This discussion is our specification that we'll use and the road map we'll follow when we get to analyzing Artificial Intelligence and other forms of machine learning.
+
+## Done
+
+Our goal was to create a set of definitions and a rough map that we can use to talk about, reason, and discover new things about learning. We can use this with anything in complexity between a tree and a galactic super-intelligence. We have done so. Now onwards and upwards!
