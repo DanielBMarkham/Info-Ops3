@@ -1,346 +1,192 @@
-# Learning Isn't Feedback Loops
+# Negatives Stack, Positives Don't. The Number Line Model of Communication
 
-***The phrase "feedback loop" idea is total bullshit. We're all going to have to keep using it anyway. Here's why.***
+*An extended metaphor shining light on the problem of having to use humans in groups to agree on things that eventually need to be coded into a formal system.*
 
-{height: 25%}
-![Meerkats, the ultimate quick decision-maker](resources/images/wild-meerkat-9.jpg)
+{width: 66%}
+![Weird pic, eh?](resources/images/weird-shell.jpg)
 
-We make a lot of bad decisions in organization and system design because of the way our heads are shaped. It's not our fault, but to fix it we have to understand it.
+Do you know about pi (π)? π is the ratio of a circle's circumference to its diameter. This ratio is the same for any circle. Pi is a neat little number most kids learn about in school. People have known about it for thousands of years, ever since we started drawing circles and doing math with them.
 
-I have been using the phrase "feedback loop" for my entire career. An immature way to look at the world, simplifying as much as humanly possible, is in terms of cause and effect. We do A, doing A makes B happen. It's so simple that it's built into all lifeforms. Plants grow one way, they get more sun. Every now and then, herd creatures like deer or meerkats stop what they're doing, pop their heads up, and look for predators.
+{width: 66%}
+![Apple or Cherry?](resources/images/Euler-s_formula.svg)
 
-There's no programming language or master plan required for this. Thing A happens. It makes thing B happen. Over time lifeforms that embrace A->B in certain environments breed better than those who don't.
+Here's a fun game: ask a friend what pi is.  Some people will say "3". Many have learned that π is the ratio 22/7. Still others, probably the kids who think they're smart, will say "3.14". If you were to ever ask me, ever since I was a little kid, I'd tell you that it is "3.141592863". That's because I tend to be a pretentious jerk who found things like this impressive, but I only learned that about myself as I got older. At the time, I thought it was pretty cool to know that many digits. I have many friends that know π  out to 10, 50, even 100 or more digits. What can I say? We usually had no problem picking up the girls at parties. It's a gift.
 
-When we observe, make notes, talk about, and study things around us, we think in the same format. It's not surprising. Various things in life are just strings of causality; D->E->G->H. Our job as natural philosophers and scientists is simply categorizing those things and events, then describing the various chains that we've categorized.
+{width: 66%}
+![The Family of Numbers](resources/images/real-number-system.jpg)
 
-![As soon as people started talking about one thing causing another, we asked "Why?" If there's always cause and effect, what is the ultimate cause of everything? The study of ultimate causes, reasoning backwards from cause and effect, is called teleology.](resources/images/origins-of-teleology.png)
+π is what's called an irrational number. Technically irrational numbers are those numbers which are not rational. (Mathematicians get paid for saying such things!) Rational numbers can be expressed as p/q, like 4/1, 2/3, or 19/28. You can also express any rational number as a couple of fractions banged together with an arithmetic operator, like 1/2 + 1/4, or 33/17 * 3/17, because math. If you can't express a number as a ratio of numbers, or a combination of ratios, then by definition it's not rational. It's still a number, or course, and it still exists on the number line. So where is it?
 
-This works very well for many people and is our default way of talking about the world. It worked for mankind as a whole for tens of thousands of years, up until just relatively recently. But over time, as various species went extinct, the weather was found to be different from place-to-place, risk was understood as a separate concept among populations than individual, we began to realize that in some systems many things happen in cycles. The rain brings plants and ponds, ponds evaporate water into the sky, water in the sky brings rain. It's a cycle, not a straight line.
+{width: 66%}
+![Where's the Pi on this line? Hell, where's the 2, for that matter?](resources/images/hand-drawn-number-line.png)
 
-Things are all interlocked. Many scientists and philosophers stopped talking about cause and effect and started talking about systems of things. We don't have a forest; we have an ecosystem. Things we do to one plant affect other plants and animals, and eventually down the road the end result of all of that causality directly affects. We live in a cycle with everything around us, whether biological or otherwise. The universe is full of all kinds of interlocking systems.
+If you drew a number line, you could point to a specific location and say "this is two", but you can't point to a location and say "this is π". You might get pretty close. Sure, you might get close enough that nobody cares that you're off, but you'll never, ever have an integer number line where you can point to an irrational number and exactly nail where it is. One way of thinking of irrational numbers is that they exist "between" all the rational numbers we can construct and identify on the number line we all know and love. (In fact, for any two rational numbers, there are an infinite number of irrational numbers between the two. As it turns out, the integers and the rational numbers are probably much more ephemeral and non-existent than the irrationals, rationals are scattered like tiny little specks of a diamond on a beach full of sand, but that's a story for another day) [1]
 
-In fact, the more we looked at it, the more we realized that there never was really any such thing as cause and effect, it was simply a useful fiction. "No man is an island" is a catchy phrase used to describe that. As far as we know, every atom in the universe is gravitationally affected by every other atom. Cause and effect just isn't dead. We use cause and effect as a prop, an intellectual crutch. It's a child's tale told in order not to spend your life diving deep into things that don't matter to you. A fable. It's a useful fiction. Or, if you prefer, cause and effect do exist, it just exists among billions of interlocking variables spread out over creation. It's non-comprehensible. We are forced to use cause and effect because we can't process things otherwise.
+{width: 66%}
+![I admit to nothing](resources/images/digits-of-pi.gif)
 
-But isn't there a better way to represent the world around us? Isn't there some way we can talk to others about how somethings cause other things that then feed off of one another? It turns out there is, and things that feed on themselves have been represented for a long time by the circle.
+Because of that, when you ask somebody what π is, and they recite a bunch of digits or give you a fraction? They're wrong. In fact, whatever they say is wrong. It's impossible to express π as a number, ratio, or finite series of digits. Even that friend of mine who knows π out to 100 digits is wrong. The digits keep going after that, out to infinity. You might say he's less wrong than my other friend who just uses 22/7, but for all practical purposes, perhaps if we were engaged in some backyard project, all of these answers are good enough to work. In fact, using the 100-digit version of pi is much more of a hindrance in real life than just using something like 22/7. It's much more precise but extremely less useful in the practical world. Hell, 3 is probably good enough for most situations you'll run into.
+
+{width: 66%}
+![Early in history, geometry allowed us to construct the general location of some irrationals on the number line, but good luck figuring out exactly what the number is. An apocryphal story says that the Greek mathematician who discovered irrational numbers was taken out in a boat and tossed into the sea, where he could never pollute young minds again. For a thousand years or more, we constructed and used irrationals, but nobody dared mention them. The situation was truly "irrational" [2]](resources/images/representing-irrationals-on-the-number-line.jpg)
+
+## Say Hello to your Little Friend: Your Brain
+
+You can't observe your own brain. You can't observe other people's brains, either, or even reason about brains, without using a brain yourself. This has caused all sorts of problems throughout the centuries and generally the use of brains have been avoided for that reason.
+
+{width: 66%}
+![Mmmmm. Pie.](resources/images/say-hello-to-your-little-friend-your-brain.png)
+
+Looking at brains from the outside, and generalizing as much as possible, we know that people must have some abstract concepts they use inside their heads to represent things both real and imagined in the outside world. These are not "thoughts". Thinking is a process. These are ideas or abstractions. We think about ideas or abstractions. Thinking is the process that joins together ideas and abstractions into useful chains, most of the time by using preexisting chains.
+
+Now for the head-scratcher mind-fuck: inside that noggin of yours, we don't really know what thoughts or ideas/abstractions are. It's tempting to think that concepts are actually neurons wired together and thoughts are sort of an electrical storm happening across thousands or millions of neurons in waves, but that's much more of a trope given out on pop science shows made for the average viewer rather than something that reflects reality. [3]
+
+In fact, while we know a bit about biochemistry and neurons, we know much less about how thought and thinking take place in the human brain than we'd like to admit. One thing that's abundantly clear is that there are no firm structures in our brain about any abstract concept. You don't have a fixed set of neurons for "ice cream" for instance. You may know everything there is possibly to know about ice cream, but as far as we can tell, each and every person has some sort of different and changing internal representation of that concept. This means that your own internal idea of ice cream subtly changes from minute-to-minute as you think about it.
+
+Heraclitus said that you can't step in the same stream twice, and you can't have the same exact internal representation of ideas twice. [4] You can't remember the same thing the same way. (Some folks think we don't really remember an event as much as we remember the memory of the event and how that memory made us feel). [5] Remembering a thing changes your memory of it, as any good police detective or defense attorney knows. Here's an example: pick a word, any word. Say that word aloud 500 times. Soon that word becomes strange, alien, weird. That's your brain trying to figure out how the hell it's supposed to wire itself differently to this sound based simply on the mechanical act of saying and hearing it. Your brain is trying to learn. Something important must be going on that it must adapt to, but it can't figure out what, hence the weirdness. Your brain instinctively knows that every time you think of "skunk" you're changing the meaning and strives to adapt whether you're consciously aware of that fact or not.
+
+## The Number Line Model
+
+Looking at all of that, it's inescapable to conclude that what's going on in everybody's head is, well, irrational, in the strictest sense of the word. Let's have fun with that. Let's see if we can actually talk about ideas as being, well irrational irrational, like the number π
+
+Each of us has their own idea of how to refer to the ratio of the circumference of a circle to its diameter. You might multiply by 3. Another person uses 22/7. Still other folks use 3.14. Nobody is wrong here, or rather everybody is wrong, depending on how you want to look at it. Our ideas, our nouns, adjectives, verbs and adverbs, can be thought of as internal irrational numbers stuck inside our heads. This is what I call the Number Line Model of Communication.
+
+I can never tell you what "blue" is, at least not exactly. It might help if I used more than just the one word "blue". When I think of blue I think of a teal-like, eggshell-tinted bright blue. I could provide a light wavelength. Or maybe a light wavelength and a spectral signature. But no matter how exact and precise I become, no matter what tools I bring to bear, my internal, non-verbal idea of "blue" will always be uniquely mine, and it'll change from minute-to-minute as I encounter that concept. It's just that for the most part, these subtle changes are invisible and don't matter.
+
+{width: 66%}
+![Do you have to have numbers in order to have a system of math? Nope. We've arbitrarily made numbers, and the relationship they have among themselves are stable for all four arithmetic operators, with one exception: 1/0, which is undefined. Instead of a labeled line, we could construct our number system differently to show why anything divided by zero doesn't work geometrically. Here we have a system with only three concepts, zero, infinity, and theta. By drawing a line from infinity through some point on the circle we can uniquely identify all of the real numbers just with theta. Any number divided by zero is not a number; the line would be parallel to our number line. It is not part of our system. Look, ma, no integers! We don't have to have numbers to have math, and we don't have to have words to have language and intelligence, it'd just operate under vastly different rules ... and still the same problems would be there. (We just wouldn't use language as we know it to solve them)](resources/images/number-wheel-one-over-zero.png)
+
+If we think of what's going on inside of each of our heads as irrational numbers, then we can continue our metaphor to language, which would map to the rational numbers. Just like rational numbers in math are the result of banging together fractions, language is banging together our internal representation of concepts and how they relate to one another to find a spot between those concepts. 22/7 is closer to π than 3. I use two big, chunky concepts, 22 and 7, and by combining them arrive at something closer to where I want to go. A cat is somewhere between a hamster and a dog.
+
+Reaching the end of this metaphor, words (and the associated socially-performed language that you have to have with spoken words) would be the symbols and simple arithmetic operators that we all agree on such that we can make social intelligence work.
+
+Using this metaphor, many of us would like to think of words as being integers, fixed and unmoving, but for any specific problem and specific group of people, there are very few words that work like this compared to the profound number of words in common use. This is much the same as the relationship from integers to rational numbers. Integers are fixed and unmoving, but for every integer there's an infinite number of rational numbers. Rationals are much more "real" than integers are.
+
+In math, when we look in our toolbox, we have ten digits, 0123456789 and a half-dozen or so symbols, ,.*/ That's all we need to do as much as we want in our rational number family. In fact, we found very quickly that by even adding one additional unneeded symbol too many, we make the system incomplete, incomputable, and/or inconsistent. [5]
+
+There are an extremely tiny number of truly fixed and unmoving abstract things any group of people can agree on while maintaining a mathematically complete, computable, and consistent system. [6]
+
+Inside my head, when I think of some concept like "blue", it is a language-free experience. Words come later. Instead, I'm not even thinking of any words at all. I'm thinking of a bunch of experiences I've had using my eyes throughout my life. I've learned to generally associate certain parts of those experiences with the spoken word "blue", but my internal model is changing even as I match those experiences to the word (or vice-versa). Let's compare the mathematical concept of pi and my internal concept of blue. Is it "blue" – 3? "sky blue" - 3.14? "sky blue with a hint of eggshell and dusty cotton" - 3.141592863?
+
+How much blue is blue?
+
+Am I actually adding value by throwing more words at the concept or getting in the way of accomplishing anything practical? If I tell you to go in the other room and bring me back the blue pencil, do I need to write a 4,000-word essay describing the color, give you a spectra to match?
+
+There's no single answer to that. It's situational. In some cases, say a room full of a billion randomly-colored bluish pencils, perhaps you might need that spectra. In most cases, though? In 99.9999% of the actual cases in real life, the simple word blue works just great. It's wrong, but it's good enough. That's because no matter what you do it'll always be wrong. even if there were only one pencil in the other room, and it was blue, you still might be wrong. Maybe there was another blue pencil of a slightly different color but somebody took it. Maybe they changed the spectra of the light bulb. Language is able to do the magic that it does because of its propensity for vague groping for completely unfounded models of reality.
+
+There's no winning this game of using language to try to exactly transfer an internal concept from one person's head to another, but it breaks so extremely rarely that up until fairly recently in modern times whenever a mistake happened it was logically assumed that the problem was simply that not enough specification was given. We didn't understand that error is baked into language. This is necessary for it to enable group learning. Just like the number line is really "full" of irrationals with just the smattering of rationals and integers being mostly non-existent, the internal life of brains is full of language-less concepts, some of which we map immediately into an internal dialog, some of which we don't. The mappings from internal concepts to words never really works, whether we speak those words aloud or not, but it's good enough. The words, like rational numbers, are a convenient stopping point between our sea of internal reality and communicating with somebody else, a good-enough approximation using some common terms that we can then start trading around with the approximations that others have. [7]
+
+{width: 66%}
+![We think of counting and cardinal numbers as the beginning of math, but in reality once it starts, we start ordering things and assigning labels, the ordinal numbers. Ordinal numbers are the basis of all rational numbers, ie, rational just doesn't refer to the digits used for the numbers, rationals exist because of how all ordinal numbers relate to one another. Take away our numbers and you'd still end up with rational and irrational numbers, they'd just use different symbols/labels. Likewise, different languages with different numbers, operators, symbols, and syntaxes work just the same as English does in our model.](resources/images/really-weird-spiral-of-numbers.png)
+
+In fact, if you think about it, by using sequences of fractions, you can express most irrational numbers at any degree of precision. Likewise, by using sequences of language tokens in the correct syntax, you can continue to narrow down the exact same concept between two or more people. The problem is that there are only a dozen or so commonly-shared truly fixed and unmoving abstract concepts that we all share, and all of those are mathematical. There may be a dozen or so more for any specific group of people working on a specific problem. We naturally think (and we're taught in school) that there are hundreds, thousands, or more rock-solid shared concepts. That's because nobody cares that there's drift in meaning, both internally and as a group. Groups of people actively correct for that. In the actual world, there's such a small possibility of making a big mistake that we've come to assume there's a lot more meaning in our words than there actually is. So it doesn't matter.
+
+I learned recently, after talking to one of my nerd friends, that it's not 3.141592863. It's actually 3.1415926535. Yikes! The horror! My entire life, when talking about geometry and irrational numbers, as some of us are wont to do, when I quoted pi, I was giving out the wrong digits after the first seven.
+
+But do not weep for me! Somehow I must still carry on.
+
+Know what? I'm going to continue using my number. I like it better, and unless I'm going to compute some interplanetary orbital trajectories, it'll continue working just fine.
+
+But when we talk learning at scale, we're required to get pedantic. The gaps matter. I apologize. That's just the way it is.
+
+In  normal life, nobody cares about that sixth digit of pi until they're launching an interplanetary probe to Venus, but that doesn't mean it's never important at all. Things that are required to be hidden and meaningless, shared among a few of us for only a small point in time, become prominent and fearfully important at scale.
+
+## Negative Stack; Positives Don't
+
+If all of the internal representations of our ideas are like irrational numbers, then how can we ever convey to somebody that they're wrong? If you can't nail down the value, how can you talk about it?
+
+Through comparison, that's how. If you ask me where the square root of two is, I'll say something like "It's between 1 and 2". It's an irrational number. I can never truly answer that question. But I can easily exclude large areas of space where you don't have to look. In this case, I'm saying "It's not <1. It's also not >2"
+
+These statements of inequality join up in an "and" or intersection arrangement. This works even if the terms used in the intersection are themselves irrational! Woot! Magic!
+
+Where's the square root of 3? Somewhere between the square root of 2 and the square root of 5. You don't have to hit those numbers exactly, just exclude all of those areas I've excluded and we're 99% closer to the answer. We talk. We repeat and rinse until it doesn't matter anymore. Magic.
+
+{height: 33%}
+![Taken during a recent vacation where this exact interaction happened](resources/images/2019-08-14-backyard-sunrise.jpg)
+
+## The Pier
+
+Let's perform a thought experiment. Let's say we go on vacation to the beach. One night you walk down to the pier and gaze into the water lit by the dock lights. For whatever reason, you're suddenly surprised: that little bit of plankton there is the cutest thing in the world!
+
+You run up to the house. You wake me up. I have to go see this cute plankton! It's cute! We go down to the dock and you proceed to try to tell me how to find it.
+
+There are two ways you might go about showing me your cute piece of microscopic plankton.
+
+You might try to point it out. There are many problems with this approach, though. Should you lay on the dock, slowly looking closely at each little tiny sea creature? You could point very carefully and precisely when you found the right one. That's going to take a long time and is unlikely to work.
+
+Perhaps you could just point vaguely. There it is! If I looked where you were pointing, even if I looked exactly where you pointed, it's highly unlikely that I would latch on to the exact thing that caught your fancy. Maybe you add more detail. It's to the right of that shadow of the point of the post in the light. It's three millimeters down from the edge of that bubble that just popped on the surface.
+
+But the water is always moving. The tide comes in and out. The current shifts the sea around. Sea creatures silently moved through the area while you were getting me from the house. How can you even be sure that the plankton you're pointing out is the one you were looking at before? Maybe it's just another one that looks very similar. A lot of these creatures look just like one another. How could you ever really know?
+
+{width: 66%}
+![That has to be the cutest little speck over there that I've ever seen!](resources/images/gorgeous-underwater-landscape.jpg)
+
+A positive, descriptive approach is never going to work. You're really not even sure yourself that you have the same item as you had before, although most of us would easily (and subconsciously) convince ourselves that it was the same. No matter how exactly and precisely you point, you're never going to get it.
+
+If, instead, you started with negatives, we could quickly stop lying here in the cold dark on this hunk of wood looking at a hunk of water and getting eaten by mosquitoes, reach a conclusion and go grab a beer. It's not on the left side of the dock. It's not on the bottom or on the surface. It's not too far from the surface. It's not too far from that post. It's not light yellow like the other ones. It's not as small as the ones you see off the front of the pier.
+
+Within a dozen or so negative statements, as they stack and exclude more and more of the search space, we're quickly gathering around a particular spot in a particular configuration, observing a very small common area. There it is, you exclaim, pointing. The light is just right, the color of the light is just right, the breeze is the same, and there, right in front of us, is your cute plankton!
+
+Win!
+
+Now, there may be a dozen plankton in that very spot swimming around, and I may look at a completely different one than you did, but we have isolated our experience so much that it doesn't matter. We have essentially had the same experience and shared the same abstraction.
+
+Like always, the language you used was completely vague. Perhaps when you said "on the left side of the dock" I was confused. "Do you mean the left side before that bend?" In most cases, though. I am not confused. When we try to positively identify concepts using language, we suffer under this imprecision problem, but when we flip the problem around to describe negatives, we make the imprecise nature of language work in our favor instead of against us.
+
+And there's the magic: **None of your negative descriptions have to have any exactness at all, only enough agreed-upon exactness that both of us can exclude wide areas of the search grid.**
+
+Negatives stack; positives don't.
+
+## The Fundamental Theory of Communication
+
+In pre-calculus algebra, we define a limit as a mathematical way of dealing with something we can never name. A function has a limit somewhere if, for any definitely-sized gap in the output you name, I can name a definitely-sized gap in the input such that the function's output falls within that gap.
+
+In many situations in math, I can't calculate directly what the answer is, but there's a pattern such that I can get us as close as we'd ever want to get, and it turns out for all intents and purposes that this is the same as being able to calculate the answer. A very similar thing happens with anything involving language and communication.
 
 {width: 33%}
-![As far back as we can find civilization, we find people thinking of the world and universe as circular or cyclic. The ouroboros symbol, shown here, depicts a snake eating its own tail. We can date symbols like this being used to 3500+ BCE](resources/images/snake-eating-own-tail.png)
+![I can't directly calculate the area under this curve, but by splitting the area up under the curve into more and more rectangles, I can get as close as anybody would want to knowing the answer](resources/images/Riemann-integration-animated.gif)
 
-As humans emerge from babies to adults, as mankind emerges from the dim mists of time to modern man, we stop thinking of simply cause and effect and start thinking about loops. Early religions were almost all circular. As the Cylons said on Battlestar Galactica, all of this has happened before. It will happen again. It's impossible to ignore: there's something deeply mystical about circular relationship.
-
-Which brings us to feedback loops.
-
-## The Classic Loop
-
-Let's take a look at a user asking the database for something, but the database is broken. Almost everybody who has learned to program was told that programming was "making a list of things for the computer to do". It looks like this.
+For many centuries, mathematicians knew how to calculate derivatives (the instantaneous slopes of lines) and integrals (the areas under curves). It took the Fundamental Theory of Calculus to show that these were two ways of looking at the same thing.
 
 {width: 66%}
-![A depiction of classic, straight-line cause-and-effect, the kind all of us use in our day-to-day life.](resources/images/2021-10-12-feedback-loops-linear.png)
+![For whatever epsilon you want, I've got a delta for you. As shown above, the Riemann Integral is taught by sketching on a blackboard, chatting informally, then taking that chat and turning it into math. Programmers do this over and over again, just our math hardly ever works out](resources/images/formula-for-the-riemann-integral.png)
 
-You could almost write this directly to code, at least if you're using an imperative language.
+Science advances by tests that fail. These failing tests, over time, exclude more and more areas from our search, eventually either leading us to the right answer or close enough that it doesn't matter.
 
-{width: 66%}
-![As long as it's pseudo-code, this programming stuff is pretty easy!](resources/images/2021-10-12_6-26-20.png)
+## Two People, One Concept, X-Y Axis
 
-Of course, there's no code here, but it represents a very simple idea. "Query the database. If it's busy, do it later". In fact, instead of asking the use to ask again later, we can just automate that.
-
-{width: 66%}
-![If the database is busy, automate the retry. This will make things easier for them! Yay computers!](resources/images/2021-10-12_6-30-11.png)
-
-Even though everything looks brutally simple, facile even, and we're doing something almost every programmer since the Univac has done, we've actually actually stumbled into a really interesting new concept that humans haven't really explored that much because up until the last hundred of years or so we've lacked the ability to create vastly-complex systems of logic: the Metastable Failure.
-
-The problem is that if the database can service the query because its busy servicing a bunch of other queries, not only does it fail for you, because it has this huge stack of work to do that's only getting bigger, it's always going to fail. As a programmer you didn't do anything wrong. The database is not in error or broken in any way. But the entire system is failing and is in a stable state such that it will never recover.
-
-Loops and circles to the rescue! To describe and reason about this particular metastable failure,  let's put this situation into a loop, a Feedback Loop.
-
-{width: 33%}
-![In many situations, the thing that we do comes back around to us in circuitous, oblique ways to cause us to do it again. Like our old friend the ouroboros, the snake eats its tail. Everything that has happened will continue to happen. Forever.](resources/images/2021-10-12-feedback-loops-classic.png)
-
-Once we started looking, we found these loops in all kinds of places, not just programming. Between feedback loops and systems, we've got all of modern science covered.
-
-{width: 33%}
-![Six Sigma's DMAIC loop. You put greek letters on stuff, it always makes it look better.](resources/images/DMAIC.png)
-
-## It Gets Complicated
-
-If you remember when we talked about Boyd and management theory, I mentioned that once he created his OODA loop, as he studied and looked into things further, the image got more and more complicated.
-
-![The more Boyd dug into things, the more he realized that everything affects everything else, including all of the items in his diagram! Once you start mapping that, you realize that other things affect those things, and so on, ad infinitum. Intellectual work is infinitely divisible. [math and other physical systems, however, are decomposable]](resources/images/OODA.Boyd.svg)
-
-Let's take our metastable database problem and analyze it a little further. Let's say we were sketching this problem out, as if we were trying to solve it using a napkin.
+So far we've talked about one person clearly identifying and communicating an internal concept to the outside world, but aside from writing, that's almost never the case. Instead, there's always a sender and a receiver. This means that communication is always a back-and-forth about vague generalities, where with each volley back and forth both participants have a better idea of a shared concept. Such back-and-forth games are called Language Games, and they're the basis of all intelligent discourse, all language in general, really. [8]
 
 {width: 66%}
-![Good things happen when you switch from graphical reporting/display tools to simply sketching solely to drive conversations.](resources/images/meta-sketch-1.png)
+![With two people and one concept, you have two number lines, just like in an X-Y axis. Good luck with seven (or a hundred!) people. There's a solution. It's covered in a separate essay](resources/images/number-line-axis-and-guessing.png)
 
-There's our loop. Let's take each node and write it out as a sentence.
+It's as if we're two players playing a game of whack-a-mole, only on an infinite board, with zillions of holes from left to right and zillions of holes from top-to-bottom. Do you want a very tiny hammer and a lot of time to carefully aim? Or would you like one of our flame-throwers? Which is quicker and gets the job done well enough? All those little bastard moles gotta die. You can go looking for the tiny hammers if you'd like. The rest of us will take the flame throwers.
 
-{width: 66%}
-![](resources/images/merta-sketch-2.png)
-
-{width: 66%}
-![](resources/images/meta-sketch-3.png)
+The vast majority of the time, simple, vague, even sometimes completely idiotic words work perfectly fine for our purposes as long as they describe negative space and stack. It's rare that they don't. In fact, you can get a lot done with one random negative word, and that word doesn't even have to relate to anything we're talking about. [9] We place far, far too much faith in dictionaries.
 
 {width: 66%}
-![](resources/images/meta-sketch-4.png)
+![WARNING: NUDITY AND LANGUAGE IN THIS VIDEO. You don't add more and more language and necessarily get something that's more useful. It's just the opposite, in fact. In this famous scene from "The Wire", two detectives perform a difficult and demanding job using only one word, f*ck. Note: this is presented for educational purposes only and is not part of any commercial activity. I wouldn't use this clip at all, but there's no better pop culture example of what I'm trying to teach.](resources/images/the-wire-fuck-scene.png)
 
-{width: 66%}
-![](resources/images/meta-sketch-5.png)
+## Out
 
-Notice that I've not only written each node as a sentence, I've also broken the sentence up into what I consider to be meaningful chunks. Other folks might have other sentences or break them up differently. That's fine. The details here are not important. We're talking about process. Whichever choices others make, they're going to end up in the same spot we do.
-Adding Detail To Our Example Spec
+Negatives work better than positives, even if they're grunts and hoots. Language is a wonderful, majestic, fuzzy evolutionary trait that allows us to quickly understand and adapt to the world around us as a group. When understood and used properly, it's literally the basis of every good material thing we have in our lives. When not understood and/or used improperly, it can be the cause of nothing but bickering, hate, and suffering. I'm not just tossing platitudes out; we're identifying real things we're going to be building on in later essays. Having a firm, reproducible, falsifiable grasp on these topics, along with a bit of the science behind it, is the first step on the journey to truly understanding learning at scale.
 
-{width: 33%}
-![](resources/images/lady-icon.png)
+This concept will take us to pivot questions in our section about social learning. [10]
 
-Here we have our client, the person who wants to query the database. We even have a little icon and everything! [insert more warnings here about how graphical tools tend to lock you down to one way of looking at things]
+---
 
-But wait, is "database client" really a person? Database clients can be anything, right?
+1. Numbers are a hella lot more than simply 1, 2, 3, 4 ... Things get fun quickly. There are infinitely more rationals than integers, and there are infinitely more integers than rationals. You can begin your wonder-filled journey with the mathematics of infinities here. Tell aleph I said howdy. If you ask me, somebody should have warned us about this in school.
+2. If you'd like to spend some time online diving into some rabbit holes full of crazy-as-shit people, take a look around at what they've done to irrationals, most significantly the Golden Ratio, or φ. The lead picture for this essay was lifted from a page titled "The Golden Ratio, the Sacred Number Found Everywhere in Nature and Society". You haven't lived until you've gandered at this insane pitch deck they gave to Pepsi saying that Pepsi basically was the golden ratio, god, the universe, life, and the source of all goodness. Remember, as Richard Pryor said, cocaine is God's way of telling you that you make too much fucking money. Here's another great rant on this subject from a mathematician. In its defense, the Golden Ratio is known as one of a few "Celebrity Irrationals" because they keep popping up everywhere. And the Golden Ratio is the most irrational of the irrationals, so it's no wonder it fucks with people's brains. Still, I can't help but think that those ancient Greeks that tossed that guy overboard might have been on to something.
+3. We know shockingly little about the brain, as much as many of us would like to think otherwise. If you'd like to spend some time having a "what the hell is wrong with science" tour, fMRI research is a good place to start.
+4. I came at this topic originally from a philosophical standpoint, but the science is catching up. This is one of those things that scientists can physically observe happening, but we just don't know why it happens. The mechanics are called "Representational Drift"
+5. Your memory is completely unreliable. When you remember something, you're actually remembering the last time you remembered the event. Courtroom eyewitness testimony, while held up as the golden standard, is actually a Very. Bad. Thing.
+6. When we talk about trying to keep language working like math, by the word "math", we're specifically talking about systems as described by Gödel
+7. There's a whole Peirce/Semiotics discussion here, covered in my essays many times elsewhere
+8. All hail Wittgenstein! This is also covered in my essays many times elsewhere
+9. This is why it's extremely important to protect people who are calling out bullshit, even if they're being rude or uncouth. If their negativeness comes from a good place, it'll stack and we can start narrowing the problem definition down and working on it. If it's simply rudeness or abuse, it won't stack. But what might be worthless negativity in one context could end up being super-useful in another. The best we can say when dealing with horrible people is something like "For this particular group and this particular problem, our conversation is not being productive", then move on. But we should never shut someone down or cancel them in public. To do so is a direct attack on intelligence and learning. It's literally working for the forces of stupidity
+10. Hopefully. The goal is to create a theoretical foundation to reason about learning at scale. I think we're almost there, the framework is almost in-place enough to start building, but not just yet. There's somewhere between 1 and 5ish more essays to write before the scaffolding is roughed-up enough. We'll see. I've always said this last book will be 5-10 years in the making if it ever happens at all.
 
-{width: 33%}
-![](resources/images/grey-client.png)
+> **ERRATA**: Rationals and Integers have the same cardinality! It seems my memory of infinities does match up with the subject itself. Since it's a major part of the metaphor, I'm leaving it in and will fix it up when this text makes it to the book. I also misquoted Pi in my "correction" later in the essay! I find this to be a beautiful error: all too human and exactly indicative of the topic at hand. I'm leaving it in also. There are a couple of other grammatical errors I'll catch on the rewrite. Also of note: The great idea of Kant's 3rd Critique, which Kant couldn't quite handle, is that the conditions for putting stuff into words can't be put into words. I should include this perhaps on the rewrite as well, although there are so many prominent western philosophers who make the same point in various ways, e.g. Socrates' refusal to write anything down, that limiting the scope of these essays is always a challenge. DM 2021-06-20
 
-Well hell, that's great, we've taken the little icon of the person out, but it really doesn't haven't learned anything. The purpose of sketching things out is to understand problems in order to solve them. What kind of client? When do they use the database? We need more detail, so let's add some.
+P.S. Just ran across a great essay along these lines, ["Indescribable Numbers"](https://blog.ram.rachum.com/post/54747783932/indescribable-numbers-the-theorem-that-made-me)
 
-{width: 33%}
-![](resources/images/client-org-tree.png)
-
-It's a database client. For starters, let's say there are three major kinds of database clients: human client, API client, and message queue.
-
-That tells me how the actors relate to being a client, but how does a client relate to other things in the system?
-
-{width: 66%}
-![We could do this in UML for something really fancy, but I think you get the idea.](resources/images/classic-oo-mapping-of-domain.png)
-
-Now we're getting somewhere! A client is one of many different types of client apps. It's also one of many different types of apps needing database access.
-The problem is that this is all wrong.
-
-## Why Wrong?
-
-By sketching out how things relate to one another, no matter how careful we are we start to introduce unneeded context. If it's just one or two of us kicking around, it doesn't matter. If it's just a few of us creating a app for a customer, it might matter a bit but not that much.
-
-A database client is a type of client app? It's a concurrent app? Those top two arrows are backwards, right? What happened to our little picture of the person? The person wouldn't just be in that one spot. People can ssh in to servers locally and run queries. They can cron up queries. People should be all over the place, because after all, aren't we really talking about what people are doing and what they want? If my database query fails over a web client and I automate the resubmit using cron, I have no spot in this picture.
-
-Well hell, Daniel, you might say, we've got that modeled. There are three major kinds of database clients: human client, API client, and message queue, remember? It's simply that the model is in error. Perhaps if we continued to add more detail we could fix it.
-
-Not only is that wrong, if you head down this path you're going to end up drawing complex, intricate diagrams that nobody, including yourself, fully understand. We only have six nodes in our graph and already we've created something that we cannot completely agree with.
-
-That ambiguity and the associated unease can easily lead us to create even more things in our diagram. People make mistakes, create inconsistencies, whenever they write things down. Writing more things down not only does not fix it, it makes the problem worse since it becomes more and more non-obvious where any problems are. Plus we're creating more and more things that can be inconsistent. Remember, we were only looking at one node, on one card, in one loop, in pseudo code. That's as high level and simple as we can make it.
-
-We need another method, some new way of thinking. Let's try this a different way, adding probabilities instead of rigid logical relationships.
-
-{width: 66%}
-![We're guessing we know these concepts, and we're guessing the degree they might be related to one another](resources/images/probability-web-intro.png)
-
-Now the graph isn't necessarily in error. We don't know who the exact database client might be. We're guessing.
-
-It's extremely important to understand that although this graph uses the same symbols and drawing methodology as the first one, this is an entirely different kind of thing. Up until now, we've been trying to model out things as rigid mathematical concepts. That's why there's no end to it. Now, however, we're just throwing together a bunch of things we're guessing about. Call it a "Probability Web".
-
-## Dang You, Math
-
-You might be seeing where this is heading. Markov Chains.
-
-{width: 33%}
-![Illustration of simple Markov Chains from Wikipedia. The system exists in one state, say A, and we map the percentage chancee the state of the system will change to E, and so on. It quickly gets very complicated](resources/images/markov.png)
-
-Things relating to one another based on probabilities are a type of Markov Chain. It's the basis of all Artificial Intelligence (AI) today, and there are dozens of books worth of material you can explore if you're interested. For now, all we care about is that Probability Webs are different in fundamental and completely incompatible ways from rigidly structured symbolic relationships, such as flowcharts, class diagrams, org charts, or computer code.
-
-The most important way that they're different is that a chunk of symbolic structure, let's call it "math", can be done. In fact, it's always done. You code for a bit. Once you stop coding, you have a chunk of rigidly structured symbols [self-modifying code jocks, we'll get back to you]. You go home. You've created a rigid structure in code that will be exactly the same when you come back tomorrow. If you were a brick mason, you'd go home knowing that the wall you made today will be exactly the same tomorrow. You can start planning on how you're going to add to it.
-
-In comparison, Probability Webs are not like that. Probability Webs are never done. Although we have a fixed number of symbols in our database client example, it's understood and expected that each of those symbols exist in a web with a bunch more. As new data comes in, the probabilities are updated, nodes are added, modified, or deleted. Although we like to explain and refer to these things as webs, we're really not building the webs, we're building the spiders. To reason about these things, we cheat. Only important, mostly-likely relations can be displayed in a graph like we have because otherwise it would be infinite. The snake eats its tail, not only in a simple loop, but in quintillions of loops all throughout the billions of nodes.
-
-We can display parts of probability webs, but if they continue to operate, we can never fully comprehend them. They are not structured in a way to allow simple conversation or diagramming.
-
-{format: fsharp}
-```fsharp
-open System
-
-// given a roll between 0 and 1
-// and a distribution D of
-// probabilities to end up in each state
-// returns the index of the state
-let state (D: float[]) roll =
-   let rec index cumul current =
-      let cumul = cumul + D.[current]
-      match (roll <= cumul) with
-      | true -> current
-      | false -> index cumul (current + 1)
-   index 0.0 0
-
-// given the transition matrix P
-// the index of the current state
-// and a random generator,
-// simulates what the next state is
-let nextState (P: float[][]) current (rng: Random) =
-   let dist = P.[current]
-   let roll = rng.NextDouble()
-   state dist roll
-
-// given a transition matrix P
-// the index i of the initial state
-// and a random generator
-// produces a sequence of states visited
-let simulate (P: float[][]) i (rng: Random) =
-   Seq.unfold (fun s -> Some(s, nextState P s rng)) i
-
-// Vector dot product
-let dot (V1: float[]) (V2: float[]) =
-   Array.zip V1 V2
-   |> Array.map(fun (v1, v2) -> v1 * v2)
-   |> Array.sum
-
-// Extracts the jth column vector of matrix M
-let column (M: float[][]) (j: int) =
-   M |> Array.map (fun v -> v.[j])
-
-// Given a row-vector S describing the probability
-// of each state and a transition matrix P, compute
-// the next state distribution
-let nextDist S P =
-   P
-   |> Array.mapi (fun j v -> column P j)
-   |> Array.map(fun v -> dot v S)
-
-// Euclidean distance between 2 vectors
-let dist (V1: float[]) V2 =
-   Array.zip V1 V2
-   |> Array.map(fun (v1, v2) -> (v1 - v2) * (v1 - v2))
-   |> Array.sum
-
-// Evaluate stationary distribution
-// by searching for a fixed point
-// under tolerance epsilon
-let stationary (P: float[][]) epsilon =
-   let states = P.[0] |> Array.length
-   [| for s in 1 .. states -> 1.0 / (float)states |] // initial
-   |> Seq.unfold (fun s -> Some((s, (nextDist s P)), (nextDist s P)))
-   |> Seq.map (fun (s, s') -> (s', dist s s'))
-   |> Seq.find (fun (s, d) -> d < epsilon)
-
-// Illustration
-
-// Our Markov chain models plane delays
-// 0 = early, 1 = on-time, 2 = delayed
-// more comments at
-// http://clear-lines.com/blog/post/Simple-Markov-chains-in-FSharp.aspx
-
-// Transition matrix:
-// each row corresponds to a state,
-// and contains an array of probabilities
-// to transition to each of the states.
-let P = 
-   [| 
-      [| 0.10; 0.85; 0.05 |];
-      [| 0.10; 0.75; 0.15 |];
-      [| 0.05; 0.60; 0.35 |]
-   |]
-
-let rng = new Random()
-
-// how many delays in a sequence of 1000 flights?
-let flights = simulate P 1 rng
-
-let delays = 
-   Seq.take 1000 flights 
-   |> Seq.filter (fun i -> i = 2) 
-   |> Seq.length
-
-// stationary distribution
-let longterm = stationary P 0.0001
-
-// impact of matrix modification
-
-// improve delays after delays
-let strat1 =
-   [|
-      [| 0.10; 0.85; 0.05 |];
-      [| 0.10; 0.75; 0.15 |];
-      [| 0.05; 0.61; 0.34 |]
-   |]
-
-// improve delays after on-time
-let strat2 =
-   [|
-      [| 0.10; 0.85; 0.05 |];
-      [| 0.10; 0.76; 0.14 |];
-      [| 0.05; 0.60; 0.35 |]
-   |]
-
-let impact1 = stationary strat1 0.0001
-let impact2 = stationary strat2 0.0001
-
-[*Looks complicated, but it's not. Here's a simple implementation of Markov Chains in F#, h/t to Mathias Brandewinder for his wonderful essay back in 2012 (Although I have to resist looking at it to much because programmer)*](https://brandewinder.com/2012/05/27/Simple-Markov-chains-in-FSharp/)
-
-## It's the Shape Of Your Head
-
-As humans, we have but one mouth. That mouth produces sounds and tones, either in chunks or in clusters. Put simply, we have a simple tone, a simple way of modifying it, and a simple way of joining them all together. If a complex diagram representing Probability Webs can't tell us what something is, no matter how complicated we make it, we have no chance at all of using our speech to convey that from one person to the other.
-
-![](resources/images/speech-and-the-inside-of-the-head.png)
-
-*For a hundred thousand years or more, this is the primary tool humans have used to communicate. It's only been extremely recent that we started writing. If we had 17 mouths, 53 ears, and were able to transmit ideas to multiple people simulaneously as probability graphs, we'd see the world much differently. We'd be able to reason about it in ways those simpleton one-mouth, two-ears folks couldn't. Also it would be very difficult to buy hats.*
-
-Would words or some sort of diagramming work? No, and for the same reasons. These are linear, at most 3-5 dimensional tools trying to represent billion-dimension graphs.
-
-```c++
-#include <iostream>
-
-class ConcurrentClientApps {};
-class AppsRequiringServerAccess {};
-
-class DatabaseClient : ConcurrentClientApps, AppsRequiringServerAccess {};
-
-class HumanClient : DatabaseClient {};
-class APIClient : DatabaseClient {};
-class MessageeQueue : DatabaseClient {};
-
-int main()
-{
-  std::cout << "Hello, World!" << std::endl;
-  return 0;
-}
-
-*With code and other formal symbolic systems, like diagramming, the structure is unambivalently baked into the system, checked by the compiler. No matter what, you always have that structure. With Probability Webs, there is no structure. The structure starts and grows as the code runs. The code only exists to continuously update the Probability Web, where the actual value lies.*
-
-
-Even the Probability Web itself doesn't know what it is, because as it begins to traverse the web, it's continuing to modify all of the connections. The model as it was when it began will not be the model when it ends. It's a completely different universe than we live in.
-
-## Brains, Reality, and Webs
-
-Except brains. Brains only exist to process reality, and reality is a bunch of really complex concepts all related in probabilistic ways.
-
-Here all of our concepts join up:
-
-- Reality is multivariate, not simple concepts
-- Reality exists as a web of things related by probability
-- We can never fully understand probability webs (although we constantly understand them "enough")
-- Our brains operate in roughly the same kind of Probability Web that reality does. Yay evolution.
-- When information leaves one of us to be shared with others, it's always in a single-channel, linear format
-- This format does not match up with the universe as we understand it
-- Ergo, reality will never be something we can completely diagram in a rigid way. Instead, we're always coming up with just good enough little graphs of ideas in our heads that work right now
-
-## Feedback Loops Are Bullshit
-
-It is very easy to diagram something. Once we do that, it is also very easy, perhaps automatic, to convince ourselves that we are done, we have diagrammed it completely. It's axiomatic that this is not true. Therefore, in ways we do not understand, the things we diagram must be incorrect. Perhaps it's incorrect in trivial ways. Perhaps not. But since we're using a Probability Web ourselves internal to come up with these models, we'll never know. The best we can do is come up with something, run it for a while, and adjust it when we finally understand how it's broken. [remember we have an exception for math and physics]
-
-![The very latest in the Structured Agile Framework (SAFe), a system for creating technology. Such diagrams are neither beast nor fowl. They're not code. They're not even much of a rough map to get started doing the actual work, as in our database client example. Instead, like most feedback loops you'll see in textbooks, the implication is that there's some kind of formal, proven system being displayed, like a circuit diagram for a radio. If you watch these types of diagrams being created, it's much more of an art form than a science.](resources/images/safe_bigboard.png)
-
-And it's worse than that, because the more we think of our modeled concepts as being rigid, like we did when we thought of "database client" as simply a person, the more likely we are to be wrong in important ways. We're always wrong, of course, but our idea that the concepts we create are fixed make us more wrong and less likely to change our ways. This increases exponentially with the size of the model. For anything based on human communication, the more you try to decompose the meaning of something, the more pieces you have in your hand that need further decomposing. It doesn't work like that.  [with the exception of math and physics]
-
-Instead of feedback loops, here is what we need: Feedback Webs.
-
-## Yet Here We Are
-
-But we're still human, and we still only have speech and writing to represent concepts. So like Plato's Cave, or a two-dimensional projection of a tesseract, we have to snapshot or project some kind of half-assed idea in order to get anywhere at all. We have to lie about reality in order to get it into terms we can usefully discuss. Because heads.
-
-We can play around with Feedback Webs in the small, using less than a dozen or so items to start conversations, but they're just that: conversation enablers. We can use more rigid structures like Feedback Loops in the large, perhaps showing dozens or hundreds of things all related in complex ways, but these are so wrong as to almost be farcical [Again, there's an exception for physical systems. We're talking our representation of concepts. Pure math and physics exist context-free. Everything else doesn't]
-
-The best use I've found for more complicated diagrams like the above are road maps: they might or might not lead me to a "neighborhood" with a half-dozen or so concepts that we can then reason about together as Probability Webs. Oddly, though, what we usually end up doing when we're done is "firming up" that structure and then trying to make sense of that with the larger model.
-
-This is a process that will never work. Or as some coders have finally realized, you will never have your Enterprise Model. There's some multivariate super-dimensional probability model that represents your enterprise that you could never understand, but it's constantly-changing and understood differently for all of the participants anyway, so even if you grew a twenty-ton brain, it doesn't matter. It doesn't work like that.
-
-This leaves us stuck using flowcharts, class diagrams, feedback loops and the rest. But the real action is with Feedback Webs. Like our database diagrams, the situation, the things we have to work with, are both solid and amorphous at the same time, depending on the level of detail you're using. If we're going to study learning at scale Probability Webs are the wet clay we use to bake into houses to build bigger structures. These are our bricks. Now we can get building.
-
-
-## We Have To Watch The Infinities
-Everything we do with foundations is going to bump up against infinities. We need to be constantly mindful that we can describe the general process, the general structure, and the general goal, but we could never provide the specifics, as all of these vary based on participants, context, history, and so forth. This doesn't mean we won't have a lot of interesting and useful things to say, but it means that for each thing we cover, we're going to have to note the rules that create and drive the infinity, go over a few examples, then back off. Otherwise we'll end up with one of those nuclear missile diagrams all of us so fear.
-
-Errors give us to-do items, feedback loops help us process those items. Neither of those two are firmly defined. Instead it's a dynamic, constantly-shifting millieu. But we know enough to work with them. How does that work take place? What's the generic thing that's doing all of this error spotting and fixing?
