@@ -12,24 +12,29 @@ Do you know about pi (π)? π is the ratio of a circle's circumference to its di
 
 Here's a fun game: ask a friend what pi is.  Some people will say "3". Many have learned that π is the ratio 22/7. Still others, probably the kids who think they're smart, will say "3.14". If you were to ever ask me, ever since I was a little kid, I'd tell you that it is "3.141592863". That's because I tend to be a pretentious jerk who found things like this impressive, but I only learned that about myself as I got older. At the time, I thought it was pretty cool to know that many digits. I have many friends that know π  out to 10, 50, even 100 or more digits. What can I say? We usually had no problem picking up the girls at parties. It's a gift.
 
+{width: 66%}
 ![The Family of Numbers](resources/images/real-number-system.jpg)
 
 π is what's called an irrational number. Technically irrational numbers are those numbers which are not rational. (Mathematicians get paid for saying such things!) Rational numbers can be expressed as p/q, like 4/1, 2/3, or 19/28. You can also express any rational number as a couple of fractions banged together with an arithmetic operator, like 1/2 + 1/4, or 33/17 * 3/17, because math. If you can't express a number as a ratio of numbers, or a combination of ratios, then by definition it's not rational. It's still a number, or course, and it still exists on the number line. So where is it?
 
+{width: 66%}
 ![Where's the Pi on this line? Hell, where's the 2, for that matter?](resources/images/hand-drawn-number-line.png)
 
 If you drew a number line, you could point to a specific location and say "this is two", but you can't point to a location and say "this is π". You might get pretty close. Sure, you might get close enough that nobody cares that you're off, but you'll never, ever have an integer number line where you can point to an irrational number and exactly nail where it is. One way of thinking of irrational numbers is that they exist "between" all the rational numbers we can construct and identify on the number line we all know and love. (In fact, for any two rational numbers, there are an infinite number of irrational numbers between the two. As it turns out, the integers and the rational numbers are probably much more ephemeral and non-existent than the irrationals, rationals are scattered like tiny little specks of a diamond on a beach full of sand, but that's a story for another day) [1]
 
+{width: 66%}
 ![I admit to nothing](resources/images/digits-of-pi.gif)
 
 Because of that, when you ask somebody what π is, and they recite a bunch of digits or give you a fraction? They're wrong. In fact, whatever they say is wrong. It's impossible to express π as a number, ratio, or finite series of digits. Even that friend of mine who knows π out to 100 digits is wrong. The digits keep going after that, out to infinity. You might say he's less wrong than my other friend who just uses 22/7, but for all practical purposes, perhaps if we were engaged in some backyard project, all of these answers are good enough to work. In fact, using the 100-digit version of pi is much more of a hindrance in real life than just using something like 22/7. It's much more precise but extremely less useful in the practical world. Hell, 3 is probably good enough for most situations you'll run into.
 
+{width: 66%}
 ![Early in history, geometry allowed us to construct the general location of some irrationals on the number line, but good luck figuring out exactly what the number is. An apocryphal story says that the Greek mathematician who discovered irrational numbers was taken out in a boat and tossed into the sea, where he could never pollute young minds again. For a thousand years or more, we constructed and used irrationals, but nobody dared mention them. The situation was truly "irrational" [2]](resources/images/representing-irrationals-on-the-number-line.jpg)
 
 ## Say Hello to your Little Friend: Your Brain
 
 You can't observe your own brain. You can't observe other people's brains, either, or even reason about brains, without using a brain yourself. This has caused all sorts of problems throughout the centuries and generally the use of brains have been avoided for that reason.
 
+{width: 66%}
 ![Mmmmm. Pie.](resources/images/say-hello-to-your-little-friend-your-brain.png)
 
 Looking at brains from the outside, and generalizing as much as possible, we know that people must have some abstract concepts they use inside their heads to represent things both real and imagined in the outside world. These are not "thoughts". Thinking is a process. These are ideas or abstractions. We think about ideas or abstractions. Thinking is the process that joins together ideas and abstractions into useful chains, most of the time by using preexisting chains.
@@ -48,6 +53,7 @@ Each of us has their own idea of how to refer to the ratio of the circumference 
 
 I can never tell you what "blue" is, at least not exactly. It might help if I used more than just the one word "blue". When I think of blue I think of a teal-like, eggshell-tinted bright blue. I could provide a light wavelength. Or maybe a light wavelength and a spectral signature. But no matter how exact and precise I become, no matter what tools I bring to bear, my internal, non-verbal idea of "blue" will always be uniquely mine, and it'll change from minute-to-minute as I encounter that concept. It's just that for the most part, these subtle changes are invisible and don't matter.
 
+{width: 66%}
 ![Do you have to have numbers in order to have a system of math? Nope. We've arbitrarily made numbers, and the relationship they have among themselves are stable for all four arithmetic operators, with one exception: 1/0, which is undefined. Instead of a labeled line, we could construct our number system differently to show why anything divided by zero doesn't work geometrically. Here we have a system with only three concepts, zero, infinity, and theta. By drawing a line from infinity through some point on the circle we can uniquely identify all of the real numbers just with theta. Any number divided by zero is not a number; the line would be parallel to our number line. It is not part of our system. Look, ma, no integers! We don't have to have numbers to have math, and we don't have to have words to have language and intelligence, it'd just operate under vastly different rules ... and still the same problems would be there. (We just wouldn't use language as we know it to solve them)](images/resources/../../resources/images/number-wheel-one-over-zero.png)
 
 If we think of what's going on inside of each of our heads as irrational numbers, then we can continue our metaphor to language, which would map to the rational numbers. Just like rational numbers in math are the result of banging together fractions, language is banging together our internal representation of concepts and how they relate to one another to find a spot between those concepts. 22/7 is closer to π than 3. I use two big, chunky concepts, 22 and 7, and by combining them arrive at something closer to where I want to go. A cat is somewhere between a hamster and a dog.
@@ -70,6 +76,7 @@ There's no single answer to that. It's situational. In some cases, say a room fu
 
 There's no winning this game of using language to try to exactly transfer an internal concept from one person's head to another, but it breaks so extremely rarely that up until fairly recently in modern times whenever a mistake happened it was logically assumed that the problem was simply that not enough specification was given. We didn't understand that error is baked into language. This is necessary for it to enable group learning. Just like the number line is really "full" of irrationals with just the smattering of rationals and integers being mostly non-existent, the internal life of brains is full of language-less concepts, some of which we map immediately into an internal dialog, some of which we don't. The mappings from internal concepts to words never really works, whether we speak those words aloud or not, but it's good enough. The words, like rational numbers, are a convenient stopping point between our sea of internal reality and communicating with somebody else, a good-enough approximation using some common terms that we can then start trading around with the approximations that others have. [7]
 
+{width: 66%}
 ![We think of counting and cardinal numbers as the beginning of math, but in reality once it starts, we start ordering things and assigning labels, the ordinal numbers. Ordinal numbers are the basis of all rational numbers, ie, rational just doesn't refer to the digits used for the numbers, rationals exist because of how all ordinal numbers relate to one another. Take away our numbers and you'd still end up with rational and irrational numbers, they'd just use different symbols/labels. Likewise, different languages with different numbers, operators, symbols, and syntaxes work just the same as English does in our model.](resources/images/really-weird-spiral-of-numbers.png)
 
 In fact, if you think about it, by using sequences of fractions, you can express most irrational numbers at any degree of precision. Likewise, by using sequences of language tokens in the correct syntax, you can continue to narrow down the exact same concept between two or more people. The problem is that there are only a dozen or so commonly-shared truly fixed and unmoving abstract concepts that we all share, and all of those are mathematical. There may be a dozen or so more for any specific group of people working on a specific problem. We naturally think (and we're taught in school) that there are hundreds, thousands, or more rock-solid shared concepts. That's because nobody cares that there's drift in meaning, both internally and as a group. Groups of people actively correct for that. In the actual world, there's such a small possibility of making a big mistake that we've come to assume there's a lot more meaning in our words than there actually is. So it doesn't matter.
@@ -94,6 +101,7 @@ These statements of inequality join up in an "and" or intersection arrangement. 
 
 Where's the square root of 3? Somewhere between the square root of 2 and the square root of 5. You don't have to hit those numbers exactly, just exclude all of those areas I've excluded and we're 99% closer to the answer. We talk. We repeat and rinse until it doesn't matter anymore. Magic.
 
+{height: 33%}
 ![Taken during a recent vacation where this exact interaction happened](resources/images/2019-08-14-backyard-sunrise.jpg)
 
 ## The Pier
@@ -110,6 +118,7 @@ Perhaps you could just point vaguely. There it is! If I looked where you were po
 
 But the water is always moving. The tide comes in and out. The current shifts the sea around. Sea creatures silently moved through the area while you were getting me from the house. How can you even be sure that the plankton you're pointing out is the one you were looking at before? Maybe it's just another one that looks very similar. A lot of these creatures look just like one another. How could you ever really know?
 
+{width: 66%}
 ![That has to be the cutest little speck over there that I've ever seen!](resources/images/gorgeous-underwater-landscape.jpg)
 
 A positive, descriptive approach is never going to work. You're really not even sure yourself that you have the same item as you had before, although most of us would easily (and subconsciously) convince ourselves that it was the same. No matter how exactly and precisely you point, you're never going to get it.
@@ -134,11 +143,13 @@ In pre-calculus algebra, we define a limit as a mathematical way of dealing with
 
 In many situations in math, I can't calculate directly what the answer is, but there's a pattern such that I can get us as close as we'd ever want to get, and it turns out for all intents and purposes that this is the same as being able to calculate the answer. A very similar thing happens with anything involving language and communication.
 
+{width: 33%}
 ![I can't directly calculate the area under this curve, but by splitting the area up under the curve into more and more rectangles, I can get as close as anybody would want to knowing the answer](resources/images/Riemann-integration-animated.gif)
 
 For many centuries, mathematicians knew how to calculate derivatives (the instantaneous slopes of lines) and integrals (the areas under curves). It took the Fundamental Theory of Calculus to show that these were two ways of looking at the same thing.
 
-![For whatever epsilon you want, I've got a delta for you. As show above, the Riemann Integral is taught by sketching on a blackboard, chatting informally, then taking that chat and turning it into math. Programmers do this over and over again, just our math hardly ever works out](resources/images/formula-for-the-riemann-integral.png)
+{width: 66%}
+![For whatever epsilon you want, I've got a delta for you. As shown above, the Riemann Integral is taught by sketching on a blackboard, chatting informally, then taking that chat and turning it into math. Programmers do this over and over again, just our math hardly ever works out](resources/images/formula-for-the-riemann-integral.png)
 
 Science advances by tests that fail. These failing tests, over time, exclude more and more areas from our search, eventually either leading us to the right answer or close enough that it doesn't matter.
 
@@ -146,12 +157,14 @@ Science advances by tests that fail. These failing tests, over time, exclude mor
 
 So far we've talked about one person clearly identifying and communicating an internal concept to the outside world, but aside from writing, that's almost never the case. Instead, there's always a sender and a receiver. This means that communication is always a back-and-forth about vague generalities, where with each volley back and forth both participants have a better idea of a shared concept. Such back-and-forth games are called Language Games, and they're the basis of all intelligent discourse, all language in general, really. [8]
 
+{width: 66%}
 ![With two people and one concept, you have two number lines, just like in an X-Y axis. Good luck with seven (or a hundred!) people. There's a solution. It's covered in a separate essay](resources/images/number-line-axis-and-guessing.png)
 
 It's as if we're two players playing a game of whack-a-mole, only on an infinite board, with zillions of holes from left to right and zillions of holes from top-to-bottom. Do you want a very tiny hammer and a lot of time to carefully aim? Or would you like one of our flame-throwers? Which is quicker and gets the job done well enough? All those little bastard moles gotta die. You can go looking for the tiny hammers if you'd like. The rest of us will take the flame throwers.
 
 The vast majority of the time, simple, vague, even sometimes completely idiotic words work perfectly fine for our purposes as long as they describe negative space and stack. It's rare that they don't. In fact, you can get a lot done with one random negative word, and that word doesn't even have to relate to anything we're talking about. [9] We place far, far too much faith in dictionaries.
 
+{width: 66%}
 ![WARNING: NUDITY AND LANGUAGE IN THIS VIDEO. You don't add more and more language and necessarily get something that's more useful. It's just the opposite, in fact. In this famous scene from "The Wire", two detectives perform a difficult and demanding job using only one word, f*ck. Note: this is presented for educational purposes only and is not part of any commercial activity. I wouldn't use this clip at all, but there's no better pop culture example of what I'm trying to teach.](resources/images/the-wire-fuck-scene.png)
 ## Out
 
