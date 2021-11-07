@@ -120,7 +120,7 @@ We know what kinds of communication we're using (language). We know our goals mi
 
 The worst mistake was skipping levels, so skipping levels constitutes our Sev 0 errors about wrongness. Now we can now set up a categorization system for identifying bugs in our error-detection systems.
 
-{height: 66%}
+{width: 66%}
 ![You either don't know, can't know, or refuse to acknowledge that there is a journey from being-in-reality to understanding-reality](resources/images/errors-in-error-identification-sev-0.jpg)
 
 ## Living Loving Language - Epistemic Errors
@@ -169,7 +169,7 @@ Epistemic ignorance may be great art, but it is a fatal error for any mutual lea
 
 Epistemic ignorance may be great art, but it is a fatal error for any mutual learning system, i.e. dialectic. The coyote and Acme guy are never going to work it out. That's why these errors-in-error categorization are categorized Sev 0.
 
-{height: 66%}
+{width: 66%}
 ![My internal existence and our social ingroup existence are completely different things. Not realizing that others outside my head have a different reality than I do leads to many kinds of misunderstandings](resources/images/errors-in-error-identifcation-sev-1.jpg)
 
 ## Confusion of Purpose - False Flag Errors
@@ -225,7 +225,7 @@ If you can't identify what's happening you have no chance of fixing it. That's w
 
 Sev 1 error identification bugs are fatal to any current or future interaction. There's nowhere for both of you to go together if you're going in different directions.
 
-{height: 66%}
+{width: 66%}
 ![You can't use computer logic to fix social systems, or emotions to reason about logic. As opposed to SEV 0 errors, SEV 1 acknowledges that there are levels and systems of logic, it just tries to force one level into controlling another](resources/images/errors-in-error-identification-sev-2.jpg)
 
 ## Conflation of Domains - Dialectical Conceptual Errors
@@ -250,7 +250,7 @@ Smelly people have important things to say. We fix wrongness in each of these le
 
 These errors and error categorization problems can be recovered from, and it's the job of good conversant to be able to do this. It's not always a sure-fire thing, though. I wish I had magic fairy dust to offer for those trying to do it. I do not. Such error identification and error correction conversations are minefields.
 
-{height: 66%}
+{width: 66%}
 ![You understand and are using analysis, you're just not doing it. SEV 3 is a normal daily screw-up. It's the first part of the work of ATDD/TDD ](resources/images/errors-in-error-identification-sev-3.jpg)
 
 ## You're Doing it Wrong - Dialectic Execution Errors
@@ -272,8 +272,8 @@ Good projects have a dialectic that continues throughout all of development and 
 
 *Dialectical execution errors happen constantly and good social groups are able to recognize and recover from them with no time or energy lost. Bad social groups may not even be able to recognize them as they happen.*
 
-{height: 66%}
-![Everybody agrees with one another about what they want, but what they want isn't a complete, consistent, computable formal system. SEV 4 errors are the second part of the work of ATDD/TDD](resouces/images/../../resources/images/errors-in-error-identification-sev-4.jpg)
+{width: 66%}
+![Everybody agrees with one another about what they want, but what they want isn't a complete, consistent, computable formal system. SEV 4 errors are the second part of the work of ATDD/TDD](resources/images/errors-in-error-identification-sev-4.jpg)
 
 ## You Made a Mistake - Logic Errors
 

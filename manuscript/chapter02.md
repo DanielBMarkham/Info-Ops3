@@ -39,7 +39,6 @@ So when you build a purely functional program around rules for something you're 
 
 So yes, most code is not purely functional and my equivalence falls apart, but we're going to use "programming" to mean purely functional programs conforming to something like the rules of Haskell, and we're going to use the word "math" to mean those branches and applications of mathematics that can be derived from Category Theory. As long as we keep those differences in mind, we're good.
 
-
 ## What is Learning?
 
 *I reckon learning is being able to state how things are put together and being able to do stuff.*
@@ -106,6 +105,10 @@ The Bayesian approach to mitigating uncertainty is by treating it probabilistica
 
 *I reckon that Simpson's Paradox is just one of many problems that arise because of semiotcs when people talk to one another. Problems like this are why a single person can never do anything but hard math by themselves. Semiotics always matters.*
 
+## Occam's Razor
+
+*I reckon that cutting to the simplest explanation possible, not adding terms if you don't have to, is pretty easy if you live in a simple world. When Thor does everything, Thor is the answer to everything.*
+
 ## Cynefin
 
 *I reckon this is as good a frame as any if you insist on thinking about external realities instead of doing useful stuff. Seems besides the point, though.*
@@ -151,7 +154,3 @@ I don't claim to be an expert in *any* field, and this book is useful only as mu
 Definitions are a social construct, knowledge isn't. This means that differing social groups may very well perceive the same underlying reality, they just write those descriptions and join them up into "what" and "why" explanations using that language. When those groups are in different cultures, it's not much of a problem. But when they're in the same culture using the same overloaded words, people can have massive disagreements about reality simply because the language itself is unreliable.
 
 People who define things are limited by those definitions.
-
-
-
-
