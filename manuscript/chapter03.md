@@ -1,0 +1,90 @@
+# Negatives Stack, Positives Don't. The Number Line Model of Communication
+
+*An extended metaphor shining light on the problem of having to use humans in groups to agree on things that eventually need to be coded into a formal system.*
+
+{width: 66%}
+![Weird pic, eh?](resources/images/weird-shell.jpg)
+
+Do you know about pi (π)? π is the ratio of a circle's circumference to its diameter. This ratio is the same for any circle. Pi is a neat little number most kids learn about in school. People have known about it for thousands of years, ever since we started drawing circles and doing math with them.
+
+{width: 66%}
+![Apple or Cherry?](resources/images/Euler-s_formula.svg)
+
+Here's a fun game: ask a friend what pi is.  Some people will say "3". Many have learned that π is the ratio 22/7. Still others, probably the kids who think they're smart, will say "3.14". If you were to ever ask me, ever since I was a little kid, I'd tell you that it is "3.141592863". That's because I tend to be a pretentious jerk who found things like this impressive, but I only learned that about myself as I got older. At the time, I thought it was pretty cool to know that many digits. I have many friends that know π  out to 10, 50, even 100 or more digits. What can I say? We usually had no problem picking up the girls at parties. It's a gift.
+
+![The Family of Numbers](resources/images/real-number-system.jpg)
+
+π is what's called an irrational number. Technically irrational numbers are those numbers which are not rational. (Mathematicians get paid for saying such things!) Rational numbers can be expressed as p/q, like 4/1, 2/3, or 19/28. You can also express any rational number as a couple of fractions banged together with an arithmetic operator, like 1/2 + 1/4, or 33/17 * 3/17, because math. If you can't express a number as a ratio of numbers, or a combination of ratios, then by definition it's not rational. It's still a number, or course, and it still exists on the number line. So where is it?
+
+![Where's the Pi on this line? Hell, where's the 2, for that matter?](resources/images/hand-drawn-number-line.png)
+
+If you drew a number line, you could point to a specific location and say "this is two", but you can't point to a location and say "this is π". You might get pretty close. Sure, you might get close enough that nobody cares that you're off, but you'll never, ever have an integer number line where you can point to an irrational number and exactly nail where it is. One way of thinking of irrational numbers is that they exist "between" all the rational numbers we can construct and identify on the number line we all know and love. (In fact, for any two rational numbers, there are an infinite number of irrational numbers between the two. As it turns out, the integers and the rational numbers are probably much more ephemeral and non-existent than the irrationals, rationals are scattered like tiny little specks of a diamond on a beach full of sand, but that's a story for another day) [1]
+
+![I admit to nothing](resources/images/digits-of-pi.gif)
+
+Because of that, when you ask somebody what π is, and they recite a bunch of digits or give you a fraction? They're wrong. In fact, whatever they say is wrong. It's impossible to express π as a number, ratio, or finite series of digits. Even that friend of mine who knows π out to 100 digits is wrong. The digits keep going after that, out to infinity. You might say he's less wrong than my other friend who just uses 22/7, but for all practical purposes, perhaps if we were engaged in some backyard project, all of these answers are good enough to work. In fact, using the 100-digit version of pi is much more of a hindrance in real life than just using something like 22/7. It's much more precise but extremely less useful in the practical world. Hell, 3 is probably good enough for most situations you'll run into.
+
+![Early in history, geometry allowed us to construct the general location of some irrationals on the number line, but good luck figuring out exactly what the number is. An apocryphal story says that the Greek mathematician who discovered irrational numbers was taken out in a boat and tossed into the sea, where he could never pollute young minds again. For a thousand years or more, we constructed and used irrationals, but nobody dared mention them. The situation was truly "irrational" [2]](resources/images/representing-irrationals-on-the-number-line.jpg)
+
+## Say Hello to your Little Friend: Your Brain
+
+You can't observe your own brain. You can't observe other people's brains, either, or even reason about brains, without using a brain yourself. This has caused all sorts of problems throughout the centuries and generally the use of brains have been avoided for that reason.
+
+![Mmmmm. Pie.](resources/images/say-hello-to-your-little-friend-your-brain.png)
+
+Looking at brains from the outside, and generalizing as much as possible, we know that people must have some abstract concepts they use inside their heads to represent things both real and imagined in the outside world. These are not "thoughts". Thinking is a process. These are ideas or abstractions. We think about ideas or abstractions. Thinking is the process that joins together ideas and abstractions into useful chains, most of the time by using preexisting chains.
+
+Now for the head-scratcher mind-fuck: inside that noggin of yours, we don't really know what thoughts or ideas/abstractions are. It's tempting to think that concepts are actually neurons wired together and thoughts are sort of an electrical storm happening across thousands or millions of neurons in waves, but that's much more of a trope given out on pop science shows made for the average viewer rather than something that reflects reality. [3]
+
+In fact, while we know a bit about biochemistry and neurons, we know much less about how thought and thinking take place in the human brain than we'd like to admit. One thing that's abundantly clear is that there are no firm structures in our brain about any abstract concept. You don't have a fixed set of neurons for "ice cream" for instance. You may know everything there is possibly to know about ice cream, but as far as we can tell, each and every person has some sort of different and changing internal representation of that concept. This means that your own internal idea of ice cream subtly changes from minute-to-minute as you think about it.
+
+Heraclitus said that you can't step in the same stream twice, and you can't have the same exact internal representation of ideas twice. [4] You can't remember the same thing the same way. (Some folks think we don't really remember an event as much as we remember the memory of the event and how that memory made us feel). [5] Remembering a thing changes your memory of it, as any good police detective or defense attorney knows. Here's an example: pick a word, any word. Say that word aloud 500 times. Soon that word becomes strange, alien, weird. That's your brain trying to figure out how the hell it's supposed to wire itself differently to this sound based simply on the mechanical act of saying and hearing it. Your brain is trying to learn. Something important must be going on that it must adapt to, but it can't figure out what, hence the weirdness. Your brain instinctively knows that every time you think of "skunk" you're changing the meaning and strives to adapt whether you're consciously aware of that fact or not.
+
+## The Number Line Model
+
+Looking at all of that, it's inescapable to conclude that what's going on in everybody's head is, well, irrational, in the strictest sense of the word. Let's have fun with that. Let's see if we can actually talk about ideas as being, well irrational irrational, like the number π
+
+Each of us has their own idea of how to refer to the ratio of the circumference of a circle to its diameter. You might multiply by 3. Another person uses 22/7. Still other folks use 3.14. Nobody is wrong here, or rather everybody is wrong, depending on how you want to look at it. Our ideas, our nouns, adjectives, verbs and adverbs, can be thought of as internal irrational numbers stuck inside our heads. This is what I call the Number Line Model of Communication.
+
+I can never tell you what "blue" is, at least not exactly. It might help if I used more than just the one word "blue". When I think of blue I think of a teal-like, eggshell-tinted bright blue. I could provide a light wavelength. Or maybe a light wavelength and a spectral signature. But no matter how exact and precise I become, no matter what tools I bring to bear, my internal, non-verbal idea of "blue" will always be uniquely mine, and it'll change from minute-to-minute as I encounter that concept. It's just that for the most part, these subtle changes are invisible and don't matter.
+
+![Do you have to have numbers in order to have a system of math? Nope. We've arbitrarily made numbers, and the relationship they have among themselves are stable for all four arithmetic operators, with one exception: 1/0, which is undefined. Instead of a labeled line, we could construct our number system differently to show why anything divided by zero doesn't work geometrically. Here we have a system with only three concepts, zero, infinity, and theta. By drawing a line from infinity through some point on the circle we can uniquely identify all of the real numbers just with theta. Any number divided by zero is not a number; the line would be parallel to our number line. It is not part of our system. Look, ma, no integers! We don't have to have numbers to have math, and we don't have to have words to have language and intelligence, it'd just operate under vastly different rules ... and still the same problems would be there. (We just wouldn't use language as we know it to solve them)](images/resources/../../resources/images/number-wheel-one-over-zero.png)
+
+If we think of what's going on inside of each of our heads as irrational numbers, then we can continue our metaphor to language, which would map to the rational numbers. Just like rational numbers in math are the result of banging together fractions, language is banging together our internal representation of concepts and how they relate to one another to find a spot between those concepts. 22/7 is closer to π than 3. I use two big, chunky concepts, 22 and 7, and by combining them arrive at something closer to where I want to go. A cat is somewhere between a hamster and a dog.
+
+Reaching the end of this metaphor, words (and the associated socially-performed language that you have to have with spoken words) would be the symbols and simple arithmetic operators that we all agree on such that we can make social intelligence work.
+
+Using this metaphor, many of us would like to think of words as being integers, fixed and unmoving, but for any specific problem and specific group of people, there are very few words that work like this compared to the profound number of words in common use. This is much the same as the relationship from integers to rational numbers. Integers are fixed and unmoving, but for every integer there's an infinite number of rational numbers. Rationals are much more "real" than integers are.
+
+In math, when we look in our toolbox, we have ten digits, 0123456789 and a half-dozen or so symbols, ,.*/ That's all we need to do as much as we want in our rational number family. In fact, we found very quickly that by even adding one additional unneeded symbol too many, we make the system incomplete, incomputable, and/or inconsistent. [5]
+
+There are an extremely tiny number of truly fixed and unmoving abstract things any group of people can agree on while maintaining a mathematically complete, computable, and consistent system. [6]
+
+Inside my head, when I think of some concept like "blue", it is a language-free experience. Words come later. Instead, I'm not even thinking of any words at all. I'm thinking of a bunch of experiences I've had using my eyes throughout my life. I've learned to generally associate certain parts of those experiences with the spoken word "blue", but my internal model is changing even as I match those experiences to the word (or vice-versa). Let's compare the mathematical concept of pi and my internal concept of blue. Is it "blue" – 3? "sky blue" - 3.14? "sky blue with a hint of eggshell and dusty cotton" - 3.141592863?
+
+How much blue is blue?
+
+Am I actually adding value by throwing more words at the concept or getting in the way of accomplishing anything practical? If I tell you to go in the other room and bring me back the blue pencil, do I need to write a 4,000-word essay describing the color, give you a spectra to match?
+
+There's no single answer to that. It's situational. In some cases, say a room full of a billion randomly-colored bluish pencils, perhaps you might need that spectra. In most cases, though? In 99.9999% of the actual cases in real life, the simple word blue works just great. It's wrong, but it's good enough. That's because no matter what you do it'll always be wrong. even if there were only one pencil in the other room, and it was blue, you still might be wrong. Maybe there was another blue pencil of a slightly different color but somebody took it. Maybe they changed the spectra of the light bulb. Language is able to do the magic that it does because of its propensity for vague groping for completely unfounded models of reality.
+
+There's no winning this game of using language to try to exactly transfer an internal concept from one person's head to another, but it breaks so extremely rarely that up until fairly recently in modern times whenever a mistake happened it was logically assumed that the problem was simply that not enough specification was given. We didn't understand that error is baked into language. This is necessary for it to enable group learning. Just like the number line is really "full" of irrationals with just the smattering of rationals and integers being mostly non-existent, the internal life of brains is full of language-less concepts, some of which we map immediately into an internal dialog, some of which we don't. The mappings from internal concepts to words never really works, whether we speak those words aloud or not, but it's good enough. The words, like rational numbers, are a convenient stopping point between our sea of internal reality and communicating with somebody else, a good-enough approximation using some common terms that we can then start trading around with the approximations that others have. [7]
+
+![We think of counting and cardinal numbers as the beginning of math, but in reality once it starts, we start ordering things and assigning labels, the ordinal numbers. Ordinal numbers are the basis of all rational numbers, ie, rational just doesn't refer to the digits used for the numbers, rationals exist because of how all ordinal numbers relate to one another. Take away our numbers and you'd still end up with rational and irrational numbers, they'd just use different symbols/labels. Likewise, different languages with different numbers, operators, symbols, and syntaxes work just the same as English does in our model.](resources/images/really-weird-spiral-of-numbers.png)
+
+In fact, if you think about it, by using sequences of fractions, you can express most irrational numbers at any degree of precision. Likewise, by using sequences of language tokens in the correct syntax, you can continue to narrow down the exact same concept between two or more people. The problem is that there are only a dozen or so commonly-shared truly fixed and unmoving abstract concepts that we all share, and all of those are mathematical. There may be a dozen or so more for any specific group of people working on a specific problem. We naturally think (and we're taught in school) that there are hundreds, thousands, or more rock-solid shared concepts. That's because nobody cares that there's drift in meaning, both internally and as a group. Groups of people actively correct for that. In the actual world, there's such a small possibility of making a big mistake that we've come to assume there's a lot more meaning in our words than there actually is. So it doesn't matter.
+
+I learned recently, after talking to one of my nerd friends, that it's not 3.141592863. It's actually 3.1415926535. Yikes! The horror! My entire life, when talking about geometry and irrational numbers, as some of us are wont to do, when I quoted pi, I was giving out the wrong digits after the first seven.
+
+But do not weep for me! Somehow I must still carry on.
+
+Know what? I'm going to continue using my number. I like it better, and unless I'm going to compute some interplanetary orbital trajectories, it'll continue working just fine.
+
+But when we talk learning at scale, we're required to get pedantic. The gaps matter. I apologize. That's just the way it is.
+
+In  normal life, nobody cares about that sixth digit of pi until they're launching an interplanetary probe to Venus, but that doesn't mean it's never important at all. Things that are required to be hidden and meaningless, shared among a few of us for only a small point in time, become prominent and fearfully important at scale.
+
+## Negative Stack; Positives Don't
+
+If all of the internal representations of our ideas are like irrational numbers, then how can we ever convey to somebody that they're wrong? If you can't nail down the value, how can you talk about it?
+
