@@ -3,7 +3,7 @@
 ***The phrase "feedback loop" idea is total bullshit. We're all going to have to keep using it anyway. Here's why.***
 
 {height: 25%}
-![](resources/images/wild-meerkat-9.jpg)
+![Meerkats, the ultimate quick decision-maker](resources/images/wild-meerkat-9.jpg)
 
 We make a lot of bad decisions in organization and system design because of the way our heads are shaped. It's not our fault, but to fix it we have to understand it.
 
@@ -83,7 +83,6 @@ There's our loop. Let's take each node and write it out as a sentence.
 {width: 66%}
 ![](resources/images/meta-sketch-4.png)
 
-
 {width: 66%}
 ![](resources/images/meta-sketch-5.png)
 
@@ -123,7 +122,7 @@ A database client is a type of client app? It's a concurrent app? Those top two 
 
 Well hell, Daniel, you might say, we've got that modeled. There are three major kinds of database clients: human client, API client, and message queue, remember? It's simply that the model is in error. Perhaps if we continued to add more detail we could fix it.
 
-Not only is that wrong, if you head down this path you're going to end up drawing complex, intricate diagrams that nobody, including yourself, fully understand. We only have six nodes in our graph and already we've created something that we cannot completely agree with. 
+Not only is that wrong, if you head down this path you're going to end up drawing complex, intricate diagrams that nobody, including yourself, fully understand. We only have six nodes in our graph and already we've created something that we cannot completely agree with.
 
 That ambiguity and the associated unease can easily lead us to create even more things in our diagram. People make mistakes, create inconsistencies, whenever they write things down. Writing more things down not only does not fix it, it makes the problem worse since it becomes more and more non-obvious where any problems are. Plus we're creating more and more things that can be inconsistent. Remember, we were only looking at one node, on one card, in one loop, in pseudo code. That's as high level and simple as we can make it.
 
@@ -136,7 +135,7 @@ Now the graph isn't necessarily in error. We don't know who the exact database c
 
 It's extremely important to understand that although this graph uses the same symbols and drawing methodology as the first one, this is an entirely different kind of thing. Up until now, we've been trying to model out things as rigid mathematical concepts. That's why there's no end to it. Now, however, we're just throwing together a bunch of things we're guessing about. Call it a "Probability Web".
 
-## Dang You, Math!
+## Dang You, Math
 
 You might be seeing where this is heading. Markov Chains.
 

@@ -2,7 +2,7 @@
 
 For reasons that can never change, it's impossible to tell somebody that they're wrong without being wrong in some way ourselves. Let's tour the wrongness zoo and find out why.
 
-![](resources/images/learning-starts-with-wrong-chart.png)
+![Starts with Wrong](resources/images/learning-starts-with-wrong-chart.png)
 
 It happened again. Somebody was wrong on the internet. And when I politely pointed out that they were wrong, I was wrong too, only in ways I could never have anticipated. I was wrong about wrong.
 
@@ -19,14 +19,14 @@ Wrong.  You are confusing two completely different types of communication.
 Perhaps "B" in the first context means one thing. The same term "B" might mean a subtly different thing in the second context. Same term "B", different underlying intentions. Language ain't math, and it's never going to be. Language is an art form we all participate in, it's an interactive nuanced performance. We perform human language for one another.
 
 {blockquote}
-*’Twas brillig, and the slithy toves       
-Did gyre and gimble in the wabe: 
-All mimsy were the borogoves,       
-And the mome raths outgrabe. 
-“Beware the Jabberwock, my son!       
-The jaws that bite, the claws that catch! 
-Beware the Jubjub bird, and shun       
-The frumious Bandersnatch!” 
+*’Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe:
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+“Beware the Jabberwock, my son!
+The jaws that bite, the claws that catch!
+Beware the Jubjub bird, and shun
+The frumious Bandersnatch!”
 – Jabberwocky, by Lewis Carroll*
 {/blockquote}
 
@@ -49,8 +49,7 @@ Our conclusion is that people are wrong when they don't know where they are in t
 *How would you describe the universe to a friend?*
 
 {width: 33%}
-![](resources/images/earth.png)
-
+![Our home, the Earth](resources/images/earth.png)
 
 This book is about learning, after all. We say things like "I learn new things every day!" but what does that really mean? Could you describe that to a computer? An alien?
 
@@ -69,7 +68,6 @@ It's a little universe where things exist and do things with other things. Seems
 - **Sense/Act** things. Whatever your little guy is, whether it's a little man or an imaginary potted plant they sense and/or act on their outside environment.
 - **Objects**. These are concepts that exist in this universe, whether they're solid things like a tree or conceptual things like your Sim having a new idea. Internal to a Sim, the object is always shifting depending on how they're changing over time. One day a word like "work" means going to school. Another day the same word "work" means going to be a plumber. Objects are always shifting internally. Externally, the same object can generate many senses. I see one side of the apple, you see another. Same object, difference in sensing.
 - **Rules**. All of this, these sense/act things and these objects, go together in certain ways. You can't stick a thought on top of a rock. If you drop things, they fall. The rules go on and on and they might change. Heck if I can tell you what they are. I'm not a programmer (for purposes of our thought experiment) I can't even tell you how the rules are constructed. I just know there rules about sense/act and objects and how they relate to one another.## Using the Ladder of Civilization
-
 
 These three categories of things in a universe keep popping up over and over again. There must be something to them. In fact, the first two have probably been written about by hundreds of really smart men over the centuries. We'll shorten them to Q, O, and R. (Q stands for ["Qualia"](https://en.wikipedia.org/wiki/Qualia). Long story.)
 
@@ -114,9 +112,9 @@ Broadly, there are three kinds of goals and associated social interactions we ca
 
 **Dialectic** is communication with intent to align language or discern truth. The ancient Greeks used a lot of dialectic, walking around in a small social group jointly considering what various things meant or implied. If you've ever watched a good science fiction TV show or movie, you're watching the dialectic. At some point our heroes, using logic, science, and reason, figure out that some of their assumptions about the universe are wrong. That slime mold, it was actually intelligent life! The dialectic doesn't involve true or false, good or bad. It's a group of people coming into alignment on terms such that an action of shared value can occur. We agree that slime mold is intelligent, therefor we're not going to set it on fire. We used the dialectic to explore ourselves and the universe around us and we all ended up in a useful spot we weren't in before. That's what it's for.
 
-![](resources/images/learning-starts-with-wrong-chart.png)
+![Wrong again!](resources/images/learning-starts-with-wrong-chart.png)
 
-Whenever you tell somebody they're wrong, you're using rhetoric. Your goal is to persuade them of their error. Both of you are engaging in the art form of spoken or written language. Both of you have one of these three goals, rhetoric, didactic, or dialectic. 
+Whenever you tell somebody they're wrong, you're using rhetoric. Your goal is to persuade them of their error. Both of you are engaging in the art form of spoken or written language. Both of you have one of these three goals, rhetoric, didactic, or dialectic.
 
 We know what kinds of communication we're using (language). We know our goals might be (rhetoric, didactic, or dialectic). We have context. We can talk about wrong or right, otherwise the word "wrong" doesn't have enough context to make any sense.
 
@@ -124,6 +122,7 @@ The worst mistake was skipping levels, so skipping levels constitutes our Sev 0 
 
 {height: 66%}
 ![You either don't know, can't know, or refuse to acknowledge that there is a journey from being-in-reality to understanding-reality](resources/images/errors-in-error-identification-sev-0.jpg)
+
 ## Living Loving Language - Epistemic Errors
 
 *You don't know that there are living-language-learning interaction levels.*
@@ -133,7 +132,7 @@ Epistemology is the study of knowing things. How do we know things? What does it
 Epistemic ignorance is not simply not-knowing something; that's just ignorance. Epistemic ignorance is not knowing (or caring) that there are things to know.
 
 {width: 33%}
-![](resources/images/wrong-about=wrong-acme-wile.jpg)
+![Best job ever - selling stuff for ACME](resources/images/wrong-about=wrong-acme-wile.jpg)
 
 {blockquote}
 Dear Sir,
@@ -156,6 +155,7 @@ Wile E. Coyote
 If a clown kicks the same dog every day for four years, then the dog sees a similar clown and bites him, do you proclaim that the the dog is wrong? Of course not. That would be applying levels of mutual cognizance to the interaction that are simply not appropriate. You're being wrong when you proclaim the type of wrongness you see. Once again, it doesn't matter who is wrong or right. We're talking about figuring out what kind of error you have before communicating it.
 
 Some examples:
+
 - Einstein saying "God doesn't play dice with the universe". It's a great quote, and it captures succinctly his point, but he is correcting colleagues in a way that there is no response to. What could they say, that god actually plays a lot of dice?
 - A doctor explains to a family that a certain kind of medical procedure is required for their child to save their life. The procedure only has a 10% chance of succeeding. They decide to trust in their faith instead of getting the procedure
 - An old man, feeling badly about an argument decades ago, sets off on a journey of hundreds of miles on his riding lawnmower in order to apologize
@@ -187,8 +187,7 @@ Most times for us regular folks it doesn't matter. Sometimes, though, it does.
 <!-- ![](resources/videos/python-shes-a-witch.mp4) -->
 
 {width: 33%}
-![](resources/images/monty-python-shes-a-witch.png)
-
+![She's a witch! Burn her!](resources/images/monty-python-shes-a-witch.png)
 
  {blockquote}
  Dear Gustoff, Village Leader In Charge Of Angry Mobs
@@ -202,8 +201,8 @@ Feathers also float, as do small bits of bread. The great tome of Toledo tells u
  Sincerely,Carrot-Nosed Kid Who Is Also Not A Witch
 {/blockquote}
 
-*(The logic here and in the accompanying movie clip is atrocious. Our email writer makes one logical fallacy after another as he points out what's wrong. But that's not his worst mistake! His mistake is not understanding the thing he's criticizing, the original scene. 
-Bedevere "teaches" the angry mob about the correct way to spot witches. Bedevere is appearing to be a teacher. Engaging in didactic, especially if the teacher is good, is a wonderful experience for the entire audience. He's asking questions back-and-forth with the crowd, as if they're all on a journey to "discover" whether she's a witch or not. He appears to be helping them. But what in fact he's doing is rhetoric: he's persuading the mob of his greatness and authority in all matters of science. The actual science or underlying reasons have nothing to do with anything. 
+*(The logic here and in the accompanying movie clip is atrocious. Our email writer makes one logical fallacy after another as he points out what's wrong. But that's not his worst mistake! His mistake is not understanding the thing he's criticizing, the original scene.
+Bedevere "teaches" the angry mob about the correct way to spot witches. Bedevere is appearing to be a teacher. Engaging in didactic, especially if the teacher is good, is a wonderful experience for the entire audience. He's asking questions back-and-forth with the crowd, as if they're all on a journey to "discover" whether she's a witch or not. He appears to be helping them. But what in fact he's doing is rhetoric: he's persuading the mob of his greatness and authority in all matters of science. The actual science or underlying reasons have nothing to do with anything.
 
 Our email writer will never ever get anywhere, poor logic or not, if he continues to attempt to use logic in a discussion that involves rhetoric. What Bevedere is actually doing and what he appears to be doing are two entirely separate things, whether Bedevere realizes it or not.  The Pythons knew this. There's a wonderful punchline at the end, where Bevedere has done such a great job of persuasion that the accused herself actually agrees she's probably a witch)*
 
@@ -275,6 +274,7 @@ Good projects have a dialectic that continues throughout all of development and 
 
 {height: 66%}
 ![Everybody agrees with one another about what they want, but what they want isn't a complete, consistent, computable formal system. SEV 4 errors are the second part of the work of ATDD/TDD](resouces/images/../../resources/images/errors-in-error-identification-sev-4.jpg)
+
 ## You Made a Mistake - Logic Errors
 
 *You've made some craftsmanship errors in the work you're doing.*
@@ -312,6 +312,3 @@ Assuming we're doing the dialectic, trying to have productive interactions to ma
 Errors in these categories are not errors, they're items in a to-do list.
 
 Now we have a working map. That gives us a better job description. Now that we know about finding mistakes and how they lead us to more work, we can talk about the day-to-day process of working, identifying problems, then fixing them.
-
-
-

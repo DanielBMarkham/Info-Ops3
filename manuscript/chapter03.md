@@ -3,7 +3,7 @@
 *An extended metaphor shining light on the problem of having to use humans in groups to agree on things that eventually need to be coded into a formal system.*
 
 {width: 66%}
-![](resources/images/weird-shell.jpg)
+![Weird pic, eh?](resources/images/weird-shell.jpg)
 
 Do you know about pi (π)? π is the ratio of a circle's circumference to its diameter. This ratio is the same for any circle. Pi is a neat little number most kids learn about in school. People have known about it for thousands of years, ever since we started drawing circles and doing math with them.
 
@@ -20,13 +20,14 @@ Here's a fun game: ask a friend what pi is.  Some people will say "3". Many have
 
 If you drew a number line, you could point to a specific location and say "this is two", but you can't point to a location and say "this is π". You might get pretty close. Sure, you might get close enough that nobody cares that you're off, but you'll never, ever have an integer number line where you can point to an irrational number and exactly nail where it is. One way of thinking of irrational numbers is that they exist "between" all the rational numbers we can construct and identify on the number line we all know and love. (In fact, for any two rational numbers, there are an infinite number of irrational numbers between the two. As it turns out, the integers and the rational numbers are probably much more ephemeral and non-existent than the irrationals, rationals are scattered like tiny little specks of a diamond on a beach full of sand, but that's a story for another day) [1]
 
-![](resources/images/digits-of-pi.gif)
+![I admit to nothing](resources/images/digits-of-pi.gif)
 
 Because of that, when you ask somebody what π is, and they recite a bunch of digits or give you a fraction? They're wrong. In fact, whatever they say is wrong. It's impossible to express π as a number, ratio, or finite series of digits. Even that friend of mine who knows π out to 100 digits is wrong. The digits keep going after that, out to infinity. You might say he's less wrong than my other friend who just uses 22/7, but for all practical purposes, perhaps if we were engaged in some backyard project, all of these answers are good enough to work. In fact, using the 100-digit version of pi is much more of a hindrance in real life than just using something like 22/7. It's much more precise but extremely less useful in the practical world. Hell, 3 is probably good enough for most situations you'll run into.
 
 ![Early in history, geometry allowed us to construct the general location of some irrationals on the number line, but good luck figuring out exactly what the number is. An apocryphal story says that the Greek mathematician who discovered irrational numbers was taken out in a boat and tossed into the sea, where he could never pollute young minds again. For a thousand years or more, we constructed and used irrationals, but nobody dared mention them. The situation was truly "irrational" [2]](resources/images/representing-irrationals-on-the-number-line.jpg)
 
 ## Say Hello to your Little Friend: Your Brain
+
 You can't observe your own brain. You can't observe other people's brains, either, or even reason about brains, without using a brain yourself. This has caused all sorts of problems throughout the centuries and generally the use of brains have been avoided for that reason.
 
 ![Mmmmm. Pie.](resources/images/say-hello-to-your-little-friend-your-brain.png)
@@ -93,7 +94,7 @@ These statements of inequality join up in an "and" or intersection arrangement. 
 
 Where's the square root of 3? Somewhere between the square root of 2 and the square root of 5. You don't have to hit those numbers exactly, just exclude all of those areas I've excluded and we're 99% closer to the answer. We talk. We repeat and rinse until it doesn't matter anymore. Magic.
 
-![](resources/images/2019-08-14-backyard-sunrise.jpg)
+![Taken during a recent vacation where this exact interaction happened](resources/images/2019-08-14-backyard-sunrise.jpg)
 
 ## The Pier
 
@@ -163,9 +164,7 @@ This concept will take us to pivot questions in our section about social learnin
 
 1. umbers are a hella lot more than simply 1, 2, 3, 4 ... Things get fun quickly. There are infinitely more rationals than integers, and there are infinitely more integers than rationals. You can begin your wonder-filled journey with the mathematics of infinities here. Tell aleph I said howdy. If you ask me, somebody should have warned us about this in school.
 2. If you'd like to spend some time online diving into some rabbit holes full of crazy-as-shit people, take a look around at what they've done to irrationals, most significantly the Golden Ratio, or φ. The lead picture for this essay was lifted from a page titled "The Golden Ratio, the Sacred Number Found Everywhere in Nature and Society". You haven't lived until you've gandered at this insane pitch deck they gave to Pepsi saying that Pepsi basically was the golden ratio, god, the universe, life, and the source of all goodness. Remember, as Richard Pryor said, cocaine is God's way of telling you that you make too much fucking money. Here's another great rant on this subject from a mathematician.
-
-In its defense, the Golden Ratio is known as one of a few "Celebrity Irrationals" because they keep popping up everywhere. And the Golden Ratio is the most irrational of the irrationals, so it's no wonder it fucks with people's brains. Still, I can't help but think that those ancient Greeks that tossed that guy overboard might have been on to something.
-
+   1. In its defense, the Golden Ratio is known as one of a few "Celebrity Irrationals" because they keep popping up everywhere. And the Golden Ratio is the most irrational of the irrationals, so it's no wonder it fucks with people's brains. Still, I can't help but think that those ancient Greeks that tossed that guy overboard might have been on to something.
 3. We know shockingly little about the brain, as much as many of us would like to think otherwise. If you'd like to spend some time having a "what the hell is wrong with science" tour, fMRI research is a good place to start.
 4. I came at this topic originally from a philosophical standpoint, but the science is catching up. This is one of those things that scientists can physically observe happening, but we just don't know why it happens. The mechanics are called "Representational Drift"
 5. Your memory is completely unreliable. When you remember something, you're actually remembering the last time you remembered the event. Courtroom eyewitness testimony, while held up as the golden standard, is actually a Very. Bad. Thing.
@@ -178,4 +177,3 @@ In its defense, the Golden Ratio is known as one of a few "Celebrity Irrationals
 > **ERRATA**: Rationals and Integers have the same cardinality! It seems my memory of infinities does match up with the subject itself. Since it's a major part of the metaphor, I'm leaving it in and will fix it up when this text makes it to the book. I also misquoted Pi in my "correction" later in the essay! I find this to be a beautiful error: all too human and exactly indicative of the topic at hand. I'm leaving it in also. There are a couple of other grammatical errors I'll catch on the rewrite. Also of note: The great idea of Kant's 3rd Critique, which Kant couldn't quite handle, is that the conditions for putting stuff into words can't be put into words. I should include this perhaps on the rewrite as well, although there are so many prominent western philosophers who make the same point in various ways, e.g. Socrates' refusal to write anything down, that limiting the scope of these essays is always a challenge. DM 2021-06-20
 
 P.S. Just ran across a great essay along these lines, ["Indescribable Numbers"](https://blog.ram.rachum.com/post/54747783932/indescribable-numbers-the-theorem-that-made-me)
-

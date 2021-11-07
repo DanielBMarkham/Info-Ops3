@@ -91,7 +91,6 @@ Thinking about learning from the outside, those three forms of reasoning describ
 - Carrot/Stick
 - Creation and comparison of abstract models
 
-
 There's a heavy dose of recursion implied in this list. Recursion accounts for a lot of the missing pieces that would otherwise be listed. Recursion wreaks havoc with a lot of folks. It causes all sorts of problems, like the mind-body problem or the hard problem of consciousness. We're okay with those problems, however. We don't care. We're not trying to explain or diagram how reality works. We're sketching something on a napkin that will get us a little farther along down the road. We back away from the problem in this way in order to take the contradictions out, while leaving some good nuggets of insight to mine later.
 
 ## Learning from the Inside

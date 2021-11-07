@@ -11,7 +11,7 @@ Not only do you learn as you go along, managing what time you spend on what, you
 ## Survival Drives Focus
 
 {width: 66%}
-![](resources/images/levels-boyd-ooda.jpg)
+![OODA](resources/images/levels-boyd-ooda.jpg)
 
 Is there a system for being a good fighter pilot? You might think that with the requirement that fighter pilots act almost instantly, engage in super-complex continuous maneuvers in multiple dimensions that the idea of having a "process" wouldn't work at all.
 

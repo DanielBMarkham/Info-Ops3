@@ -7,7 +7,7 @@ When we looked at management, we found that a productive way of seeing that acti
 That makes sense because so much of learning is filling in the gaps after we recognize them. How do we recognize them? Through stress.
 
 {width: 33%}
-![](resources/images/plants-learning.jpg)
+![Jump boy, jump!](resources/images/plants-learning.jpg)
 
 ## Learning Always Happens Through Stress
 
@@ -34,7 +34,7 @@ When I was in basic training, the DIs told us that back in the day, they used to
 They stopped doing that, they said, not because the job had gotten softer, but because they wanted us to be the best learners possible. I remember one DI saying "I can beat a dog into doing whatever I want, but I've accomplished nothing except teach the dog fear and responses. What I want you guys to do is find it inside yourself to want to learn these things. I can't give you the internal drive you need to succeed. It has to come from inside."
 
 {width: 33%}
-![](resources/images/fractal-circle.jpg)
+![Whoa, dude. Cosmic.](resources/images/fractal-circle.jpg)
 
 ## Avoiding Social Stress
 
@@ -55,7 +55,7 @@ Likewise, many of the terms we're using are good enough for conversation, just n
 We're going to accept being wrong and work through it.
 
 {width: 33%}
-![](resources/images/baby-girl-clipart.png)
+![Rule Number One: Keep the Baby Happy](resources/images/baby-girl-clipart.png)
 
 ## Using Careful Introspection About Our Stress-Response System
 
@@ -79,4 +79,3 @@ Whether it's machine learning, organizational learning, startups, or human learn
 So to begin our journey, before we do anything else, we're going to have to talk about being wrong: In popular English, instead of saying "I was wrong", we can say screwing up, striking out, eating dirt, going down in flames. (We have so many different euphemisms for being wrong. There's a reason for that.)
 
 So it's being wrong, then feedback loops, then finally a look at cognition and consciousness. While we do that, we'll bounce around from experience to behaviors to details at scale. We'll still be wrong, but like the baby crying and then getting fed, we'll be wrong and happier. Then we're ready to start talking about learning at scale. If we do it right this'll allow us to accomplish a lot we couldn't otherwise.
-
